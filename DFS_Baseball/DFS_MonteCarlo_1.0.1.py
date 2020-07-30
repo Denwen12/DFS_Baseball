@@ -15,6 +15,7 @@ clock2 = time.strftime('%Y-%m-%d')
 # ____________________________________________________________________________ import fanduel data
 csv = glob.glob('/Users/ryangerda/PycharmProjects/DFS_Baseball/Data/FanDuel-MLB-' + str(clock2) + '*.csv')
 fd = pd.read_csv(csv[0])
+fd = fd[~fd['Injury Indicator'].isin(['IL','DTD','NA'])]
 # ____________________________________________________________________________ import player event data '18 & '19
 path = '/Users/ryangerda/PycharmProjects/DFS_Baseball/Data/playing-2019.csv'
 pl = pd.read_csv(path)
@@ -38,7 +39,7 @@ except:
     teams = list(range(1,31))
     master = pd.DataFrame()
     for i in teams:
-        time.sleep(3)
+        time.sleep(2)
         for g in groups:
             time.sleep(3)
             data = []
@@ -108,12 +109,12 @@ print('data cleaned')
 total = 100000
 x = 1
 total_df = pd.DataFrame()
-while x <= 5000:
+while x <= 10000:
     # ____________________________________________________________________________ Create Random Outcomes
     slate3 = slate2.copy()
     slate3['RV'] = np.random.normal(loc=slate3['FanDuel'], scale=slate3['std'])
     slate3['RV'] = np.where(slate3['RV'] < 0, 0, slate3['RV'])
-    slate3['RV'] = np.where((slate3['Pos'] == 'P')&(slate3['FanDuel'] < 10), 0, slate3['RV'])
+    slate3['RV'] = np.where((slate3['Pos'] == 'P') & (slate3['FanDuel'] < 10), 0, slate3['RV'])
     # ____________________________________________________________________________ Define Problem
     prob = LpProblem("DFS_Lineup",LpMaximize)
     player_items = list(slate3['Name'])
@@ -137,12 +138,12 @@ while x <= 5000:
     # ____________________________________________________________________________ Lineup Build
     catchers = slate3[slate3['Pos'] == 'C']
     catchers = catchers['Name'].to_list()
-    prob += lpSum([player_chosen[p] for p in catchers]) >= 1
+    prob += lpSum([player_chosen[p] for p in catchers]) >= 0
     prob += lpSum([player_chosen[p] for p in catchers]) <= 2
 
     b1 = slate3[slate3['Pos'] == '1B']
     b1 = b1['Name'].to_list()
-    prob += lpSum([player_chosen[p] for p in b1]) >= 1
+    prob += lpSum([player_chosen[p] for p in b1]) >= 0
     prob += lpSum([player_chosen[p] for p in b1]) <= 2
 
     b2 = slate3[slate3['Pos'] == '2B']
@@ -198,8 +199,9 @@ while x <= 5000:
     output = pd.merge(df,slate3,how='left',on='Name')
     output = output.append(round(output.sum(numeric_only=True),2), ignore_index=True)
     output['Rank'] = x
+    print(output[['Name', 'Pos', 'Team', 'Game', 'RV', 'Salary', 'FanDuel']])
+    print(x)
     x = x + 1
-    print(output[['Name','Pos','Team','Game','RV','Salary','FanDuel']])
     total = output['RV'][0:9].sum()
     dist.append(round(total))
     total_df = total_df.append(output[0:9])
