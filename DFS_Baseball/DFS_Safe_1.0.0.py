@@ -60,6 +60,7 @@ except:
     master['Name'] = np.where(master['Name'] == 'Cedric Mullins II','Cedric Mullins',master['Name'])
     master = pd.merge(master,fd[['Nickname','Salary','Injury Indicator']],how='left',left_on='Name',right_on='Nickname')
     slate = master[master['Salary'].notna()]
+    slate['Name'] = slate['Name'].str.replace(' Jr.', '')
 
 
 print('data cleaned')

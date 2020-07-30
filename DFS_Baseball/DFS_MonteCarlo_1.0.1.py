@@ -6,6 +6,7 @@ from bs4 import BeautifulSoup
 import requests
 import glob
 import pybaseball
+
 # ____________________________________________________________________________ start clock
 start_time = time.time()
 clock = time.strftime('%x')
@@ -93,36 +94,38 @@ except:
     # ____________________________________________________________________________ Import STDs
     slate1 = pd.merge(slate,players[['Name','PLAYERID']],how='left',on='Name')
     slate2 = pd.merge(slate1,bat,how='left',left_on='PLAYERID',right_on='person.key')
-    slate2 = slate2.drop(slate2[(slate2['person.key'].isnull()) & (slate2['Pos'] != 'P')].index)
-    #slate2 = slate2[slate2['person.key'].notnull()]
+    slate2['count_bat'] = slate2.groupby('Name')['Name'].transform('count')
+    slate2 = slate2.drop(slate2[(slate2['person.key'].isnull()) & (slate2['Pos'] != 'P') & (slate2['count_bat'] > 1)].index)
     slate2 = pd.merge(slate2,pit,how='left',left_on='PLAYERID',right_on='person.key')
-    slate2 = slate2.drop(slate2[(slate2['person.key_y'].isnull()) & (slate2['Pos'] == 'P')].index)
+    slate2['count_pit'] = slate2.groupby('Name')['Name'].transform('count')
+    slate2 = slate2.drop(slate2[(slate2['person.key_y'].isnull()) & (slate2['Pos'] == 'P') & (slate2['count_pit'] > 1)].index)
     slate2['std'] = np.where(slate2['Pos'] == 'P',slate2['Score_P_std'],slate2['Score_B_std'])
     slate2['std'] = np.where(slate2['std'].isnull(),slate2['std'].mean(),slate2['std'])
+
 # ____________________
 dist = []
 print('data cleaned')
 total = 100000
 x = 1
 total_df = pd.DataFrame()
-while x <= 2:
+while x <= 5000:
+    # ____________________________________________________________________________ Create Random Outcomes
+    slate3 = slate2.copy()
+    slate3['RV'] = np.random.normal(loc=slate3['FanDuel'], scale=slate3['std'])
+    slate3['RV'] = np.where(slate3['RV'] < 0, 0, slate3['RV'])
+    slate3['RV'] = np.where((slate3['Pos'] == 'P')&(slate3['FanDuel'] < 10), 0, slate3['RV'])
     # ____________________________________________________________________________ Define Problem
     prob = LpProblem("DFS_Lineup",LpMaximize)
-    player_items = list(slate2['Name'])
-    points = dict(zip(player_items,slate2['FanDuel']))
-    cost = dict(zip(player_items,slate2['Salary']))
+    player_items = list(slate3['Name'])
+    points = dict(zip(player_items,slate3['RV']))
+    cost = dict(zip(player_items,slate3['Salary']))
     budget = 35000
     print('problem defined')
     # ____________________________________________________________________________ Constraints
     player_chosen = LpVariable.dicts("Player_Chosen",player_items,0,1,cat='Integer')
     prob += lpSum([points[i]*player_chosen[i] for i in player_items]), "Total Cost of Players"
     prob += lpSum([cost[f] * player_chosen[f] for f in player_items]) <= budget, "dollarMaximum"
-    #prob += lpSum([points[f] * player_chosen[f] for f in player_items]) <= (total - 0.01), "pointMaximum"
     print('constraints in place')
-    # ____________________________________________________________________________ Create Random Outcomes
-    slate3 = slate2.copy()
-    slate3['RV'] = np.random.normal(loc=slate3['FanDuel'], scale=slate3['std'])
-    slate3['RV'] = np.where(slate3['RV'] < 0, 0, slate3['RV'])
     # ____________________________________________________________________________ maximum players per team
     teams = slate3['Team'].unique().tolist()
     teams.sort()
@@ -196,15 +199,17 @@ while x <= 2:
     output = output.append(round(output.sum(numeric_only=True),2), ignore_index=True)
     output['Rank'] = x
     x = x + 1
-    print(output[['Name','Pos','Team','Game','FanDuel','Salary','RV']])
-    total = output['FanDuel'][0:9].sum()
-    dist.append(total)
+    print(output[['Name','Pos','Team','Game','RV','Salary','FanDuel']])
+    total = output['RV'][0:9].sum()
+    dist.append(round(total))
     total_df = total_df.append(output[0:9])
 # ____________________________________________________________________________ write to excel
+some_df = total_df[['Name', 'Team', 'Game', 'Pos', 'PA', 'H', '1B', '2B', '3B', 'HR', 'R',
+       'RBI', 'SB', 'CS', 'BB', 'SO', 'FanDuel', 'W','IP', 'TBF', 'Nickname', 'Salary', 'Injury Indicator', 'PLAYERID', 'std', 'RV','Rank']]
 writer = pd.ExcelWriter("DFS_Lineup_" + str(clock) + ".xlsx", engine='xlsxwriter')
 output.to_excel(writer, sheet_name='output', index=False)
 slate2.to_excel(writer, sheet_name='slate', index=False)
-total_df.to_excel(writer, sheet_name='total_df', index=False)
+some_df.to_excel(writer, sheet_name='total_df', index=False)
 writer.save()
 # ____________________________________________________________________________ final
 print("--- %s minutes ---" % round((time.time() - start_time)/60,3))

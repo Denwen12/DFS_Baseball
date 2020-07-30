@@ -105,14 +105,15 @@ clock2 = clock.replace("/","-")
 csv = "/Users/ryangerda/PycharmProjects/DFS_Baseball/Data/FanDuel-MLB-2020-07-28-47316-players-list.csv"
 fd = pd.read_csv(csv)
 
-slate['Name'] = slate['Name'].str.replace(' Jr.','')
+#slate['Name'] = slate['Name'].str.replace(' Jr.','')
 csv = '/Users/ryangerda/PycharmProjects/DFS_Baseball/Data/Retrosheet_players.csv'
-players = pd.read_csv(csv,',')#,usecols=['PLAYERID','LAST','NICKNAME','PLAY DEBUT','MGR DEBUT','COACH DEBUT','UMP DEBUT'])
+players = pd.read_csv(csv,',')
 players = players['PLAYERID,LAST,NICKNAME,PLAY DEBUT,MGR DEBUT,COACH DEBUT,UMP DEBUT,'].str.split(',', expand=True)
 players.columns = ['PLAYERID','LAST','NICKNAME','PLAY DEBUT','MGR DEBUT','COACH DEBUT','UMP DEBUT','BLANK']
 del players['BLANK']
 players['Name'] = players['NICKNAME'] + ' ' + players['LAST']
 players['Name'] = players['Name'].str.replace(' Jr.','')
+
 slate1 = pd.merge(slate,players[['Name','PLAYERID']],how='left',on='Name')
 slate1['PLAYERID'].isnull().sum()
 #slate1 = slate1[slate1['PLAYERID'].isnull()]
