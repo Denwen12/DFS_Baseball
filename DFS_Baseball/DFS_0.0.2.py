@@ -14,9 +14,9 @@ groups = ['bat','pit']
 teams = list(range(1,31))
 master = pd.DataFrame()
 for i in teams:
-    time.sleep(5)
+    time.sleep(1)
     for g in groups:
-        time.sleep(6)
+        time.sleep(1)
         data = []
         headings = None
         stats_url = "https://www.fangraphs.com/dailyprojections.aspx?pos=all&stats=" + str(g) + "&type=sabersim&team=" + str(i) + "&lg=all&players=0"
@@ -54,12 +54,13 @@ master['Name'] = np.where(master['Name'] == 'Cedric Mullins II','Cedric Mullins'
 
 
 
-csv = "/Users/ryangerda/PycharmProjects/DFS_Baseball/Data/FanDuel-MLB-2020-07-26-47229-players-list.csv"
+csv = "/Users/ryangerda/PycharmProjects/DFS_Baseball/Data/FanDuel-MLB-2020-07-27-47264-players-list.csv"
 fd = pd.read_csv(csv)
 master = pd.merge(master,fd[['Nickname','Salary','Injury Indicator']],how='left',left_on='Name',right_on='Nickname')
 slate = master[master['Salary'].notna()]
+
 """
-path = "/Users/ryangerda/PycharmProjects/DFS_Baseball/DFS_Baseball/DFS_Lineup_07_26_20.xlsx"
+path = "/Users/ryangerda/PycharmProjects/DFS_Baseball/DFS_Baseball/DFS_Lineup_07_27_20.xlsx"
 slate = pd.read_excel(path,sheet_name='slate')
 
 teams = slate['Team'].unique().tolist()
@@ -140,9 +141,10 @@ print("Lineup Status:", LpStatus[prob.status])
 print("The optimal lineup consists of\n"+"-"*100)
 appended_data = []
 for v in prob.variables():
-    if v.varValue > 0 and v.name[0] == 'P':
-        y = str(v.name)
-        appended_data.append(y)
+    if v.varValue != None:
+        if v.varValue > 0 and v.name[0] == 'P':
+            y = str(v.name)
+            appended_data.append(y)
 
 df = pd.DataFrame(appended_data)
 df = df.replace({'Player_Chosen_':''}, regex = True)
