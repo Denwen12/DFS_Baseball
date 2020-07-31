@@ -6,6 +6,7 @@ from bs4 import BeautifulSoup
 import requests
 import glob
 import pybaseball
+import seaborn as sns
 
 # ____________________________________________________________________________ start clock
 start_time = time.time()
@@ -31,3 +32,12 @@ teams = total['Team'].value_counts()
 pos = total['Pos'].value_counts()
 
 print("--- %s minutes ---" % round((time.time() - start_time)/60,3))
+
+1583
+
+6495
+
+1032
+
+sano
+

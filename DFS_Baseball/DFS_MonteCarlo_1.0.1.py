@@ -76,7 +76,7 @@ except:
     master['Name'] = np.where(master['Name'] == 'Nicholas Castellanos','Nick Castellanos',master['Name'])
     master['Name'] = np.where(master['Name'] == 'Cedric Mullins II','Cedric Mullins',master['Name'])
     master = pd.merge(master,fd[['Nickname','Salary','Injury Indicator']],how='left',left_on='Name',right_on='Nickname')
-    slate = master[master['Salary'].notna()]
+    slate = master[master['Salary'].notna()].copy()
     slate['Name'] = slate['Name'].str.replace(' Jr.', '')
     # ____________________________________________________________________________ clean player event data
     bat = pl[pl['B_PA'] >= 3]
