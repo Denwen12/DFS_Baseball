@@ -1,285 +1,308 @@
 \* DFS_Lineup *\
 Maximize
-Total_Cost_of_Players: 25.7740187654 Player_Chosen_A.J._Pollock
- + 18.7930750682 Player_Chosen_Aaron_Hicks
- + 13.0185091839 Player_Chosen_Aaron_Judge
- + 9.28893199834 Player_Chosen_Adam_Duvall
- + 0.062006307806 Player_Chosen_Albert_Pujols
- + 30.6357957148 Player_Chosen_Alex_Dickerson
- + 7.57266280781 Player_Chosen_Alex_Gordon
- + 18.6495201468 Player_Chosen_Alex_Verdugo
- + 14.2537349879 Player_Chosen_Amed_Rosario
- + 18.2204412827 Player_Chosen_Andrew_Benintendi
- + 15.4527159056 Player_Chosen_Anthony_Rendon
- + 7.71514133877 Player_Chosen_Anthony_Santander
- + 23.8829717399 Player_Chosen_Austin_Hays
- + 4.45008162088 Player_Chosen_Austin_Romine
- + 15.1076541996 Player_Chosen_Bradley_Zimmer
- + 31.1434520601 Player_Chosen_Brady_Singer
- + 4.81339931883 Player_Chosen_Brandon_Belt
- + 4.35706160907 Player_Chosen_Brandon_Crawford
- + 12.344930069 Player_Chosen_Brandon_Lowe
- + 13.0531271111 Player_Chosen_Brandon_Nimmo
- + 18.8040989445 Player_Chosen_Brett_Phillips
- + 10.9952694152 Player_Chosen_Byron_Buxton
- + 23.8911737057 Player_Chosen_C.J._Cron
- + 5.81690425409 Player_Chosen_Cameron_Maybin
- + 28.3285221102 Player_Chosen_Carlos_Santana
- + 10.8938673819 Player_Chosen_Carson_Kelly
- + 5.34715364532 Player_Chosen_Cedric_Mullins
- + 4.64364745854 Player_Chosen_Cesar_Hernandez
- + 3.86025777604 Player_Chosen_Chris_Taylor
- + 4.32955714448 Player_Chosen_Christian_Vazquez
- + 9.23114360955 Player_Chosen_Christian_Walker
- + 16.9960089742 Player_Chosen_Christin_Stewart
- + 14.0807905535 Player_Chosen_DJ_LeMahieu
- + 0.881725329615 Player_Chosen_Daniel_Vogelbach
- + 9.52085836633 Player_Chosen_Dansby_Swanson
- + 6.81221403211 Player_Chosen_David_Fletcher
- + 21.1394855181 Player_Chosen_David_Peralta
- + 14.5909181775 Player_Chosen_Dinelson_Lamet
- + 12.5669708984 Player_Chosen_Domingo_Santana
- + 3.85028693631 Player_Chosen_Donovan_Solano
- + 24.8938641031 Player_Chosen_Dwight_Smith
- + 22.9205131207 Player_Chosen_Dylan_Bundy
- + 11.8828506375 Player_Chosen_Eduardo_Escobar
- + 6.03135000422 Player_Chosen_Evan_White
- + 10.9474486054 Player_Chosen_Fernando_Tatis
- + 18.8129147055 Player_Chosen_Franchy_Cordero
- + 8.41022007373 Player_Chosen_Francisco_Lindor
- + 42.9722402585 Player_Chosen_Franmil_Reyes
- + 17.4393992921 Player_Chosen_Gary_Sanchez
- + 6.74279209838 Player_Chosen_Giancarlo_Stanton
- + 19.6622638108 Player_Chosen_Hanser_Alberto
- + 4.22035473208 Player_Chosen_Harold_Castro
- + 14.1813955746 Player_Chosen_Hunter_Renfroe
- + 12.2610017485 Player_Chosen_Ivan_Nova
- + 28.111253831 Player_Chosen_J.A._Happ
- + 42.9045416572 Player_Chosen_J.D._Martinez
- + 2.32502107397 Player_Chosen_J.P._Crawford
- + 14.6905470481 Player_Chosen_JaCoby_Jones
- + 7.41375064892 Player_Chosen_Jake_Lamb
- + 9.79301876137 Player_Chosen_Jeimer_Candelario
- + 18.9905074824 Player_Chosen_Joey_Wendle
- + 23.0590903347 Player_Chosen_Johan_Camargo
- + 22.6932062812 Player_Chosen_John_Means
- + 13.644138608 Player_Chosen_Jonathan_Schoop
- + 14.3055054194 Player_Chosen_Jorge_Polanco
- + 40.7005798183 Player_Chosen_Jose_Berrios
- + 1.56887226155 Player_Chosen_Jose_Marmolejos
- + 7.20537478403 Player_Chosen_Jose_Martinez
- + 22.2225849468 Player_Chosen_Jose_Peraza
- + 25.8413710623 Player_Chosen_Jose_Ramirez
- + 23.5702322976 Player_Chosen_Josh_Donaldson
- + 10.1069047296 Player_Chosen_Josh_Naylor
- + 34.3315063941 Player_Chosen_Jurickson_Profar
- + 34.6625290384 Player_Chosen_Justin_Turner
- + 6.67565220516 Player_Chosen_Justin_Upton
- + 10.0746578994 Player_Chosen_Ketel_Marte
- + 5.54824445583 Player_Chosen_Kevin_Pillar
- + 10.1302246788 Player_Chosen_Kole_Calhoun
- + 7.50407948168 Player_Chosen_Kyle_Lewis
- + 13.3341457697 Player_Chosen_Kyle_Seager
- + 11.5774076514 Player_Chosen_Luis_Arraez
- + 24.5762328098 Player_Chosen_Luke_Voit
- + 1.19663605922 Player_Chosen_Maikel_Franco
- + 7.61687624585 Player_Chosen_Mallex_Smith
- + 1.94197922842 Player_Chosen_Manny_Machado
- + 21.3793752692 Player_Chosen_Manuel_Margot
- + 7.41130767178 Player_Chosen_Marcell_Ozuna
- + 8.91939169027 Player_Chosen_Marco_Gonzales
- + 7.10553214601 Player_Chosen_Max_Fried
- + 12.9303645429 Player_Chosen_Max_Kepler
- + 7.6123538718 Player_Chosen_Max_Muncy
- + 1.6209216478 Player_Chosen_Max_Stassi
- + 2.55373363036 Player_Chosen_Michael_Chavis
- + 10.3693772469 Player_Chosen_Michael_Conforto
- + 16.2740437467 Player_Chosen_Miguel_Andujar
- + 4.82310931154 Player_Chosen_Miguel_Cabrera
- + 30.2862935224 Player_Chosen_Miguel_Sano
- + 17.1457141298 Player_Chosen_Mike_Brosseau
- + 14.7976262972 Player_Chosen_Mike_Trout
- + 11.3300002566 Player_Chosen_Mike_Yastrzemski
- + 2.34093747978 Player_Chosen_Mike_Zunino
- + 11.7560596565 Player_Chosen_Mitch_Garver
- + 35.1749618129 Player_Chosen_Mookie_Betts
- + 4.83063151993 Player_Chosen_Nick_Ahmed
- + 18.0751393483 Player_Chosen_Oscar_Mercado
- + 9.96200651502 Player_Chosen_Ozzie_Albies
- + 2.61835886148 Player_Chosen_Pablo_Sandoval
- + 9.14342249184 Player_Chosen_Pat_Valaika
- + 17.88998518 Player_Chosen_Pedro_Severino
- + 24.1644673122 Player_Chosen_Pete_Alonso
- + 18.5885813148 Player_Chosen_Renato_Nunez
- + 23.0572732919 Player_Chosen_Rio_Ruiz
- + 20.6853370312 Player_Chosen_Robbie_Ray
- + 28.892960568 Player_Chosen_Ronald_Acuna
- + 28.5006700783 Player_Chosen_Ross_Stripling
- + 11.8955817757 Player_Chosen_Ryan_O'Hearn
- + 14.4141228567 Player_Chosen_Ryan_Yarbrough
- + 28.3663510259 Player_Chosen_Salvador_Perez
- + 22.6481219754 Player_Chosen_Sandy_Leon
- + 30.2936224899 Player_Chosen_Shane_Bieber
- + 7.15477159029 Player_Chosen_Shohei_Ohtani
- + 5.28143530294 Player_Chosen_Steven_Matz
- + 2.39952277728 Player_Chosen_Taylor_Ward
- + 3.75279854064 Player_Chosen_Tommy_La_Stella
- + 27.740794699 Player_Chosen_Tommy_Pham
- + 5.95675263548 Player_Chosen_Trent_Grisham
- + 9.99355425546 Player_Chosen_Tyler_Flowers
- + 6.47305761442 Player_Chosen_Tyler_Heineman
- + 8.7036852479 Player_Chosen_Whit_Merrifield
- + 5.48750006627 Player_Chosen_Wil_Myers
- + 16.5462804311 Player_Chosen_Will_Smith
- + 15.9157387966 Player_Chosen_Willy_Adames
- + 4.79355442519 Player_Chosen_Wilson_Ramos
- + 23.2019700367 Player_Chosen_Yandy_Diaz
- + 18.8921598897 Player_Chosen_Yoenis_Cespedes
+Total_Cost_of_Players: 3.69 Player_Chosen_A.J._Minter
+ + 10.05 Player_Chosen_A.J._Pollock + 0.2 Player_Chosen_Aaron_Bummer
+ + 10.65 Player_Chosen_Aaron_Hicks + 13.49 Player_Chosen_Aaron_Judge
+ + 7.69 Player_Chosen_Abraham_Almonte + 8.54 Player_Chosen_Adalberto_Mondesi
+ + 7.41 Player_Chosen_Adam_Engel + 7.3 Player_Chosen_Adam_Haseley
+ + 1.39 Player_Chosen_Adam_Morgan + 0.03 Player_Chosen_Adrian_Houser
+ + 23.08 Player_Chosen_Alec_Mills + 3.75 Player_Chosen_Alex_Claudio
+ + 0.29 Player_Chosen_Alex_Colome + 15.54 Player_Chosen_Alex_Dickerson
+ + 9.21 Player_Chosen_Alex_Gordon + 8 Player_Chosen_Amed_Rosario
+ + 7.69 Player_Chosen_Andres_Gimenez + 9.44 Player_Chosen_Andrew_McCutchen
+ + 0.72 Player_Chosen_Anthony_Misiewicz + 13.39 Player_Chosen_Anthony_Rizzo
+ + 7.14 Player_Chosen_Austin_Hedges + 8.75 Player_Chosen_Austin_Nola
+ + 10.07 Player_Chosen_Avisail_Garcia + 7.5 Player_Chosen_Ben_Gamel
+ + 1.09 Player_Chosen_Blake_Treinen + 4.67 Player_Chosen_Bobby_Wahl
+ + 0.01 Player_Chosen_Brady_Singer + 14.44 Player_Chosen_Brandon_Belt
+ + 11.72 Player_Chosen_Brandon_Crawford + 11.15 Player_Chosen_Brandon_Nimmo
+ + 0.01 Player_Chosen_Brandon_Woodruff + 2.25 Player_Chosen_Brent_Suter
+ + 20.35 Player_Chosen_Brett_Anderson + 9.3 Player_Chosen_Brett_Gardner
+ + 9.28 Player_Chosen_Brett_Phillips + 0.71 Player_Chosen_Brusdar_Graterol
+ + 10.76 Player_Chosen_Bryan_Reynolds + 1.67 Player_Chosen_Bryan_Shaw
+ + 10.92 Player_Chosen_Bryce_Harper + 4.22 Player_Chosen_Burch_Smith
+ + 10.7 Player_Chosen_Byron_Buxton + 2.74 Player_Chosen_Cal_Quantrill
+ + 4.34 Player_Chosen_Caleb_Baragar + 4.68 Player_Chosen_Caleb_Ferguson
+ + 5.3 Player_Chosen_Carl_Edwards + 0.15 Player_Chosen_Carlos_Estevez
+ + 26.94 Player_Chosen_Carlos_Rodon + 2.63 Player_Chosen_Chad_Green
+ + 10.61 Player_Chosen_Chad_Pinder + 14.64 Player_Chosen_Charlie_Blackmon
+ + 0.67 Player_Chosen_Chasen_Shreve + 12.62 Player_Chosen_Chi_Chi_Gonzalez
+ + 0.14 Player_Chosen_Chris_Bassitt + 0.59 Player_Chosen_Chris_Martin
+ + 9.08 Player_Chosen_Chris_Owings + 24.03 Player_Chosen_Chris_Paddack
+ + 4.5 Player_Chosen_Chris_Stratton + 8.8 Player_Chosen_Chris_Taylor
+ + 11.36 Player_Chosen_Christian_Yelich + 0.01 Player_Chosen_Codi_Heuer
+ + 13.11 Player_Chosen_Cody_Bellinger + 3.63 Player_Chosen_Cody_Stashak
+ + 3.17 Player_Chosen_Cole_Irvin + 9.39 Player_Chosen_Cole_Tucker
+ + 5.01 Player_Chosen_Conner_Menez + 0.01 Player_Chosen_Corbin_Burnes
+ + 0.36 Player_Chosen_Corey_Knebel + 9.76 Player_Chosen_Corey_Seager
+ + 0.79 Player_Chosen_Craig_Kimbrel + 3.9 Player_Chosen_Craig_Stammen
+ + 10.75 Player_Chosen_DJ_LeMahieu + 0.03 Player_Chosen_Dallas_Keuchel
+ + 0.2 Player_Chosen_Dan_Altavilla + 4.3 Player_Chosen_Dan_Winkler
+ + 4.28 Player_Chosen_Daniel_Bard + 12.08 Player_Chosen_Daniel_Murphy
+ + 10.01 Player_Chosen_Daniel_Vogelbach + 19.48 Player_Chosen_Danny_Duffy
+ + 7.36 Player_Chosen_Dansby_Swanson + 6.06 Player_Chosen_Darren_O'Day
+ + 0.01 Player_Chosen_David_Bednar + 10.67 Player_Chosen_David_Bote
+ + 14.47 Player_Chosen_David_Dahl + 3.69 Player_Chosen_David_Hale
+ + 0.01 Player_Chosen_David_Peterson + 6.37 Player_Chosen_David_Phelps
+ + 2.64 Player_Chosen_Dellin_Betances + 0.01 Player_Chosen_Dennis_Santana
+ + 4.48 Player_Chosen_Deolis_Guerra + 15.28 Player_Chosen_Derek_Holland
+ + 0.02 Player_Chosen_Devin_Smeltzer + 3.67 Player_Chosen_Devin_Williams
+ + 9.59 Player_Chosen_Didi_Gregorius + 4.84 Player_Chosen_Dillon_Maples
+ + 0.02 Player_Chosen_Dinelson_Lamet + 9.36 Player_Chosen_Dominic_Smith
+ + 13.28 Player_Chosen_Donovan_Solano + 3.99 Player_Chosen_Dovydas_Neverauskas
+ + 2.21 Player_Chosen_Drew_Pomeranz + 1.98 Player_Chosen_Drew_Smith
+ + 0.87 Player_Chosen_Duane_Underwood + 0.01 Player_Chosen_Dustin_May
+ + 3.62 Player_Chosen_Dylan_Floro + 0.43 Player_Chosen_Edwin_Diaz
+ + 8.95 Player_Chosen_Ehire_Adrianza + 10.49 Player_Chosen_Eloy_Jimenez
+ + 0.22 Player_Chosen_Emilio_Pagan + 7.44 Player_Chosen_Ender_Inciarte
+ + 0.01 Player_Chosen_Eric_Lauer + 0.76 Player_Chosen_Eric_Yardley
+ + 6.9 Player_Chosen_Erik_Gonzalez + 13.51 Player_Chosen_Evan_Longoria
+ + 2.8 Player_Chosen_Evan_Marshall + 9.36 Player_Chosen_Evan_White
+ + 10.86 Player_Chosen_Fernando_Tatis + 10.27 Player_Chosen_Franchy_Cordero
+ + 30.31 Player_Chosen_Frankie_Montas + 10.97 Player_Chosen_Freddie_Freeman
+ + 0.01 Player_Chosen_Freddy_Peralta + 3.64 Player_Chosen_Gabe_Speier
+ + 0.02 Player_Chosen_Garrett_Richards + 10.97 Player_Chosen_Gary_Sanchez
+ + 0.01 Player_Chosen_German_Marquez + 36.35 Player_Chosen_Gerrit_Cole
+ + 12.94 Player_Chosen_Giancarlo_Stanton + 0.01 Player_Chosen_Gio_Gonzalez
+ + 0.02 Player_Chosen_Grant_Dayton + 4.59 Player_Chosen_Greg_Holland
+ + 8.42 Player_Chosen_Guillermo_Heredia + 2.33 Player_Chosen_Hunter_Strickland
+ + 0.03 Player_Chosen_Ian_Hamilton + 10.4 Player_Chosen_Ian_Happ
+ + 0.25 Player_Chosen_Ian_Kennedy + 0.01 Player_Chosen_J.A._Happ
+ + 1.76 Player_Chosen_J.B._Wendelken + 10.11 Player_Chosen_J.D._Davis
+ + 9.24 Player_Chosen_J.P._Crawford + 0.02 Player_Chosen_J.P._Feyereisen
+ + 9.22 Player_Chosen_J.T._Realmuto + 4.6 Player_Chosen_Jace_Fry
+ + 8.92 Player_Chosen_Jacob_Stallings + 33.27 Player_Chosen_Jacob_deGrom
+ + 1.77 Player_Chosen_Jairo_Diaz + 18.07 Player_Chosen_Jake_Arrieta
+ + 10.77 Player_Chosen_Jake_Cave + 8.58 Player_Chosen_Jake_Cronenworth
+ + 0.01 Player_Chosen_Jake_McGee + 0.01 Player_Chosen_Jake_Newberry
+ + 8.37 Player_Chosen_James_McCann + 0.02 Player_Chosen_James_Paxton
+ + 4.22 Player_Chosen_James_Pazos + 9.59 Player_Chosen_Jason_Heyward
+ + 13.07 Player_Chosen_Javier_Baez + 9.87 Player_Chosen_Jay_Bruce
+ + 7.69 Player_Chosen_Jean_Segura + 9.64 Player_Chosen_Jedd_Gyorko
+ + 5.88 Player_Chosen_Jeremy_Jeffress + 0.01 Player_Chosen_Jesus_Luzardo
+ + 4.21 Player_Chosen_Jeurys_Familia + 0.01 Player_Chosen_Jhoulys_Chacin
+ + 3.1 Player_Chosen_Jimmy_Cordero + 11.76 Player_Chosen_Joc_Pederson
+ + 0.17 Player_Chosen_Joe_Kelly + 0.02 Player_Chosen_Joey_Lucchesi
+ + 7.61 Player_Chosen_Johan_Camargo + 15.47 Player_Chosen_Johnny_Cueto
+ + 0.01 Player_Chosen_Jon_Lester + 3.58 Player_Chosen_Jonathan_Holder
+ + 0.67 Player_Chosen_Jonathan_Loaisiga + 0.01 Player_Chosen_Jorge_Lopez
+ + 13.43 Player_Chosen_Jorge_Soler + 10.84 Player_Chosen_Jose_Abreu
+ + 0.24 Player_Chosen_Jose_Alvarez + 0.01 Player_Chosen_Jose_Berrios
+ + 8.5 Player_Chosen_Jose_Marmolejos + 10.92 Player_Chosen_Jose_Osuna
+ + 12.08 Player_Chosen_Josh_Bell + 0.98 Player_Chosen_Josh_Hader
+ + 0.01 Player_Chosen_Josh_Sborz + 3.92 Player_Chosen_Josh_Staumont
+ + 2.56 Player_Chosen_Josh_Tomlin + 0.01 Player_Chosen_Julio_Urias
+ + 7.68 Player_Chosen_Jurickson_Profar + 0.02 Player_Chosen_Justin_Dunn
+ + 0.01 Player_Chosen_Justin_Grimm + 9.49 Player_Chosen_Justin_Smoak
+ + 11.4 Player_Chosen_Justin_Turner + 3.32 Player_Chosen_Justin_Wilson
+ + 17.96 Player_Chosen_Justus_Sheffield + 0.32 Player_Chosen_Kenley_Jansen
+ + 0.01 Player_Chosen_Kenta_Maeda + 11.13 Player_Chosen_Keston_Hiura
+ + 0.01 Player_Chosen_Kevin_Gausman + 3.49 Player_Chosen_Kevin_McCarthy
+ + 10.28 Player_Chosen_Kevin_Newman + 12.49 Player_Chosen_Khris_Davis
+ + 0.66 Player_Chosen_Kirby_Yates + 14.52 Player_Chosen_Kris_Bryant
+ + 0.01 Player_Chosen_Kyle_Freeland + 0.01 Player_Chosen_Kyle_Hendricks
+ + 9.34 Player_Chosen_Kyle_Lewis + 0.23 Player_Chosen_Kyle_Ryan
+ + 12.24 Player_Chosen_Kyle_Schwarber + 10.01 Player_Chosen_Kyle_Seager
+ + 0.01 Player_Chosen_Kyle_Wright + 0.02 Player_Chosen_Kyle_Zimmer
+ + 7.39 Player_Chosen_Leury_Garcia + 22.64 Player_Chosen_Lewis_Thorpe
+ + 0.44 Player_Chosen_Liam_Hendriks + 0.03 Player_Chosen_Lucas_Giolito
+ + 11.69 Player_Chosen_Luis_Arraez + 0.13 Player_Chosen_Luis_Avilan
+ + 11.09 Player_Chosen_Luis_Robert + 4.95 Player_Chosen_Luke_Jackson
+ + 9.62 Player_Chosen_Maikel_Franco + 7.28 Player_Chosen_Mallex_Smith
+ + 9.79 Player_Chosen_Manny_Machado + 8.56 Player_Chosen_Manny_Pina
+ + 9.71 Player_Chosen_Marcell_Ozuna + 0.01 Player_Chosen_Marco_Gonzales
+ + 12.97 Player_Chosen_Marcus_Semien + 12.74 Player_Chosen_Mark_Canha
+ + 11.12 Player_Chosen_Marwin_Gonzalez + 8.55 Player_Chosen_Matt_Adams
+ + 8.85 Player_Chosen_Matt_Beaty + 13.65 Player_Chosen_Matt_Chapman
+ + 11.64 Player_Chosen_Matt_Kemp + 0.48 Player_Chosen_Matt_Magill
+ + 12.47 Player_Chosen_Matt_Olson + 5.86 Player_Chosen_Matt_Strahm
+ + 0.74 Player_Chosen_Matt_Wisler + 0.02 Player_Chosen_Max_Fried
+ + 11.88 Player_Chosen_Max_Kepler + 12.25 Player_Chosen_Max_Muncy
+ + 12.07 Player_Chosen_Michael_Conforto + 2.57 Player_Chosen_Michael_King
+ + 14.19 Player_Chosen_Miguel_Sano + 3.14 Player_Chosen_Mike_Fiers
+ + 12.66 Player_Chosen_Mike_Ford + 22.02 Player_Chosen_Mike_Soroka
+ + 16.63 Player_Chosen_Mike_Yastrzemski + 15.23 Player_Chosen_Mitch_Garver
+ + 15.9 Player_Chosen_Nelson_Cruz + 5.86 Player_Chosen_Nestor_Cortes
+ + 8.07 Player_Chosen_Nick_Madrigal + 4.69 Player_Chosen_Nick_Pivetta
+ + 10.09 Player_Chosen_Nico_Hoerner + 5.15 Player_Chosen_Nik_Turley
+ + 15.28 Player_Chosen_Nolan_Arenado + 7.61 Player_Chosen_Orlando_Arcia
+ + 9.23 Player_Chosen_Ozzie_Albies + 0.01 Player_Chosen_Paul_Sewald
+ + 5.21 Player_Chosen_Pedro_Baez + 11.93 Player_Chosen_Pete_Alonso
+ + 3.56 Player_Chosen_Phillip_Diehl + 10.34 Player_Chosen_Phillip_Evans
+ + 0.01 Player_Chosen_Pierce_Johnson + 13.84 Player_Chosen_Ramon_Laureano
+ + 0.01 Player_Chosen_Ramon_Rosso + 9.95 Player_Chosen_Rhys_Hoskins
+ + 1.18 Player_Chosen_Richard_Rodriguez + 0.01 Player_Chosen_Rick_Porcello
+ + 3.49 Player_Chosen_Rico_Garcia + 0.5 Player_Chosen_Robbie_Erlin
+ + 10.67 Player_Chosen_Robinson_Cano + 10.33 Player_Chosen_Ronald_Acuna
+ + 0.02 Player_Chosen_Ross_Detwiler + 0.02 Player_Chosen_Ross_Stripling
+ + 2.13 Player_Chosen_Rowan_Wick + 11.48 Player_Chosen_Ryan_McMahon
+ + 11.8 Player_Chosen_Ryan_O'Hearn + 3.98 Player_Chosen_Ryan_Tepera
+ + 10.74 Player_Chosen_Salvador_Perez + 4.09 Player_Chosen_Scott_Alexander
+ + 1.54 Player_Chosen_Scott_Barlow + 6.86 Player_Chosen_Scott_Kingery
+ + 4.04 Player_Chosen_Sean_Manaea + 11.6 Player_Chosen_Sean_Murphy
+ + 0.02 Player_Chosen_Sean_Newcomb + 4.8 Player_Chosen_Sergio_Romo
+ + 0.24 Player_Chosen_Seth_Lugo + 2.07 Player_Chosen_Shane_Greene
+ + 0.91 Player_Chosen_Shaun_Anderson + 10.69 Player_Chosen_Stephen_Piscotty
+ + 1.67 Player_Chosen_Steve_Cishek + 0.01 Player_Chosen_Steven_Brault
+ + 11.13 Player_Chosen_Steven_Duggar + 0.02 Player_Chosen_Steven_Matz
+ + 3.8 Player_Chosen_T.J._McFarland + 0.02 Player_Chosen_Taijuan_Walker
+ + 0.41 Player_Chosen_Taylor_Rogers + 5.38 Player_Chosen_Taylor_Williams
+ + 3.57 Player_Chosen_Tim_Hill + 4.11 Player_Chosen_Tommy_Hunter
+ + 9.9 Player_Chosen_Tommy_Pham + 0.48 Player_Chosen_Tony_Watson
+ + 8.92 Player_Chosen_Tony_Wolters + 0.69 Player_Chosen_Touki_Toussaint
+ + 8.14 Player_Chosen_Travis_d'Arnaud + 10.2 Player_Chosen_Trent_Grisham
+ + 0.23 Player_Chosen_Trevor_Gott + 0.48 Player_Chosen_Trevor_Kelley
+ + 2.1 Player_Chosen_Trevor_May + 0.12 Player_Chosen_Trevor_Rosenthal
+ + 15.48 Player_Chosen_Trevor_Story + 3.64 Player_Chosen_Tyler_Anderson
+ + 0.02 Player_Chosen_Tyler_Chatwood + 5.92 Player_Chosen_Tyler_Clippard
+ + 0.15 Player_Chosen_Tyler_Duffey + 3.38 Player_Chosen_Tyler_Kinley
+ + 0.02 Player_Chosen_Tyler_Matzek + 7.61 Player_Chosen_Tyler_Wade
+ + 0.65 Player_Chosen_Tyler_Zuber + 0.02 Player_Chosen_Vince_Velasquez
+ + 27.23 Player_Chosen_Walker_Buehler + 11.19 Player_Chosen_Whit_Merrifield
+ + 8.53 Player_Chosen_Wil_Myers + 10.46 Player_Chosen_Will_Smith
+ + 12.73 Player_Chosen_Willson_Contreras + 13.19 Player_Chosen_Wilmer_Flores
+ + 9.48 Player_Chosen_Wilson_Ramos + 10.51 Player_Chosen_Yasmani_Grandal
+ + 0.48 Player_Chosen_Yency_Almonte + 11.11 Player_Chosen_Yoan_Moncada
+ + 0.02 Player_Chosen_Yohan_Ramirez + 0.02 Player_Chosen_Yu_Darvish
+ + 4.47 Player_Chosen_Zac_Grotz + 0.01 Player_Chosen_Zach_Davies
+ + 0.37 Player_Chosen_Zack_Britton + 0.01 Player_Chosen_Zack_Wheeler
 Subject To
-MaxPerTeamAngels: Player_Chosen_Albert_Pujols + Player_Chosen_Andrew_Heaney
- + Player_Chosen_Anthony_Rendon + Player_Chosen_Cam_Bedrosian
- + Player_Chosen_David_Fletcher + Player_Chosen_Dylan_Bundy
- + Player_Chosen_Felix_Pena + Player_Chosen_Griffin_Canning
- + Player_Chosen_Hansel_Robles + Player_Chosen_Hoby_Milner
- + Player_Chosen_Jacob_Barnes + Player_Chosen_Justin_Upton
- + Player_Chosen_Keynan_Middleton + Player_Chosen_Matt_Andriese
- + Player_Chosen_Max_Stassi + Player_Chosen_Mike_Mayers
- + Player_Chosen_Mike_Trout + Player_Chosen_Noe_Ramirez
- + Player_Chosen_Patrick_Sandoval + Player_Chosen_Ryan_Buchter
- + Player_Chosen_Shohei_Ohtani + Player_Chosen_Taylor_Ward
- + Player_Chosen_Tommy_La_Stella + Player_Chosen_Ty_Buttrey <= 4
-MaxPerTeamBraves: Player_Chosen_A.J._Minter + Player_Chosen_Adam_Duvall
- + Player_Chosen_Austin_Riley + Player_Chosen_Chris_Martin
+MaxPerTeamAthletics: Player_Chosen_Burch_Smith + Player_Chosen_Chad_Pinder
+ + Player_Chosen_Chris_Bassitt + Player_Chosen_Frankie_Montas
+ + Player_Chosen_J.B._Wendelken + Player_Chosen_Jesus_Luzardo
+ + Player_Chosen_Khris_Davis + Player_Chosen_Liam_Hendriks
+ + Player_Chosen_Marcus_Semien + Player_Chosen_Mark_Canha
+ + Player_Chosen_Matt_Chapman + Player_Chosen_Matt_Olson
+ + Player_Chosen_Mike_Fiers + Player_Chosen_Ramon_Laureano
+ + Player_Chosen_Sean_Manaea + Player_Chosen_Sean_Murphy
+ + Player_Chosen_Stephen_Piscotty + Player_Chosen_T.J._McFarland <= 4
+MaxPerTeamBraves: Player_Chosen_A.J._Minter + Player_Chosen_Chris_Martin
  + Player_Chosen_Dansby_Swanson + Player_Chosen_Darren_O'Day
- + Player_Chosen_Freddie_Freeman + Player_Chosen_Grant_Dayton
- + Player_Chosen_Jhoulys_Chacin + Player_Chosen_Johan_Camargo
- + Player_Chosen_Josh_Tomlin + Player_Chosen_Kyle_Wright
- + Player_Chosen_Luke_Jackson + Player_Chosen_Marcell_Ozuna
+ + Player_Chosen_Ender_Inciarte + Player_Chosen_Freddie_Freeman
+ + Player_Chosen_Grant_Dayton + Player_Chosen_Jhoulys_Chacin
+ + Player_Chosen_Johan_Camargo + Player_Chosen_Josh_Tomlin
+ + Player_Chosen_Kyle_Wright + Player_Chosen_Luke_Jackson
+ + Player_Chosen_Marcell_Ozuna + Player_Chosen_Matt_Adams
  + Player_Chosen_Max_Fried + Player_Chosen_Mike_Soroka
  + Player_Chosen_Ozzie_Albies + Player_Chosen_Ronald_Acuna
  + Player_Chosen_Sean_Newcomb + Player_Chosen_Shane_Greene
- + Player_Chosen_Touki_Toussaint + Player_Chosen_Tyler_Flowers
+ + Player_Chosen_Touki_Toussaint + Player_Chosen_Travis_d'Arnaud
  + Player_Chosen_Tyler_Matzek <= 4
-MaxPerTeamDiamondbacks: Player_Chosen_Alex_Young + Player_Chosen_Andrew_Chafin
- + Player_Chosen_Archie_Bradley + Player_Chosen_Carson_Kelly
- + Player_Chosen_Christian_Walker + Player_Chosen_David_Peralta
- + Player_Chosen_Eduardo_Escobar + Player_Chosen_Hector_Rondon
- + Player_Chosen_Jake_Lamb + Player_Chosen_Junior_Guerra
- + Player_Chosen_Ketel_Marte + Player_Chosen_Kevin_Ginkel
- + Player_Chosen_Kole_Calhoun + Player_Chosen_Luke_Weaver
- + Player_Chosen_Madison_Bumgarner + Player_Chosen_Merrill_Kelly
- + Player_Chosen_Nick_Ahmed + Player_Chosen_Robbie_Ray
- + Player_Chosen_Starling_Marte + Player_Chosen_Stefan_Crichton
- + Player_Chosen_Taylor_Clarke + Player_Chosen_Taylor_Widener
- + Player_Chosen_Yoan_Lopez + Player_Chosen_Zac_Gallen <= 4
+MaxPerTeamBrewers: Player_Chosen_Adrian_Houser + Player_Chosen_Alex_Claudio
+ + Player_Chosen_Avisail_Garcia + Player_Chosen_Ben_Gamel
+ + Player_Chosen_Bobby_Wahl + Player_Chosen_Brandon_Woodruff
+ + Player_Chosen_Brent_Suter + Player_Chosen_Brett_Anderson
+ + Player_Chosen_Christian_Yelich + Player_Chosen_Corbin_Burnes
+ + Player_Chosen_Corey_Knebel + Player_Chosen_David_Phelps
+ + Player_Chosen_Devin_Williams + Player_Chosen_Eric_Lauer
+ + Player_Chosen_Eric_Yardley + Player_Chosen_Freddy_Peralta
+ + Player_Chosen_J.P._Feyereisen + Player_Chosen_Jedd_Gyorko
+ + Player_Chosen_Josh_Hader + Player_Chosen_Justin_Grimm
+ + Player_Chosen_Justin_Smoak + Player_Chosen_Keston_Hiura
+ + Player_Chosen_Manny_Pina + Player_Chosen_Orlando_Arcia <= 4
+MaxPerTeamCubs: Player_Chosen_Alec_Mills + Player_Chosen_Anthony_Rizzo
+ + Player_Chosen_Craig_Kimbrel + Player_Chosen_Dan_Winkler
+ + Player_Chosen_David_Bote + Player_Chosen_Dillon_Maples
+ + Player_Chosen_Duane_Underwood + Player_Chosen_Ian_Happ
+ + Player_Chosen_Jason_Heyward + Player_Chosen_Javier_Baez
+ + Player_Chosen_Jeremy_Jeffress + Player_Chosen_Jon_Lester
+ + Player_Chosen_Kris_Bryant + Player_Chosen_Kyle_Hendricks
+ + Player_Chosen_Kyle_Ryan + Player_Chosen_Kyle_Schwarber
+ + Player_Chosen_Nico_Hoerner + Player_Chosen_Rowan_Wick
+ + Player_Chosen_Ryan_Tepera + Player_Chosen_Tyler_Chatwood
+ + Player_Chosen_Willson_Contreras + Player_Chosen_Yu_Darvish <= 4
 MaxPerTeamDodgers: Player_Chosen_A.J._Pollock + Player_Chosen_Blake_Treinen
  + Player_Chosen_Brusdar_Graterol + Player_Chosen_Caleb_Ferguson
  + Player_Chosen_Chris_Taylor + Player_Chosen_Cody_Bellinger
  + Player_Chosen_Corey_Seager + Player_Chosen_Dennis_Santana
  + Player_Chosen_Dustin_May + Player_Chosen_Dylan_Floro
- + Player_Chosen_Jake_McGee + Player_Chosen_Joe_Kelly
- + Player_Chosen_Josh_Sborz + Player_Chosen_Julio_Urias
- + Player_Chosen_Justin_Turner + Player_Chosen_Kenley_Jansen
- + Player_Chosen_Max_Muncy + Player_Chosen_Mookie_Betts
- + Player_Chosen_Pedro_Baez + Player_Chosen_Ross_Stripling
- + Player_Chosen_Scott_Alexander + Player_Chosen_Walker_Buehler
- + Player_Chosen_Will_Smith <= 4
+ + Player_Chosen_Jake_McGee + Player_Chosen_Joc_Pederson
+ + Player_Chosen_Joe_Kelly + Player_Chosen_Josh_Sborz
+ + Player_Chosen_Julio_Urias + Player_Chosen_Justin_Turner
+ + Player_Chosen_Kenley_Jansen + Player_Chosen_Matt_Beaty
+ + Player_Chosen_Max_Muncy + Player_Chosen_Pedro_Baez
+ + Player_Chosen_Ross_Stripling + Player_Chosen_Scott_Alexander
+ + Player_Chosen_Walker_Buehler + Player_Chosen_Will_Smith <= 4
 MaxPerTeamGiants: Player_Chosen_Alex_Dickerson + Player_Chosen_Brandon_Belt
  + Player_Chosen_Brandon_Crawford + Player_Chosen_Caleb_Baragar
- + Player_Chosen_Conner_Menez + Player_Chosen_Dany_Jimenez
- + Player_Chosen_Donovan_Solano + Player_Chosen_Drew_Smyly
+ + Player_Chosen_Conner_Menez + Player_Chosen_Donovan_Solano
  + Player_Chosen_Evan_Longoria + Player_Chosen_Jeff_Samardzija
  + Player_Chosen_Johnny_Cueto + Player_Chosen_Kevin_Gausman
  + Player_Chosen_Logan_Webb + Player_Chosen_Mike_Yastrzemski
- + Player_Chosen_Pablo_Sandoval + Player_Chosen_Rico_Garcia
- + Player_Chosen_Sam_Coonrod + Player_Chosen_Shaun_Anderson
- + Player_Chosen_Tony_Watson + Player_Chosen_Trevor_Gott
- + Player_Chosen_Tyler_Anderson + Player_Chosen_Tyler_Heineman
- + Player_Chosen_Wandy_Peralta <= 4
-MaxPerTeamIndians: Player_Chosen_Aaron_Civale + Player_Chosen_Adam_Cimber
- + Player_Chosen_Adam_Plutko + Player_Chosen_Brad_Hand
- + Player_Chosen_Bradley_Zimmer + Player_Chosen_Carlos_Carrasco
- + Player_Chosen_Carlos_Santana + Player_Chosen_Cesar_Hernandez
- + Player_Chosen_Domingo_Santana + Player_Chosen_Dominic_Leone
- + Player_Chosen_Francisco_Lindor + Player_Chosen_Franmil_Reyes
- + Player_Chosen_James_Karinchak + Player_Chosen_Jose_Ramirez
- + Player_Chosen_Mike_Clevinger + Player_Chosen_Nick_Wittgren
- + Player_Chosen_Oliver_Perez + Player_Chosen_Oscar_Mercado
- + Player_Chosen_Phil_Maton + Player_Chosen_Sandy_Leon
- + Player_Chosen_Shane_Bieber + Player_Chosen_Zach_Plesac <= 4
-MaxPerTeamMariners: Player_Chosen_Anthony_Misiewicz + Player_Chosen_Bryan_Shaw
+ + Player_Chosen_Rico_Garcia + Player_Chosen_Shaun_Anderson
+ + Player_Chosen_Steven_Duggar + Player_Chosen_Tony_Watson
+ + Player_Chosen_Trevor_Gott + Player_Chosen_Tyler_Anderson
+ + Player_Chosen_Wandy_Peralta + Player_Chosen_Wilmer_Flores <= 4
+MaxPerTeamMariners: Player_Chosen_Anthony_Misiewicz
+ + Player_Chosen_Austin_Nola + Player_Chosen_Bryan_Shaw
  + Player_Chosen_Carl_Edwards + Player_Chosen_Dan_Altavilla
  + Player_Chosen_Daniel_Vogelbach + Player_Chosen_Evan_White
  + Player_Chosen_J.P._Crawford + Player_Chosen_Jose_Marmolejos
  + Player_Chosen_Justin_Dunn + Player_Chosen_Justus_Sheffield
- + Player_Chosen_Kendall_Graveman + Player_Chosen_Kyle_Lewis
- + Player_Chosen_Kyle_Seager + Player_Chosen_Mallex_Smith
- + Player_Chosen_Marco_Gonzales + Player_Chosen_Matt_Magill
- + Player_Chosen_Nestor_Cortes + Player_Chosen_Taijuan_Walker
+ + Player_Chosen_Kyle_Lewis + Player_Chosen_Kyle_Seager
+ + Player_Chosen_Mallex_Smith + Player_Chosen_Marco_Gonzales
+ + Player_Chosen_Matt_Magill + Player_Chosen_Nestor_Cortes
+ + Player_Chosen_Nick_Margevicius + Player_Chosen_Taijuan_Walker
  + Player_Chosen_Taylor_Williams + Player_Chosen_Yohan_Ramirez
  + Player_Chosen_Yusei_Kikuchi + Player_Chosen_Zac_Grotz <= 4
-MaxPerTeamMets: Player_Chosen_Amed_Rosario + Player_Chosen_Brandon_Nimmo
- + Player_Chosen_Chasen_Shreve + Player_Chosen_David_Peterson
- + Player_Chosen_Dellin_Betances + Player_Chosen_Drew_Smith
+MaxPerTeamMets: Player_Chosen_Amed_Rosario + Player_Chosen_Andres_Gimenez
+ + Player_Chosen_Brandon_Nimmo + Player_Chosen_Chasen_Shreve
+ + Player_Chosen_David_Peterson + Player_Chosen_Dellin_Betances
+ + Player_Chosen_Dominic_Smith + Player_Chosen_Drew_Smith
  + Player_Chosen_Edwin_Diaz + Player_Chosen_Hunter_Strickland
  + Player_Chosen_J.D._Davis + Player_Chosen_Jacob_deGrom
- + Player_Chosen_Jeff_McNeil + Player_Chosen_Jeurys_Familia
- + Player_Chosen_Justin_Wilson + Player_Chosen_Michael_Conforto
- + Player_Chosen_Michael_Wacha + Player_Chosen_Paul_Sewald
- + Player_Chosen_Pete_Alonso + Player_Chosen_Rick_Porcello
+ + Player_Chosen_Jeurys_Familia + Player_Chosen_Justin_Wilson
+ + Player_Chosen_Michael_Conforto + Player_Chosen_Michael_Wacha
+ + Player_Chosen_Paul_Sewald + Player_Chosen_Pete_Alonso
+ + Player_Chosen_Rick_Porcello + Player_Chosen_Robinson_Cano
  + Player_Chosen_Seth_Lugo + Player_Chosen_Steven_Matz
- + Player_Chosen_Wilson_Ramos + Player_Chosen_Yoenis_Cespedes <= 4
-MaxPerTeamNationals: 2 Player_Chosen_Javy_Guerra <= 4
-MaxPerTeamOrioles: Player_Chosen_Alex_Cobb + Player_Chosen_Anthony_Santander
- + Player_Chosen_Asher_Wojciechowski + Player_Chosen_Austin_Hays
- + Player_Chosen_Cedric_Mullins + Player_Chosen_Cole_Sulser
- + Player_Chosen_David_Hess + Player_Chosen_Dwight_Smith
- + Player_Chosen_Evan_Phillips + Player_Chosen_Hanser_Alberto
- + Player_Chosen_John_Means + Player_Chosen_Kohl_Stewart
- + Player_Chosen_Miguel_Castro + Player_Chosen_Mychal_Givens
- + Player_Chosen_Pat_Valaika + Player_Chosen_Paul_Fry
- + Player_Chosen_Pedro_Severino + Player_Chosen_Renato_Nunez
- + Player_Chosen_Richard_Bleier + Player_Chosen_Rio_Ruiz
- + Player_Chosen_Shawn_Armstrong + Player_Chosen_Tanner_Scott
- + Player_Chosen_Tommy_Milone + Player_Chosen_Travis_Lakins
- + Player_Chosen_Wade_LeBlanc <= 4
-MaxPerTeamPadres: Player_Chosen_Cal_Quantrill + Player_Chosen_Chris_Paddack
+ + Player_Chosen_Wilson_Ramos <= 4
+MaxPerTeamPadres: Player_Chosen_Abraham_Almonte + Player_Chosen_Austin_Hedges
+ + Player_Chosen_Cal_Quantrill + Player_Chosen_Chris_Paddack
  + Player_Chosen_Craig_Stammen + Player_Chosen_David_Bednar
  + Player_Chosen_Dinelson_Lamet + Player_Chosen_Drew_Pomeranz
  + Player_Chosen_Emilio_Pagan + Player_Chosen_Fernando_Tatis
- + Player_Chosen_Francisco_Mejia + Player_Chosen_Garrett_Richards
- + Player_Chosen_Joey_Lucchesi + Player_Chosen_Josh_Naylor
- + Player_Chosen_Jurickson_Profar + Player_Chosen_Kirby_Yates
- + Player_Chosen_Luis_Perdomo + Player_Chosen_Manny_Machado
- + Player_Chosen_Matt_Strahm + Player_Chosen_Pierce_Johnson
- + Player_Chosen_Tim_Hill + Player_Chosen_Tommy_Pham
- + Player_Chosen_Trent_Grisham + Player_Chosen_Wil_Myers
- + Player_Chosen_Zach_Davies <= 4
-MaxPerTeamRays: Player_Chosen_Aaron_Loup + Player_Chosen_Andrew_Kittredge
- + Player_Chosen_Blake_Snell + Player_Chosen_Brandon_Lowe
- + Player_Chosen_Charlie_Morton + Player_Chosen_Chaz_Roe
- + Player_Chosen_Diego_Castillo + Player_Chosen_Hunter_Renfroe
- + Player_Chosen_Jalen_Beeks + Player_Chosen_Joey_Wendle
- + Player_Chosen_Jose_Alvarado + Player_Chosen_Jose_Martinez
- + Player_Chosen_Manuel_Margot + Player_Chosen_Mike_Brosseau
- + Player_Chosen_Mike_Zunino + Player_Chosen_Nick_Anderson
- + Player_Chosen_Oliver_Drake + Player_Chosen_Ryan_Thompson
- + Player_Chosen_Ryan_Yarbrough + Player_Chosen_Tyler_Glasnow
- + Player_Chosen_Willy_Adames + Player_Chosen_Yandy_Diaz
- + Player_Chosen_Yonny_Chirinos <= 4
-MaxPerTeamRed_Sox: Player_Chosen_Alex_Verdugo
- + Player_Chosen_Andrew_Benintendi + Player_Chosen_Austin_Brice
- + Player_Chosen_Brandon_Workman + Player_Chosen_Christian_Vazquez
- + Player_Chosen_Colten_Brewer + Player_Chosen_Heath_Hembree
- + Player_Chosen_J.D._Martinez + Player_Chosen_Jeffrey_Springs
- + Player_Chosen_Jonathan_Arauz + Player_Chosen_Jose_Peraza
- + Player_Chosen_Josh_Osich + Player_Chosen_Kevin_Pillar
- + Player_Chosen_Marcus_Walden + Player_Chosen_Martin_Perez
- + Player_Chosen_Matt_Barnes + Player_Chosen_Matt_Hall
- + Player_Chosen_Michael_Chavis + Player_Chosen_Nathan_Eovaldi
- + Player_Chosen_Phillips_Valdez + Player_Chosen_Ryan_Brasier
- + Player_Chosen_Ryan_Weber + Player_Chosen_Xander_Bogaerts
- + Player_Chosen_Zack_Godley <= 4
+ + Player_Chosen_Garrett_Richards + Player_Chosen_Jake_Cronenworth
+ + Player_Chosen_Joey_Lucchesi + Player_Chosen_Jurickson_Profar
+ + Player_Chosen_Kirby_Yates + Player_Chosen_Luis_Perdomo
+ + Player_Chosen_Manny_Machado + Player_Chosen_Matt_Strahm
+ + Player_Chosen_Pierce_Johnson + Player_Chosen_Tim_Hill
+ + Player_Chosen_Tommy_Pham + Player_Chosen_Trent_Grisham
+ + Player_Chosen_Wil_Myers + Player_Chosen_Zach_Davies <= 4
+MaxPerTeamPhillies: Player_Chosen_Aaron_Nola + Player_Chosen_Adam_Haseley
+ + Player_Chosen_Adam_Morgan + Player_Chosen_Andrew_McCutchen
+ + Player_Chosen_Austin_Davis + Player_Chosen_Bryce_Harper
+ + Player_Chosen_Cole_Irvin + Player_Chosen_Deolis_Guerra
+ + Player_Chosen_Didi_Gregorius + Player_Chosen_J.T._Realmuto
+ + Player_Chosen_Jake_Arrieta + Player_Chosen_Jay_Bruce
+ + Player_Chosen_Jean_Segura + Player_Chosen_Jose_Alvarez
+ + Player_Chosen_Nick_Pivetta + Player_Chosen_Ramon_Rosso
+ + Player_Chosen_Rhys_Hoskins + Player_Chosen_Scott_Kingery
+ + Player_Chosen_Tommy_Hunter + Player_Chosen_Trevor_Kelley
+ + Player_Chosen_Vince_Velasquez + Player_Chosen_Zach_Eflin
+ + Player_Chosen_Zack_Wheeler <= 4
+MaxPerTeamPirates: Player_Chosen_Bryan_Reynolds + Player_Chosen_Chris_Stratton
+ + Player_Chosen_Cole_Tucker + Player_Chosen_Derek_Holland
+ + Player_Chosen_Dovydas_Neverauskas + Player_Chosen_Erik_Gonzalez
+ + Player_Chosen_Geoff_Hartlieb + Player_Chosen_Guillermo_Heredia
+ + Player_Chosen_Jacob_Stallings + Player_Chosen_Joe_Musgrove
+ + Player_Chosen_Jose_Osuna + Player_Chosen_Josh_Bell
+ + Player_Chosen_Kevin_Newman + Player_Chosen_Miguel_Del_Pozo
+ + Player_Chosen_Nik_Turley + Player_Chosen_Phillip_Evans
+ + Player_Chosen_Richard_Rodriguez + Player_Chosen_Robbie_Erlin
+ + Player_Chosen_Steven_Brault + Player_Chosen_Trevor_Williams <= 4
+MaxPerTeamRockies: Player_Chosen_Antonio_Senzatela
+ + Player_Chosen_Ashton_Goudeau + Player_Chosen_Carlos_Estevez
+ + Player_Chosen_Charlie_Blackmon + Player_Chosen_Chi_Chi_Gonzalez
+ + Player_Chosen_Chris_Owings + Player_Chosen_Daniel_Bard
+ + Player_Chosen_Daniel_Murphy + Player_Chosen_David_Dahl
+ + Player_Chosen_German_Marquez + Player_Chosen_Jairo_Diaz
+ + Player_Chosen_James_Pazos + Player_Chosen_Jeff_Hoffman
+ + Player_Chosen_Jon_Gray + Player_Chosen_Kyle_Freeland
+ + Player_Chosen_Matt_Kemp + Player_Chosen_Nolan_Arenado
+ + Player_Chosen_Phillip_Diehl + Player_Chosen_Ryan_McMahon
+ + Player_Chosen_Tony_Wolters + Player_Chosen_Trevor_Story
+ + Player_Chosen_Tyler_Kinley + Player_Chosen_Yency_Almonte <= 4
 MaxPerTeamRoyals: Player_Chosen_Adalberto_Mondesi + Player_Chosen_Alex_Gordon
  + Player_Chosen_Brady_Singer + Player_Chosen_Brett_Phillips
  + Player_Chosen_Danny_Duffy + Player_Chosen_Franchy_Cordero
@@ -292,1048 +315,1199 @@ MaxPerTeamRoyals: Player_Chosen_Adalberto_Mondesi + Player_Chosen_Alex_Gordon
  + Player_Chosen_Salvador_Perez + Player_Chosen_Scott_Barlow
  + Player_Chosen_Trevor_Rosenthal + Player_Chosen_Tyler_Zuber
  + Player_Chosen_Whit_Merrifield <= 4
-MaxPerTeamTigers: Player_Chosen_Austin_Romine + Player_Chosen_Bryan_Garcia
- + Player_Chosen_Buck_Farmer + Player_Chosen_C.J._Cron
- + Player_Chosen_Cameron_Maybin + Player_Chosen_Carson_Fulmer
- + Player_Chosen_Christin_Stewart + Player_Chosen_Gregory_Soto
- + Player_Chosen_Harold_Castro + Player_Chosen_Ivan_Nova
- + Player_Chosen_JaCoby_Jones + Player_Chosen_Jeimer_Candelario
- + Player_Chosen_Joe_Jimenez + Player_Chosen_Jonathan_Schoop
- + Player_Chosen_Jose_Cisnero + Player_Chosen_Matthew_Boyd
- + Player_Chosen_Michael_Fulmer + Player_Chosen_Miguel_Cabrera <= 4
 MaxPerTeamTwins: Player_Chosen_Byron_Buxton + Player_Chosen_Cody_Stashak
- + Player_Chosen_Devin_Smeltzer + Player_Chosen_Eddie_Rosario
- + Player_Chosen_Homer_Bailey + Player_Chosen_Jorge_Polanco
- + Player_Chosen_Jose_Berrios + Player_Chosen_Josh_Donaldson
- + Player_Chosen_Kenta_Maeda + Player_Chosen_Luis_Arraez
+ + Player_Chosen_Devin_Smeltzer + Player_Chosen_Ehire_Adrianza
+ + Player_Chosen_Jake_Cave + Player_Chosen_Jose_Berrios
+ + Player_Chosen_Kenta_Maeda + Player_Chosen_Lewis_Thorpe
+ + Player_Chosen_Luis_Arraez + Player_Chosen_Marwin_Gonzalez
  + Player_Chosen_Matt_Wisler + Player_Chosen_Max_Kepler
  + Player_Chosen_Miguel_Sano + Player_Chosen_Mitch_Garver
  + Player_Chosen_Nelson_Cruz + Player_Chosen_Randy_Dobnak
- + Player_Chosen_Rich_Hill + Player_Chosen_Sergio_Romo
- + Player_Chosen_Taylor_Rogers + Player_Chosen_Trevor_May
- + Player_Chosen_Tyler_Clippard + Player_Chosen_Tyler_Duffey
- + Player_Chosen_Zack_Littell <= 4
+ + Player_Chosen_Sergio_Romo + Player_Chosen_Taylor_Rogers
+ + Player_Chosen_Trevor_May + Player_Chosen_Tyler_Clippard
+ + Player_Chosen_Tyler_Duffey <= 4
+MaxPerTeamWhite_Sox: Player_Chosen_Aaron_Bummer + Player_Chosen_Adam_Engel
+ + Player_Chosen_Alex_Colome + Player_Chosen_Carlos_Rodon
+ + Player_Chosen_Codi_Heuer + Player_Chosen_Dallas_Keuchel
+ + Player_Chosen_Dylan_Cease + Player_Chosen_Eloy_Jimenez
+ + Player_Chosen_Evan_Marshall + Player_Chosen_Gio_Gonzalez
+ + Player_Chosen_Ian_Hamilton + Player_Chosen_Jace_Fry
+ + Player_Chosen_James_McCann + Player_Chosen_Jimmy_Cordero
+ + Player_Chosen_Jose_Abreu + Player_Chosen_Leury_Garcia
+ + Player_Chosen_Lucas_Giolito + Player_Chosen_Luis_Robert
+ + Player_Chosen_Nick_Madrigal + Player_Chosen_Ross_Detwiler
+ + Player_Chosen_Steve_Cishek + Player_Chosen_Yasmani_Grandal
+ + Player_Chosen_Yoan_Moncada <= 4
 MaxPerTeamYankees: Player_Chosen_Aaron_Hicks + Player_Chosen_Aaron_Judge
- + Player_Chosen_Adam_Ottavino + Player_Chosen_Chad_Green
- + Player_Chosen_DJ_LeMahieu + Player_Chosen_David_Hale
- + Player_Chosen_Gary_Sanchez + Player_Chosen_Gerrit_Cole
- + Player_Chosen_Giancarlo_Stanton + Player_Chosen_Gleyber_Torres
+ + Player_Chosen_Adam_Ottavino + Player_Chosen_Brett_Gardner
+ + Player_Chosen_Chad_Green + Player_Chosen_DJ_LeMahieu
+ + Player_Chosen_David_Hale + Player_Chosen_Gary_Sanchez
+ + Player_Chosen_Gerrit_Cole + Player_Chosen_Giancarlo_Stanton
  + Player_Chosen_J.A._Happ + Player_Chosen_James_Paxton
  + Player_Chosen_Jonathan_Holder + Player_Chosen_Jonathan_Loaisiga
- + Player_Chosen_Luis_Avilan + Player_Chosen_Luke_Voit
- + Player_Chosen_Michael_King + Player_Chosen_Miguel_Andujar
- + Player_Chosen_Tommy_Kahnle + Player_Chosen_Zack_Britton <= 4
-_C1: Player_Chosen_Austin_Romine + Player_Chosen_Carson_Kelly
- + Player_Chosen_Christian_Vazquez + Player_Chosen_Francisco_Mejia
- + Player_Chosen_Gary_Sanchez + Player_Chosen_Max_Stassi
- + Player_Chosen_Mike_Zunino + Player_Chosen_Mitch_Garver
- + Player_Chosen_Pedro_Severino + Player_Chosen_Salvador_Perez
- + Player_Chosen_Sandy_Leon + Player_Chosen_Tyler_Flowers
- + Player_Chosen_Tyler_Heineman + Player_Chosen_Will_Smith
- + Player_Chosen_Wilson_Ramos >= 0
+ + Player_Chosen_Luis_Avilan + Player_Chosen_Michael_King
+ + Player_Chosen_Mike_Ford + Player_Chosen_Tyler_Wade
+ + Player_Chosen_Zack_Britton <= 4
+_C1: Player_Chosen_Austin_Hedges + Player_Chosen_Austin_Nola
+ + Player_Chosen_Gary_Sanchez + Player_Chosen_J.T._Realmuto
+ + Player_Chosen_Jacob_Stallings + Player_Chosen_James_McCann
+ + Player_Chosen_Manny_Pina + Player_Chosen_Mitch_Garver
+ + Player_Chosen_Salvador_Perez + Player_Chosen_Sean_Murphy
+ + Player_Chosen_Tony_Wolters + Player_Chosen_Travis_d'Arnaud
+ + Player_Chosen_Will_Smith + Player_Chosen_Willson_Contreras
+ + Player_Chosen_Wilson_Ramos + Player_Chosen_Yasmani_Grandal >= 0
 _C10: Player_Chosen_Adalberto_Mondesi + Player_Chosen_Amed_Rosario
- + Player_Chosen_Brandon_Crawford + Player_Chosen_Corey_Seager
- + Player_Chosen_Dansby_Swanson + Player_Chosen_Donovan_Solano
- + Player_Chosen_Fernando_Tatis + Player_Chosen_Francisco_Lindor
- + Player_Chosen_Gleyber_Torres + Player_Chosen_J.P._Crawford
- + Player_Chosen_Jonathan_Arauz + Player_Chosen_Jorge_Polanco
- + Player_Chosen_Jose_Peraza + Player_Chosen_Manny_Machado
- + Player_Chosen_Nick_Ahmed + Player_Chosen_Willy_Adames
- + Player_Chosen_Xander_Bogaerts <= 2
+ + Player_Chosen_Andres_Gimenez + Player_Chosen_Brandon_Crawford
+ + Player_Chosen_Cole_Tucker + Player_Chosen_Corey_Seager
+ + Player_Chosen_Dansby_Swanson + Player_Chosen_Didi_Gregorius
+ + Player_Chosen_Donovan_Solano + Player_Chosen_Erik_Gonzalez
+ + Player_Chosen_Fernando_Tatis + Player_Chosen_J.P._Crawford
+ + Player_Chosen_Jake_Cronenworth + Player_Chosen_Javier_Baez
+ + Player_Chosen_Kevin_Newman + Player_Chosen_Marcus_Semien
+ + Player_Chosen_Orlando_Arcia + Player_Chosen_Trevor_Story <= 2
 _C11: Player_Chosen_A.J._Pollock + Player_Chosen_Aaron_Hicks
- + Player_Chosen_Aaron_Judge + Player_Chosen_Adam_Duvall
+ + Player_Chosen_Aaron_Judge + Player_Chosen_Abraham_Almonte
+ + Player_Chosen_Adam_Engel + Player_Chosen_Adam_Haseley
  + Player_Chosen_Alex_Dickerson + Player_Chosen_Alex_Gordon
- + Player_Chosen_Alex_Verdugo + Player_Chosen_Andrew_Benintendi
- + Player_Chosen_Anthony_Santander + Player_Chosen_Austin_Hays
- + Player_Chosen_Austin_Riley + Player_Chosen_Bradley_Zimmer
- + Player_Chosen_Brandon_Nimmo + Player_Chosen_Brett_Phillips
- + Player_Chosen_Byron_Buxton + Player_Chosen_Cameron_Maybin
- + Player_Chosen_Cedric_Mullins + Player_Chosen_Chris_Taylor
- + Player_Chosen_Christin_Stewart + Player_Chosen_Cody_Bellinger
- + Player_Chosen_David_Peralta + Player_Chosen_Domingo_Santana
- + Player_Chosen_Dwight_Smith + Player_Chosen_Eddie_Rosario
- + Player_Chosen_Franchy_Cordero + Player_Chosen_Franmil_Reyes
- + Player_Chosen_Giancarlo_Stanton + Player_Chosen_Hunter_Renfroe
- + Player_Chosen_J.D._Martinez + Player_Chosen_JaCoby_Jones
- + Player_Chosen_Jorge_Soler + Player_Chosen_Josh_Naylor
- + Player_Chosen_Justin_Upton + Player_Chosen_Kevin_Pillar
- + Player_Chosen_Kole_Calhoun + Player_Chosen_Kyle_Lewis
- + Player_Chosen_Mallex_Smith + Player_Chosen_Manuel_Margot
- + Player_Chosen_Marcell_Ozuna + Player_Chosen_Max_Kepler
- + Player_Chosen_Michael_Conforto + Player_Chosen_Mike_Trout
- + Player_Chosen_Mike_Yastrzemski + Player_Chosen_Mookie_Betts
- + Player_Chosen_Oscar_Mercado + Player_Chosen_Ronald_Acuna
- + Player_Chosen_Starling_Marte + Player_Chosen_Taylor_Ward
- + Player_Chosen_Tommy_Pham + Player_Chosen_Trent_Grisham
- + Player_Chosen_Wil_Myers + Player_Chosen_Yoenis_Cespedes >= 3
+ + Player_Chosen_Andrew_McCutchen + Player_Chosen_Avisail_Garcia
+ + Player_Chosen_Ben_Gamel + Player_Chosen_Brandon_Nimmo
+ + Player_Chosen_Brett_Gardner + Player_Chosen_Brett_Phillips
+ + Player_Chosen_Bryan_Reynolds + Player_Chosen_Bryce_Harper
+ + Player_Chosen_Byron_Buxton + Player_Chosen_Charlie_Blackmon
+ + Player_Chosen_Chris_Owings + Player_Chosen_Christian_Yelich
+ + Player_Chosen_Cody_Bellinger + Player_Chosen_David_Dahl
+ + Player_Chosen_Dominic_Smith + Player_Chosen_Eloy_Jimenez
+ + Player_Chosen_Ender_Inciarte + Player_Chosen_Franchy_Cordero
+ + Player_Chosen_Giancarlo_Stanton + Player_Chosen_Guillermo_Heredia
+ + Player_Chosen_Ian_Happ + Player_Chosen_J.D._Davis + Player_Chosen_Jake_Cave
+ + Player_Chosen_Jason_Heyward + Player_Chosen_Jay_Bruce
+ + Player_Chosen_Joc_Pederson + Player_Chosen_Jorge_Soler
+ + Player_Chosen_Khris_Davis + Player_Chosen_Kyle_Lewis
+ + Player_Chosen_Kyle_Schwarber + Player_Chosen_Luis_Robert
+ + Player_Chosen_Mallex_Smith + Player_Chosen_Marcell_Ozuna
+ + Player_Chosen_Mark_Canha + Player_Chosen_Marwin_Gonzalez
+ + Player_Chosen_Matt_Kemp + Player_Chosen_Max_Kepler
+ + Player_Chosen_Michael_Conforto + Player_Chosen_Mike_Yastrzemski
+ + Player_Chosen_Nelson_Cruz + Player_Chosen_Ramon_Laureano
+ + Player_Chosen_Ronald_Acuna + Player_Chosen_Stephen_Piscotty
+ + Player_Chosen_Steven_Duggar + Player_Chosen_Tommy_Pham
+ + Player_Chosen_Trent_Grisham + Player_Chosen_Whit_Merrifield
+ + Player_Chosen_Wil_Myers >= 3
 _C12: Player_Chosen_A.J._Pollock + Player_Chosen_Aaron_Hicks
- + Player_Chosen_Aaron_Judge + Player_Chosen_Adam_Duvall
+ + Player_Chosen_Aaron_Judge + Player_Chosen_Abraham_Almonte
+ + Player_Chosen_Adam_Engel + Player_Chosen_Adam_Haseley
  + Player_Chosen_Alex_Dickerson + Player_Chosen_Alex_Gordon
- + Player_Chosen_Alex_Verdugo + Player_Chosen_Andrew_Benintendi
- + Player_Chosen_Anthony_Santander + Player_Chosen_Austin_Hays
- + Player_Chosen_Austin_Riley + Player_Chosen_Bradley_Zimmer
- + Player_Chosen_Brandon_Nimmo + Player_Chosen_Brett_Phillips
- + Player_Chosen_Byron_Buxton + Player_Chosen_Cameron_Maybin
- + Player_Chosen_Cedric_Mullins + Player_Chosen_Chris_Taylor
- + Player_Chosen_Christin_Stewart + Player_Chosen_Cody_Bellinger
- + Player_Chosen_David_Peralta + Player_Chosen_Domingo_Santana
- + Player_Chosen_Dwight_Smith + Player_Chosen_Eddie_Rosario
- + Player_Chosen_Franchy_Cordero + Player_Chosen_Franmil_Reyes
- + Player_Chosen_Giancarlo_Stanton + Player_Chosen_Hunter_Renfroe
- + Player_Chosen_J.D._Martinez + Player_Chosen_JaCoby_Jones
- + Player_Chosen_Jorge_Soler + Player_Chosen_Josh_Naylor
- + Player_Chosen_Justin_Upton + Player_Chosen_Kevin_Pillar
- + Player_Chosen_Kole_Calhoun + Player_Chosen_Kyle_Lewis
- + Player_Chosen_Mallex_Smith + Player_Chosen_Manuel_Margot
- + Player_Chosen_Marcell_Ozuna + Player_Chosen_Max_Kepler
- + Player_Chosen_Michael_Conforto + Player_Chosen_Mike_Trout
- + Player_Chosen_Mike_Yastrzemski + Player_Chosen_Mookie_Betts
- + Player_Chosen_Oscar_Mercado + Player_Chosen_Ronald_Acuna
- + Player_Chosen_Starling_Marte + Player_Chosen_Taylor_Ward
- + Player_Chosen_Tommy_Pham + Player_Chosen_Trent_Grisham
- + Player_Chosen_Wil_Myers + Player_Chosen_Yoenis_Cespedes <= 4
-_C13: Player_Chosen_Nelson_Cruz + Player_Chosen_Shohei_Ohtani >= 0
-_C14: Player_Chosen_Nelson_Cruz + Player_Chosen_Shohei_Ohtani <= 1
-_C15: Player_Chosen_A.J._Minter + Player_Chosen_Aaron_Civale
- + Player_Chosen_Aaron_Loup + Player_Chosen_Adam_Cimber
- + Player_Chosen_Adam_Ottavino + Player_Chosen_Adam_Plutko
- + Player_Chosen_Alex_Cobb + Player_Chosen_Alex_Young
- + Player_Chosen_Andrew_Chafin + Player_Chosen_Andrew_Heaney
- + Player_Chosen_Andrew_Kittredge + Player_Chosen_Anthony_Misiewicz
- + Player_Chosen_Archie_Bradley + Player_Chosen_Asher_Wojciechowski
- + Player_Chosen_Austin_Brice + Player_Chosen_Blake_Snell
- + Player_Chosen_Blake_Treinen + Player_Chosen_Brad_Hand
- + Player_Chosen_Brady_Singer + Player_Chosen_Brandon_Workman
- + Player_Chosen_Brusdar_Graterol + Player_Chosen_Bryan_Garcia
- + Player_Chosen_Bryan_Shaw + Player_Chosen_Buck_Farmer
+ + Player_Chosen_Andrew_McCutchen + Player_Chosen_Avisail_Garcia
+ + Player_Chosen_Ben_Gamel + Player_Chosen_Brandon_Nimmo
+ + Player_Chosen_Brett_Gardner + Player_Chosen_Brett_Phillips
+ + Player_Chosen_Bryan_Reynolds + Player_Chosen_Bryce_Harper
+ + Player_Chosen_Byron_Buxton + Player_Chosen_Charlie_Blackmon
+ + Player_Chosen_Chris_Owings + Player_Chosen_Christian_Yelich
+ + Player_Chosen_Cody_Bellinger + Player_Chosen_David_Dahl
+ + Player_Chosen_Dominic_Smith + Player_Chosen_Eloy_Jimenez
+ + Player_Chosen_Ender_Inciarte + Player_Chosen_Franchy_Cordero
+ + Player_Chosen_Giancarlo_Stanton + Player_Chosen_Guillermo_Heredia
+ + Player_Chosen_Ian_Happ + Player_Chosen_J.D._Davis + Player_Chosen_Jake_Cave
+ + Player_Chosen_Jason_Heyward + Player_Chosen_Jay_Bruce
+ + Player_Chosen_Joc_Pederson + Player_Chosen_Jorge_Soler
+ + Player_Chosen_Khris_Davis + Player_Chosen_Kyle_Lewis
+ + Player_Chosen_Kyle_Schwarber + Player_Chosen_Luis_Robert
+ + Player_Chosen_Mallex_Smith + Player_Chosen_Marcell_Ozuna
+ + Player_Chosen_Mark_Canha + Player_Chosen_Marwin_Gonzalez
+ + Player_Chosen_Matt_Kemp + Player_Chosen_Max_Kepler
+ + Player_Chosen_Michael_Conforto + Player_Chosen_Mike_Yastrzemski
+ + Player_Chosen_Nelson_Cruz + Player_Chosen_Ramon_Laureano
+ + Player_Chosen_Ronald_Acuna + Player_Chosen_Stephen_Piscotty
+ + Player_Chosen_Steven_Duggar + Player_Chosen_Tommy_Pham
+ + Player_Chosen_Trent_Grisham + Player_Chosen_Whit_Merrifield
+ + Player_Chosen_Wil_Myers <= 4
+_dummy: __dummy = 0
+_C13: __dummy >= 0
+_C14: __dummy <= 1
+_C15: Player_Chosen_A.J._Minter + Player_Chosen_Aaron_Bummer
+ + Player_Chosen_Aaron_Nola + Player_Chosen_Adam_Morgan
+ + Player_Chosen_Adam_Ottavino + Player_Chosen_Adrian_Houser
+ + Player_Chosen_Alec_Mills + Player_Chosen_Alex_Claudio
+ + Player_Chosen_Alex_Colome + Player_Chosen_Anthony_Misiewicz
+ + Player_Chosen_Antonio_Senzatela + Player_Chosen_Ashton_Goudeau
+ + Player_Chosen_Austin_Davis + Player_Chosen_Blake_Treinen
+ + Player_Chosen_Bobby_Wahl + Player_Chosen_Brady_Singer
+ + Player_Chosen_Brandon_Woodruff + Player_Chosen_Brent_Suter
+ + Player_Chosen_Brett_Anderson + Player_Chosen_Brusdar_Graterol
+ + Player_Chosen_Bryan_Shaw + Player_Chosen_Burch_Smith
  + Player_Chosen_Cal_Quantrill + Player_Chosen_Caleb_Baragar
- + Player_Chosen_Caleb_Ferguson + Player_Chosen_Cam_Bedrosian
- + Player_Chosen_Carl_Edwards + Player_Chosen_Carlos_Carrasco
- + Player_Chosen_Carson_Fulmer + Player_Chosen_Chad_Green
- + Player_Chosen_Charlie_Morton + Player_Chosen_Chasen_Shreve
- + Player_Chosen_Chaz_Roe + Player_Chosen_Chris_Martin
- + Player_Chosen_Chris_Paddack + Player_Chosen_Cody_Stashak
- + Player_Chosen_Cole_Sulser + Player_Chosen_Colten_Brewer
- + Player_Chosen_Conner_Menez + Player_Chosen_Craig_Stammen
- + Player_Chosen_Dan_Altavilla + Player_Chosen_Danny_Duffy
- + Player_Chosen_Dany_Jimenez + Player_Chosen_Darren_O'Day
- + Player_Chosen_David_Bednar + Player_Chosen_David_Hale
- + Player_Chosen_David_Hess + Player_Chosen_David_Peterson
- + Player_Chosen_Dellin_Betances + Player_Chosen_Dennis_Santana
- + Player_Chosen_Devin_Smeltzer + Player_Chosen_Diego_Castillo
- + Player_Chosen_Dinelson_Lamet + Player_Chosen_Dominic_Leone
- + Player_Chosen_Drew_Pomeranz + Player_Chosen_Drew_Smith
- + Player_Chosen_Drew_Smyly + Player_Chosen_Dustin_May
- + Player_Chosen_Dylan_Bundy + Player_Chosen_Dylan_Floro
- + Player_Chosen_Edwin_Diaz + Player_Chosen_Emilio_Pagan
- + Player_Chosen_Evan_Phillips + Player_Chosen_Felix_Pena
- + Player_Chosen_Gabe_Speier + Player_Chosen_Garrett_Richards
- + Player_Chosen_Gerrit_Cole + Player_Chosen_Glenn_Sparkman
- + Player_Chosen_Grant_Dayton + Player_Chosen_Greg_Holland
- + Player_Chosen_Gregory_Soto + Player_Chosen_Griffin_Canning
- + Player_Chosen_Hansel_Robles + Player_Chosen_Heath_Hembree
- + Player_Chosen_Hector_Rondon + Player_Chosen_Hoby_Milner
- + Player_Chosen_Homer_Bailey + Player_Chosen_Hunter_Strickland
- + Player_Chosen_Ian_Kennedy + Player_Chosen_Ivan_Nova
- + Player_Chosen_J.A._Happ + Player_Chosen_Jacob_Barnes
- + Player_Chosen_Jacob_deGrom + Player_Chosen_Jake_McGee
- + Player_Chosen_Jake_Newberry + Player_Chosen_Jalen_Beeks
- + Player_Chosen_James_Karinchak + Player_Chosen_James_Paxton
- + 2 Player_Chosen_Javy_Guerra + Player_Chosen_Jeff_Samardzija
- + Player_Chosen_Jeffrey_Springs + Player_Chosen_Jeurys_Familia
- + Player_Chosen_Jhoulys_Chacin + Player_Chosen_Joe_Jimenez
- + Player_Chosen_Joe_Kelly + Player_Chosen_Joey_Lucchesi
- + Player_Chosen_John_Means + Player_Chosen_Johnny_Cueto
- + Player_Chosen_Jonathan_Holder + Player_Chosen_Jonathan_Loaisiga
- + Player_Chosen_Jorge_Lopez + Player_Chosen_Jose_Alvarado
- + Player_Chosen_Jose_Berrios + Player_Chosen_Jose_Cisnero
- + Player_Chosen_Josh_Osich + Player_Chosen_Josh_Sborz
- + Player_Chosen_Josh_Staumont + Player_Chosen_Josh_Tomlin
- + Player_Chosen_Julio_Urias + Player_Chosen_Junior_Guerra
- + Player_Chosen_Justin_Dunn + Player_Chosen_Justin_Wilson
- + Player_Chosen_Justus_Sheffield + Player_Chosen_Kendall_Graveman
- + Player_Chosen_Kenley_Jansen + Player_Chosen_Kenta_Maeda
- + Player_Chosen_Kevin_Gausman + Player_Chosen_Kevin_Ginkel
- + Player_Chosen_Kevin_McCarthy + Player_Chosen_Keynan_Middleton
- + Player_Chosen_Kirby_Yates + Player_Chosen_Kohl_Stewart
- + Player_Chosen_Kyle_Wright + Player_Chosen_Kyle_Zimmer
- + Player_Chosen_Logan_Webb + Player_Chosen_Luis_Avilan
- + Player_Chosen_Luis_Perdomo + Player_Chosen_Luke_Jackson
- + Player_Chosen_Luke_Weaver + Player_Chosen_Madison_Bumgarner
- + Player_Chosen_Marco_Gonzales + Player_Chosen_Marcus_Walden
- + Player_Chosen_Martin_Perez + Player_Chosen_Matt_Andriese
- + Player_Chosen_Matt_Barnes + Player_Chosen_Matt_Hall
- + Player_Chosen_Matt_Magill + Player_Chosen_Matt_Strahm
- + Player_Chosen_Matt_Wisler + Player_Chosen_Matthew_Boyd
- + Player_Chosen_Max_Fried + Player_Chosen_Merrill_Kelly
- + Player_Chosen_Michael_Fulmer + Player_Chosen_Michael_King
- + Player_Chosen_Michael_Wacha + Player_Chosen_Miguel_Castro
- + Player_Chosen_Mike_Clevinger + Player_Chosen_Mike_Mayers
- + Player_Chosen_Mike_Soroka + Player_Chosen_Mychal_Givens
- + Player_Chosen_Nathan_Eovaldi + Player_Chosen_Nestor_Cortes
- + Player_Chosen_Nick_Anderson + Player_Chosen_Nick_Wittgren
- + Player_Chosen_Noe_Ramirez + Player_Chosen_Oliver_Drake
- + Player_Chosen_Oliver_Perez + Player_Chosen_Patrick_Sandoval
- + Player_Chosen_Paul_Fry + Player_Chosen_Paul_Sewald
- + Player_Chosen_Pedro_Baez + Player_Chosen_Phil_Maton
- + Player_Chosen_Phillips_Valdez + Player_Chosen_Pierce_Johnson
- + Player_Chosen_Randy_Dobnak + Player_Chosen_Rich_Hill
- + Player_Chosen_Richard_Bleier + Player_Chosen_Rick_Porcello
- + Player_Chosen_Rico_Garcia + Player_Chosen_Robbie_Ray
- + Player_Chosen_Ross_Stripling + Player_Chosen_Ryan_Brasier
- + Player_Chosen_Ryan_Buchter + Player_Chosen_Ryan_Thompson
- + Player_Chosen_Ryan_Weber + Player_Chosen_Ryan_Yarbrough
- + Player_Chosen_Sam_Coonrod + Player_Chosen_Scott_Alexander
- + Player_Chosen_Scott_Barlow + Player_Chosen_Sean_Newcomb
- + Player_Chosen_Sergio_Romo + Player_Chosen_Seth_Lugo
- + Player_Chosen_Shane_Bieber + Player_Chosen_Shane_Greene
- + Player_Chosen_Shaun_Anderson + Player_Chosen_Shawn_Armstrong
- + Player_Chosen_Stefan_Crichton + Player_Chosen_Steven_Matz
- + Player_Chosen_Taijuan_Walker + Player_Chosen_Tanner_Scott
- + Player_Chosen_Taylor_Clarke + Player_Chosen_Taylor_Rogers
- + Player_Chosen_Taylor_Widener + Player_Chosen_Taylor_Williams
- + Player_Chosen_Tim_Hill + Player_Chosen_Tommy_Kahnle
- + Player_Chosen_Tommy_Milone + Player_Chosen_Tony_Watson
- + Player_Chosen_Touki_Toussaint + Player_Chosen_Travis_Lakins
- + Player_Chosen_Trevor_Gott + Player_Chosen_Trevor_May
- + Player_Chosen_Trevor_Rosenthal + Player_Chosen_Ty_Buttrey
- + Player_Chosen_Tyler_Anderson + Player_Chosen_Tyler_Clippard
- + Player_Chosen_Tyler_Duffey + Player_Chosen_Tyler_Glasnow
- + Player_Chosen_Tyler_Matzek + Player_Chosen_Tyler_Zuber
- + Player_Chosen_Wade_LeBlanc + Player_Chosen_Walker_Buehler
- + Player_Chosen_Wandy_Peralta + Player_Chosen_Yoan_Lopez
- + Player_Chosen_Yohan_Ramirez + Player_Chosen_Yonny_Chirinos
- + Player_Chosen_Yusei_Kikuchi + Player_Chosen_Zac_Gallen
- + Player_Chosen_Zac_Grotz + Player_Chosen_Zach_Davies
- + Player_Chosen_Zach_Plesac + Player_Chosen_Zack_Britton
- + Player_Chosen_Zack_Godley + Player_Chosen_Zack_Littell = 1
-_C16: Player_Chosen_Albert_Pujols + Player_Chosen_Austin_Romine
- + Player_Chosen_Brandon_Belt + Player_Chosen_C.J._Cron
- + Player_Chosen_Carlos_Santana + Player_Chosen_Carson_Kelly
- + Player_Chosen_Christian_Vazquez + Player_Chosen_Christian_Walker
- + Player_Chosen_Daniel_Vogelbach + Player_Chosen_Evan_White
- + Player_Chosen_Francisco_Mejia + Player_Chosen_Freddie_Freeman
- + Player_Chosen_Gary_Sanchez + Player_Chosen_Jake_Lamb
- + Player_Chosen_Jose_Marmolejos + Player_Chosen_Jose_Martinez
- + Player_Chosen_Luke_Voit + Player_Chosen_Max_Muncy
- + Player_Chosen_Max_Stassi + Player_Chosen_Miguel_Cabrera
- + Player_Chosen_Mike_Zunino + Player_Chosen_Mitch_Garver
- + Player_Chosen_Pedro_Severino + Player_Chosen_Pete_Alonso
- + Player_Chosen_Ryan_O'Hearn + Player_Chosen_Salvador_Perez
- + Player_Chosen_Sandy_Leon + Player_Chosen_Tyler_Flowers
- + Player_Chosen_Tyler_Heineman + Player_Chosen_Will_Smith
- + Player_Chosen_Wilson_Ramos >= 1
-_C17: Player_Chosen_Albert_Pujols + Player_Chosen_Austin_Romine
- + Player_Chosen_Brandon_Belt + Player_Chosen_C.J._Cron
- + Player_Chosen_Carlos_Santana + Player_Chosen_Carson_Kelly
- + Player_Chosen_Christian_Vazquez + Player_Chosen_Christian_Walker
- + Player_Chosen_Daniel_Vogelbach + Player_Chosen_Evan_White
- + Player_Chosen_Francisco_Mejia + Player_Chosen_Freddie_Freeman
- + Player_Chosen_Gary_Sanchez + Player_Chosen_Jake_Lamb
- + Player_Chosen_Jose_Marmolejos + Player_Chosen_Jose_Martinez
- + Player_Chosen_Luke_Voit + Player_Chosen_Max_Muncy
- + Player_Chosen_Max_Stassi + Player_Chosen_Miguel_Cabrera
- + Player_Chosen_Mike_Zunino + Player_Chosen_Mitch_Garver
- + Player_Chosen_Pedro_Severino + Player_Chosen_Pete_Alonso
- + Player_Chosen_Ryan_O'Hearn + Player_Chosen_Salvador_Perez
- + Player_Chosen_Sandy_Leon + Player_Chosen_Tyler_Flowers
- + Player_Chosen_Tyler_Heineman + Player_Chosen_Will_Smith
- + Player_Chosen_Wilson_Ramos <= 2
-_C18: Player_Chosen_A.J._Minter + Player_Chosen_A.J._Pollock
- + Player_Chosen_Aaron_Civale + Player_Chosen_Aaron_Hicks
- + Player_Chosen_Aaron_Judge + Player_Chosen_Aaron_Loup
- + Player_Chosen_Adalberto_Mondesi + Player_Chosen_Adam_Cimber
- + Player_Chosen_Adam_Duvall + Player_Chosen_Adam_Ottavino
- + Player_Chosen_Adam_Plutko + Player_Chosen_Albert_Pujols
- + Player_Chosen_Alex_Cobb + Player_Chosen_Alex_Dickerson
- + Player_Chosen_Alex_Gordon + Player_Chosen_Alex_Verdugo
- + Player_Chosen_Alex_Young + Player_Chosen_Amed_Rosario
- + Player_Chosen_Andrew_Benintendi + Player_Chosen_Andrew_Chafin
- + Player_Chosen_Andrew_Heaney + Player_Chosen_Andrew_Kittredge
- + Player_Chosen_Anthony_Misiewicz + Player_Chosen_Anthony_Rendon
- + Player_Chosen_Anthony_Santander + Player_Chosen_Archie_Bradley
- + Player_Chosen_Asher_Wojciechowski + Player_Chosen_Austin_Brice
- + Player_Chosen_Austin_Hays + Player_Chosen_Austin_Riley
- + Player_Chosen_Austin_Romine + Player_Chosen_Blake_Snell
- + Player_Chosen_Blake_Treinen + Player_Chosen_Brad_Hand
- + Player_Chosen_Bradley_Zimmer + Player_Chosen_Brady_Singer
- + Player_Chosen_Brandon_Belt + Player_Chosen_Brandon_Crawford
- + Player_Chosen_Brandon_Lowe + Player_Chosen_Brandon_Nimmo
- + Player_Chosen_Brandon_Workman + Player_Chosen_Brett_Phillips
- + Player_Chosen_Brusdar_Graterol + Player_Chosen_Bryan_Garcia
- + Player_Chosen_Bryan_Shaw + Player_Chosen_Buck_Farmer
- + Player_Chosen_Byron_Buxton + Player_Chosen_C.J._Cron
- + Player_Chosen_Cal_Quantrill + Player_Chosen_Caleb_Baragar
- + Player_Chosen_Caleb_Ferguson + Player_Chosen_Cam_Bedrosian
- + Player_Chosen_Cameron_Maybin + Player_Chosen_Carl_Edwards
- + Player_Chosen_Carlos_Carrasco + Player_Chosen_Carlos_Santana
- + Player_Chosen_Carson_Fulmer + Player_Chosen_Carson_Kelly
- + Player_Chosen_Cedric_Mullins + Player_Chosen_Cesar_Hernandez
- + Player_Chosen_Chad_Green + Player_Chosen_Charlie_Morton
- + Player_Chosen_Chasen_Shreve + Player_Chosen_Chaz_Roe
+ + Player_Chosen_Caleb_Ferguson + Player_Chosen_Carl_Edwards
+ + Player_Chosen_Carlos_Estevez + Player_Chosen_Carlos_Rodon
+ + Player_Chosen_Chad_Green + Player_Chosen_Chasen_Shreve
+ + Player_Chosen_Chi_Chi_Gonzalez + Player_Chosen_Chris_Bassitt
  + Player_Chosen_Chris_Martin + Player_Chosen_Chris_Paddack
- + Player_Chosen_Chris_Taylor + Player_Chosen_Christian_Vazquez
- + Player_Chosen_Christian_Walker + Player_Chosen_Christin_Stewart
- + Player_Chosen_Cody_Bellinger + Player_Chosen_Cody_Stashak
- + Player_Chosen_Cole_Sulser + Player_Chosen_Colten_Brewer
- + Player_Chosen_Conner_Menez + Player_Chosen_Corey_Seager
- + Player_Chosen_Craig_Stammen + Player_Chosen_DJ_LeMahieu
- + Player_Chosen_Dan_Altavilla + Player_Chosen_Daniel_Vogelbach
- + Player_Chosen_Danny_Duffy + Player_Chosen_Dansby_Swanson
- + Player_Chosen_Dany_Jimenez + Player_Chosen_Darren_O'Day
- + Player_Chosen_David_Bednar + Player_Chosen_David_Fletcher
- + Player_Chosen_David_Hale + Player_Chosen_David_Hess
- + Player_Chosen_David_Peralta + Player_Chosen_David_Peterson
- + Player_Chosen_Dellin_Betances + Player_Chosen_Dennis_Santana
- + Player_Chosen_Devin_Smeltzer + Player_Chosen_Diego_Castillo
- + Player_Chosen_Dinelson_Lamet + Player_Chosen_Domingo_Santana
- + Player_Chosen_Dominic_Leone + Player_Chosen_Donovan_Solano
+ + Player_Chosen_Chris_Stratton + Player_Chosen_Codi_Heuer
+ + Player_Chosen_Cody_Stashak + Player_Chosen_Cole_Irvin
+ + Player_Chosen_Conner_Menez + Player_Chosen_Corbin_Burnes
+ + Player_Chosen_Corey_Knebel + Player_Chosen_Craig_Kimbrel
+ + Player_Chosen_Craig_Stammen + Player_Chosen_Dallas_Keuchel
+ + Player_Chosen_Dan_Altavilla + Player_Chosen_Dan_Winkler
+ + Player_Chosen_Daniel_Bard + Player_Chosen_Danny_Duffy
+ + Player_Chosen_Darren_O'Day + Player_Chosen_David_Bednar
+ + Player_Chosen_David_Hale + Player_Chosen_David_Peterson
+ + Player_Chosen_David_Phelps + Player_Chosen_Dellin_Betances
+ + Player_Chosen_Dennis_Santana + Player_Chosen_Deolis_Guerra
+ + Player_Chosen_Derek_Holland + Player_Chosen_Devin_Smeltzer
+ + Player_Chosen_Devin_Williams + Player_Chosen_Dillon_Maples
+ + Player_Chosen_Dinelson_Lamet + Player_Chosen_Dovydas_Neverauskas
  + Player_Chosen_Drew_Pomeranz + Player_Chosen_Drew_Smith
- + Player_Chosen_Drew_Smyly + Player_Chosen_Dustin_May
- + Player_Chosen_Dwight_Smith + Player_Chosen_Dylan_Bundy
- + Player_Chosen_Dylan_Floro + Player_Chosen_Eddie_Rosario
- + Player_Chosen_Eduardo_Escobar + Player_Chosen_Edwin_Diaz
- + Player_Chosen_Emilio_Pagan + Player_Chosen_Evan_Longoria
- + Player_Chosen_Evan_Phillips + Player_Chosen_Evan_White
- + Player_Chosen_Felix_Pena + Player_Chosen_Fernando_Tatis
- + Player_Chosen_Franchy_Cordero + Player_Chosen_Francisco_Lindor
- + Player_Chosen_Francisco_Mejia + Player_Chosen_Franmil_Reyes
- + Player_Chosen_Freddie_Freeman + Player_Chosen_Gabe_Speier
- + Player_Chosen_Garrett_Richards + Player_Chosen_Gary_Sanchez
- + Player_Chosen_Gerrit_Cole + Player_Chosen_Giancarlo_Stanton
- + Player_Chosen_Glenn_Sparkman + Player_Chosen_Gleyber_Torres
+ + Player_Chosen_Duane_Underwood + Player_Chosen_Dustin_May
+ + Player_Chosen_Dylan_Cease + Player_Chosen_Dylan_Floro
+ + Player_Chosen_Edwin_Diaz + Player_Chosen_Emilio_Pagan
+ + Player_Chosen_Eric_Lauer + Player_Chosen_Eric_Yardley
+ + Player_Chosen_Evan_Marshall + Player_Chosen_Frankie_Montas
+ + Player_Chosen_Freddy_Peralta + Player_Chosen_Gabe_Speier
+ + Player_Chosen_Garrett_Richards + Player_Chosen_Geoff_Hartlieb
+ + Player_Chosen_German_Marquez + Player_Chosen_Gerrit_Cole
+ + Player_Chosen_Gio_Gonzalez + Player_Chosen_Glenn_Sparkman
  + Player_Chosen_Grant_Dayton + Player_Chosen_Greg_Holland
- + Player_Chosen_Gregory_Soto + Player_Chosen_Griffin_Canning
- + Player_Chosen_Hansel_Robles + Player_Chosen_Hanser_Alberto
- + Player_Chosen_Harold_Castro + Player_Chosen_Heath_Hembree
- + Player_Chosen_Hector_Rondon + Player_Chosen_Hoby_Milner
- + Player_Chosen_Homer_Bailey + Player_Chosen_Hunter_Renfroe
- + Player_Chosen_Hunter_Strickland + Player_Chosen_Ian_Kennedy
- + Player_Chosen_Ivan_Nova + Player_Chosen_J.A._Happ
- + Player_Chosen_J.D._Davis + Player_Chosen_J.D._Martinez
- + Player_Chosen_J.P._Crawford + Player_Chosen_JaCoby_Jones
- + Player_Chosen_Jacob_Barnes + Player_Chosen_Jacob_deGrom
- + Player_Chosen_Jake_Lamb + Player_Chosen_Jake_McGee
- + Player_Chosen_Jake_Newberry + Player_Chosen_Jalen_Beeks
- + Player_Chosen_James_Karinchak + Player_Chosen_James_Paxton
- + 2 Player_Chosen_Javy_Guerra + Player_Chosen_Jeff_McNeil
- + Player_Chosen_Jeff_Samardzija + Player_Chosen_Jeffrey_Springs
- + Player_Chosen_Jeimer_Candelario + Player_Chosen_Jeurys_Familia
- + Player_Chosen_Jhoulys_Chacin + Player_Chosen_Joe_Jimenez
- + Player_Chosen_Joe_Kelly + Player_Chosen_Joey_Lucchesi
- + Player_Chosen_Joey_Wendle + Player_Chosen_Johan_Camargo
- + Player_Chosen_John_Means + Player_Chosen_Johnny_Cueto
- + Player_Chosen_Jonathan_Arauz + Player_Chosen_Jonathan_Holder
- + Player_Chosen_Jonathan_Loaisiga + Player_Chosen_Jonathan_Schoop
- + Player_Chosen_Jorge_Lopez + Player_Chosen_Jorge_Polanco
- + Player_Chosen_Jorge_Soler + Player_Chosen_Jose_Alvarado
- + Player_Chosen_Jose_Berrios + Player_Chosen_Jose_Cisnero
- + Player_Chosen_Jose_Marmolejos + Player_Chosen_Jose_Martinez
- + Player_Chosen_Jose_Peraza + Player_Chosen_Jose_Ramirez
- + Player_Chosen_Josh_Donaldson + Player_Chosen_Josh_Naylor
- + Player_Chosen_Josh_Osich + Player_Chosen_Josh_Sborz
+ + Player_Chosen_Hunter_Strickland + Player_Chosen_Ian_Hamilton
+ + Player_Chosen_Ian_Kennedy + Player_Chosen_J.A._Happ
+ + Player_Chosen_J.B._Wendelken + Player_Chosen_J.P._Feyereisen
+ + Player_Chosen_Jace_Fry + Player_Chosen_Jacob_deGrom
+ + Player_Chosen_Jairo_Diaz + Player_Chosen_Jake_Arrieta
+ + Player_Chosen_Jake_McGee + Player_Chosen_Jake_Newberry
+ + Player_Chosen_James_Paxton + Player_Chosen_James_Pazos
+ + Player_Chosen_Jeff_Hoffman + Player_Chosen_Jeff_Samardzija
+ + Player_Chosen_Jeremy_Jeffress + Player_Chosen_Jesus_Luzardo
+ + Player_Chosen_Jeurys_Familia + Player_Chosen_Jhoulys_Chacin
+ + Player_Chosen_Jimmy_Cordero + Player_Chosen_Joe_Kelly
+ + Player_Chosen_Joe_Musgrove + Player_Chosen_Joey_Lucchesi
+ + Player_Chosen_Johnny_Cueto + Player_Chosen_Jon_Gray
+ + Player_Chosen_Jon_Lester + Player_Chosen_Jonathan_Holder
+ + Player_Chosen_Jonathan_Loaisiga + Player_Chosen_Jorge_Lopez
+ + Player_Chosen_Jose_Alvarez + Player_Chosen_Jose_Berrios
+ + Player_Chosen_Josh_Hader + Player_Chosen_Josh_Sborz
  + Player_Chosen_Josh_Staumont + Player_Chosen_Josh_Tomlin
- + Player_Chosen_Julio_Urias + Player_Chosen_Junior_Guerra
- + Player_Chosen_Jurickson_Profar + Player_Chosen_Justin_Dunn
- + Player_Chosen_Justin_Turner + Player_Chosen_Justin_Upton
- + Player_Chosen_Justin_Wilson + Player_Chosen_Justus_Sheffield
- + Player_Chosen_Kendall_Graveman + Player_Chosen_Kenley_Jansen
- + Player_Chosen_Kenta_Maeda + Player_Chosen_Ketel_Marte
- + Player_Chosen_Kevin_Gausman + Player_Chosen_Kevin_Ginkel
- + Player_Chosen_Kevin_McCarthy + Player_Chosen_Kevin_Pillar
- + Player_Chosen_Keynan_Middleton + Player_Chosen_Kirby_Yates
- + Player_Chosen_Kohl_Stewart + Player_Chosen_Kole_Calhoun
- + Player_Chosen_Kyle_Lewis + Player_Chosen_Kyle_Seager
- + Player_Chosen_Kyle_Wright + Player_Chosen_Kyle_Zimmer
- + Player_Chosen_Logan_Webb + Player_Chosen_Luis_Arraez
- + Player_Chosen_Luis_Avilan + Player_Chosen_Luis_Perdomo
- + Player_Chosen_Luke_Jackson + Player_Chosen_Luke_Voit
- + Player_Chosen_Luke_Weaver + Player_Chosen_Madison_Bumgarner
- + Player_Chosen_Maikel_Franco + Player_Chosen_Mallex_Smith
- + Player_Chosen_Manny_Machado + Player_Chosen_Manuel_Margot
- + Player_Chosen_Marcell_Ozuna + Player_Chosen_Marco_Gonzales
- + Player_Chosen_Marcus_Walden + Player_Chosen_Martin_Perez
- + Player_Chosen_Matt_Andriese + Player_Chosen_Matt_Barnes
- + Player_Chosen_Matt_Hall + Player_Chosen_Matt_Magill
+ + Player_Chosen_Julio_Urias + Player_Chosen_Justin_Dunn
+ + Player_Chosen_Justin_Grimm + Player_Chosen_Justin_Wilson
+ + Player_Chosen_Justus_Sheffield + Player_Chosen_Kenley_Jansen
+ + Player_Chosen_Kenta_Maeda + Player_Chosen_Kevin_Gausman
+ + Player_Chosen_Kevin_McCarthy + Player_Chosen_Kirby_Yates
+ + Player_Chosen_Kyle_Freeland + Player_Chosen_Kyle_Hendricks
+ + Player_Chosen_Kyle_Ryan + Player_Chosen_Kyle_Wright
+ + Player_Chosen_Kyle_Zimmer + Player_Chosen_Lewis_Thorpe
+ + Player_Chosen_Liam_Hendriks + Player_Chosen_Logan_Webb
+ + Player_Chosen_Lucas_Giolito + Player_Chosen_Luis_Avilan
+ + Player_Chosen_Luis_Perdomo + Player_Chosen_Luke_Jackson
+ + Player_Chosen_Marco_Gonzales + Player_Chosen_Matt_Magill
  + Player_Chosen_Matt_Strahm + Player_Chosen_Matt_Wisler
- + Player_Chosen_Matthew_Boyd + Player_Chosen_Max_Fried
- + Player_Chosen_Max_Kepler + Player_Chosen_Max_Muncy
- + Player_Chosen_Max_Stassi + Player_Chosen_Merrill_Kelly
- + Player_Chosen_Michael_Chavis + Player_Chosen_Michael_Conforto
- + Player_Chosen_Michael_Fulmer + Player_Chosen_Michael_King
- + Player_Chosen_Michael_Wacha + Player_Chosen_Miguel_Andujar
- + Player_Chosen_Miguel_Cabrera + Player_Chosen_Miguel_Castro
- + Player_Chosen_Miguel_Sano + Player_Chosen_Mike_Brosseau
- + Player_Chosen_Mike_Clevinger + Player_Chosen_Mike_Mayers
- + Player_Chosen_Mike_Soroka + Player_Chosen_Mike_Trout
- + Player_Chosen_Mike_Yastrzemski + Player_Chosen_Mike_Zunino
- + Player_Chosen_Mitch_Garver + Player_Chosen_Mookie_Betts
- + Player_Chosen_Mychal_Givens + Player_Chosen_Nathan_Eovaldi
- + Player_Chosen_Nelson_Cruz + Player_Chosen_Nestor_Cortes
- + Player_Chosen_Nick_Ahmed + Player_Chosen_Nick_Anderson
- + Player_Chosen_Nick_Wittgren + Player_Chosen_Noe_Ramirez
- + Player_Chosen_Oliver_Drake + Player_Chosen_Oliver_Perez
- + Player_Chosen_Oscar_Mercado + Player_Chosen_Ozzie_Albies
- + Player_Chosen_Pablo_Sandoval + Player_Chosen_Pat_Valaika
- + Player_Chosen_Patrick_Sandoval + Player_Chosen_Paul_Fry
+ + Player_Chosen_Max_Fried + Player_Chosen_Michael_King
+ + Player_Chosen_Michael_Wacha + Player_Chosen_Miguel_Del_Pozo
+ + Player_Chosen_Mike_Fiers + Player_Chosen_Mike_Soroka
+ + Player_Chosen_Nestor_Cortes + Player_Chosen_Nick_Margevicius
+ + Player_Chosen_Nick_Pivetta + Player_Chosen_Nik_Turley
  + Player_Chosen_Paul_Sewald + Player_Chosen_Pedro_Baez
- + Player_Chosen_Pedro_Severino + Player_Chosen_Pete_Alonso
- + Player_Chosen_Phil_Maton + Player_Chosen_Phillips_Valdez
- + Player_Chosen_Pierce_Johnson + Player_Chosen_Randy_Dobnak
- + Player_Chosen_Renato_Nunez + Player_Chosen_Rich_Hill
- + Player_Chosen_Richard_Bleier + Player_Chosen_Rick_Porcello
- + Player_Chosen_Rico_Garcia + Player_Chosen_Rio_Ruiz
- + Player_Chosen_Robbie_Ray + Player_Chosen_Ronald_Acuna
- + Player_Chosen_Ross_Stripling + Player_Chosen_Ryan_Brasier
- + Player_Chosen_Ryan_Buchter + Player_Chosen_Ryan_O'Hearn
- + Player_Chosen_Ryan_Thompson + Player_Chosen_Ryan_Weber
- + Player_Chosen_Ryan_Yarbrough + Player_Chosen_Salvador_Perez
- + Player_Chosen_Sam_Coonrod + Player_Chosen_Sandy_Leon
+ + Player_Chosen_Phillip_Diehl + Player_Chosen_Pierce_Johnson
+ + Player_Chosen_Ramon_Rosso + Player_Chosen_Randy_Dobnak
+ + Player_Chosen_Richard_Rodriguez + Player_Chosen_Rick_Porcello
+ + Player_Chosen_Rico_Garcia + Player_Chosen_Robbie_Erlin
+ + Player_Chosen_Ross_Detwiler + Player_Chosen_Ross_Stripling
+ + Player_Chosen_Rowan_Wick + Player_Chosen_Ryan_Tepera
  + Player_Chosen_Scott_Alexander + Player_Chosen_Scott_Barlow
- + Player_Chosen_Sean_Newcomb + Player_Chosen_Sergio_Romo
- + Player_Chosen_Seth_Lugo + Player_Chosen_Shane_Bieber
+ + Player_Chosen_Sean_Manaea + Player_Chosen_Sean_Newcomb
+ + Player_Chosen_Sergio_Romo + Player_Chosen_Seth_Lugo
  + Player_Chosen_Shane_Greene + Player_Chosen_Shaun_Anderson
- + Player_Chosen_Shawn_Armstrong + Player_Chosen_Shohei_Ohtani
- + Player_Chosen_Starling_Marte + Player_Chosen_Stefan_Crichton
- + Player_Chosen_Steven_Matz + Player_Chosen_Taijuan_Walker
- + Player_Chosen_Tanner_Scott + Player_Chosen_Taylor_Clarke
- + Player_Chosen_Taylor_Rogers + Player_Chosen_Taylor_Ward
- + Player_Chosen_Taylor_Widener + Player_Chosen_Taylor_Williams
- + Player_Chosen_Tim_Hill + Player_Chosen_Tommy_Kahnle
- + Player_Chosen_Tommy_La_Stella + Player_Chosen_Tommy_Milone
- + Player_Chosen_Tommy_Pham + Player_Chosen_Tony_Watson
- + Player_Chosen_Touki_Toussaint + Player_Chosen_Travis_Lakins
- + Player_Chosen_Trent_Grisham + Player_Chosen_Trevor_Gott
- + Player_Chosen_Trevor_May + Player_Chosen_Trevor_Rosenthal
- + Player_Chosen_Ty_Buttrey + Player_Chosen_Tyler_Anderson
+ + Player_Chosen_Steve_Cishek + Player_Chosen_Steven_Brault
+ + Player_Chosen_Steven_Matz + Player_Chosen_T.J._McFarland
+ + Player_Chosen_Taijuan_Walker + Player_Chosen_Taylor_Rogers
+ + Player_Chosen_Taylor_Williams + Player_Chosen_Tim_Hill
+ + Player_Chosen_Tommy_Hunter + Player_Chosen_Tony_Watson
+ + Player_Chosen_Touki_Toussaint + Player_Chosen_Trevor_Gott
+ + Player_Chosen_Trevor_Kelley + Player_Chosen_Trevor_May
+ + Player_Chosen_Trevor_Rosenthal + Player_Chosen_Trevor_Williams
+ + Player_Chosen_Tyler_Anderson + Player_Chosen_Tyler_Chatwood
  + Player_Chosen_Tyler_Clippard + Player_Chosen_Tyler_Duffey
- + Player_Chosen_Tyler_Flowers + Player_Chosen_Tyler_Glasnow
- + Player_Chosen_Tyler_Heineman + Player_Chosen_Tyler_Matzek
- + Player_Chosen_Tyler_Zuber + Player_Chosen_Wade_LeBlanc
+ + Player_Chosen_Tyler_Kinley + Player_Chosen_Tyler_Matzek
+ + Player_Chosen_Tyler_Zuber + Player_Chosen_Vince_Velasquez
+ + Player_Chosen_Walker_Buehler + Player_Chosen_Wandy_Peralta
+ + Player_Chosen_Yency_Almonte + Player_Chosen_Yohan_Ramirez
+ + Player_Chosen_Yu_Darvish + Player_Chosen_Yusei_Kikuchi
+ + Player_Chosen_Zac_Grotz + Player_Chosen_Zach_Davies
+ + Player_Chosen_Zach_Eflin + Player_Chosen_Zack_Britton
+ + Player_Chosen_Zack_Wheeler = 1
+_C16: Player_Chosen_Anthony_Rizzo + Player_Chosen_Austin_Hedges
+ + Player_Chosen_Austin_Nola + Player_Chosen_Brandon_Belt
+ + Player_Chosen_Daniel_Murphy + Player_Chosen_Daniel_Vogelbach
+ + Player_Chosen_Evan_White + Player_Chosen_Freddie_Freeman
+ + Player_Chosen_Gary_Sanchez + Player_Chosen_J.T._Realmuto
+ + Player_Chosen_Jacob_Stallings + Player_Chosen_James_McCann
+ + Player_Chosen_Jose_Abreu + Player_Chosen_Jose_Marmolejos
+ + Player_Chosen_Jose_Osuna + Player_Chosen_Josh_Bell
+ + Player_Chosen_Justin_Smoak + Player_Chosen_Manny_Pina
+ + Player_Chosen_Matt_Adams + Player_Chosen_Matt_Beaty
+ + Player_Chosen_Matt_Olson + Player_Chosen_Max_Muncy
+ + Player_Chosen_Miguel_Sano + Player_Chosen_Mike_Ford
+ + Player_Chosen_Mitch_Garver + Player_Chosen_Pete_Alonso
+ + Player_Chosen_Rhys_Hoskins + Player_Chosen_Ryan_O'Hearn
+ + Player_Chosen_Salvador_Perez + Player_Chosen_Sean_Murphy
+ + Player_Chosen_Tony_Wolters + Player_Chosen_Travis_d'Arnaud
+ + Player_Chosen_Will_Smith + Player_Chosen_Willson_Contreras
+ + Player_Chosen_Wilson_Ramos + Player_Chosen_Yasmani_Grandal >= 1
+_C17: Player_Chosen_Anthony_Rizzo + Player_Chosen_Austin_Hedges
+ + Player_Chosen_Austin_Nola + Player_Chosen_Brandon_Belt
+ + Player_Chosen_Daniel_Murphy + Player_Chosen_Daniel_Vogelbach
+ + Player_Chosen_Evan_White + Player_Chosen_Freddie_Freeman
+ + Player_Chosen_Gary_Sanchez + Player_Chosen_J.T._Realmuto
+ + Player_Chosen_Jacob_Stallings + Player_Chosen_James_McCann
+ + Player_Chosen_Jose_Abreu + Player_Chosen_Jose_Marmolejos
+ + Player_Chosen_Jose_Osuna + Player_Chosen_Josh_Bell
+ + Player_Chosen_Justin_Smoak + Player_Chosen_Manny_Pina
+ + Player_Chosen_Matt_Adams + Player_Chosen_Matt_Beaty
+ + Player_Chosen_Matt_Olson + Player_Chosen_Max_Muncy
+ + Player_Chosen_Miguel_Sano + Player_Chosen_Mike_Ford
+ + Player_Chosen_Mitch_Garver + Player_Chosen_Pete_Alonso
+ + Player_Chosen_Rhys_Hoskins + Player_Chosen_Ryan_O'Hearn
+ + Player_Chosen_Salvador_Perez + Player_Chosen_Sean_Murphy
+ + Player_Chosen_Tony_Wolters + Player_Chosen_Travis_d'Arnaud
+ + Player_Chosen_Will_Smith + Player_Chosen_Willson_Contreras
+ + Player_Chosen_Wilson_Ramos + Player_Chosen_Yasmani_Grandal <= 2
+_C18: Player_Chosen_A.J._Minter + Player_Chosen_A.J._Pollock
+ + Player_Chosen_Aaron_Bummer + Player_Chosen_Aaron_Hicks
+ + Player_Chosen_Aaron_Judge + Player_Chosen_Aaron_Nola
+ + Player_Chosen_Abraham_Almonte + Player_Chosen_Adalberto_Mondesi
+ + Player_Chosen_Adam_Engel + Player_Chosen_Adam_Haseley
+ + Player_Chosen_Adam_Morgan + Player_Chosen_Adam_Ottavino
+ + Player_Chosen_Adrian_Houser + Player_Chosen_Alec_Mills
+ + Player_Chosen_Alex_Claudio + Player_Chosen_Alex_Colome
+ + Player_Chosen_Alex_Dickerson + Player_Chosen_Alex_Gordon
+ + Player_Chosen_Amed_Rosario + Player_Chosen_Andres_Gimenez
+ + Player_Chosen_Andrew_McCutchen + Player_Chosen_Anthony_Misiewicz
+ + Player_Chosen_Anthony_Rizzo + Player_Chosen_Antonio_Senzatela
+ + Player_Chosen_Ashton_Goudeau + Player_Chosen_Austin_Davis
+ + Player_Chosen_Austin_Hedges + Player_Chosen_Austin_Nola
+ + Player_Chosen_Avisail_Garcia + Player_Chosen_Ben_Gamel
+ + Player_Chosen_Blake_Treinen + Player_Chosen_Bobby_Wahl
+ + Player_Chosen_Brady_Singer + Player_Chosen_Brandon_Belt
+ + Player_Chosen_Brandon_Crawford + Player_Chosen_Brandon_Nimmo
+ + Player_Chosen_Brandon_Woodruff + Player_Chosen_Brent_Suter
+ + Player_Chosen_Brett_Anderson + Player_Chosen_Brett_Gardner
+ + Player_Chosen_Brett_Phillips + Player_Chosen_Brusdar_Graterol
+ + Player_Chosen_Bryan_Reynolds + Player_Chosen_Bryan_Shaw
+ + Player_Chosen_Bryce_Harper + Player_Chosen_Burch_Smith
+ + Player_Chosen_Byron_Buxton + Player_Chosen_Cal_Quantrill
+ + Player_Chosen_Caleb_Baragar + Player_Chosen_Caleb_Ferguson
+ + Player_Chosen_Carl_Edwards + Player_Chosen_Carlos_Estevez
+ + Player_Chosen_Carlos_Rodon + Player_Chosen_Chad_Green
+ + Player_Chosen_Chad_Pinder + Player_Chosen_Charlie_Blackmon
+ + Player_Chosen_Chasen_Shreve + Player_Chosen_Chi_Chi_Gonzalez
+ + Player_Chosen_Chris_Bassitt + Player_Chosen_Chris_Martin
+ + Player_Chosen_Chris_Owings + Player_Chosen_Chris_Paddack
+ + Player_Chosen_Chris_Stratton + Player_Chosen_Chris_Taylor
+ + Player_Chosen_Christian_Yelich + Player_Chosen_Codi_Heuer
+ + Player_Chosen_Cody_Bellinger + Player_Chosen_Cody_Stashak
+ + Player_Chosen_Cole_Irvin + Player_Chosen_Cole_Tucker
+ + Player_Chosen_Conner_Menez + Player_Chosen_Corbin_Burnes
+ + Player_Chosen_Corey_Knebel + Player_Chosen_Corey_Seager
+ + Player_Chosen_Craig_Kimbrel + Player_Chosen_Craig_Stammen
+ + Player_Chosen_DJ_LeMahieu + Player_Chosen_Dallas_Keuchel
+ + Player_Chosen_Dan_Altavilla + Player_Chosen_Dan_Winkler
+ + Player_Chosen_Daniel_Bard + Player_Chosen_Daniel_Murphy
+ + Player_Chosen_Daniel_Vogelbach + Player_Chosen_Danny_Duffy
+ + Player_Chosen_Dansby_Swanson + Player_Chosen_Darren_O'Day
+ + Player_Chosen_David_Bednar + Player_Chosen_David_Bote
+ + Player_Chosen_David_Dahl + Player_Chosen_David_Hale
+ + Player_Chosen_David_Peterson + Player_Chosen_David_Phelps
+ + Player_Chosen_Dellin_Betances + Player_Chosen_Dennis_Santana
+ + Player_Chosen_Deolis_Guerra + Player_Chosen_Derek_Holland
+ + Player_Chosen_Devin_Smeltzer + Player_Chosen_Devin_Williams
+ + Player_Chosen_Didi_Gregorius + Player_Chosen_Dillon_Maples
+ + Player_Chosen_Dinelson_Lamet + Player_Chosen_Dominic_Smith
+ + Player_Chosen_Donovan_Solano + Player_Chosen_Dovydas_Neverauskas
+ + Player_Chosen_Drew_Pomeranz + Player_Chosen_Drew_Smith
+ + Player_Chosen_Duane_Underwood + Player_Chosen_Dustin_May
+ + Player_Chosen_Dylan_Cease + Player_Chosen_Dylan_Floro
+ + Player_Chosen_Edwin_Diaz + Player_Chosen_Ehire_Adrianza
+ + Player_Chosen_Eloy_Jimenez + Player_Chosen_Emilio_Pagan
+ + Player_Chosen_Ender_Inciarte + Player_Chosen_Eric_Lauer
+ + Player_Chosen_Eric_Yardley + Player_Chosen_Erik_Gonzalez
+ + Player_Chosen_Evan_Longoria + Player_Chosen_Evan_Marshall
+ + Player_Chosen_Evan_White + Player_Chosen_Fernando_Tatis
+ + Player_Chosen_Franchy_Cordero + Player_Chosen_Frankie_Montas
+ + Player_Chosen_Freddie_Freeman + Player_Chosen_Freddy_Peralta
+ + Player_Chosen_Gabe_Speier + Player_Chosen_Garrett_Richards
+ + Player_Chosen_Gary_Sanchez + Player_Chosen_Geoff_Hartlieb
+ + Player_Chosen_German_Marquez + Player_Chosen_Gerrit_Cole
+ + Player_Chosen_Giancarlo_Stanton + Player_Chosen_Gio_Gonzalez
+ + Player_Chosen_Glenn_Sparkman + Player_Chosen_Grant_Dayton
+ + Player_Chosen_Greg_Holland + Player_Chosen_Guillermo_Heredia
+ + Player_Chosen_Hunter_Strickland + Player_Chosen_Ian_Hamilton
+ + Player_Chosen_Ian_Happ + Player_Chosen_Ian_Kennedy
+ + Player_Chosen_J.A._Happ + Player_Chosen_J.B._Wendelken
+ + Player_Chosen_J.D._Davis + Player_Chosen_J.P._Crawford
+ + Player_Chosen_J.P._Feyereisen + Player_Chosen_J.T._Realmuto
+ + Player_Chosen_Jace_Fry + Player_Chosen_Jacob_Stallings
+ + Player_Chosen_Jacob_deGrom + Player_Chosen_Jairo_Diaz
+ + Player_Chosen_Jake_Arrieta + Player_Chosen_Jake_Cave
+ + Player_Chosen_Jake_Cronenworth + Player_Chosen_Jake_McGee
+ + Player_Chosen_Jake_Newberry + Player_Chosen_James_McCann
+ + Player_Chosen_James_Paxton + Player_Chosen_James_Pazos
+ + Player_Chosen_Jason_Heyward + Player_Chosen_Javier_Baez
+ + Player_Chosen_Jay_Bruce + Player_Chosen_Jean_Segura
+ + Player_Chosen_Jedd_Gyorko + Player_Chosen_Jeff_Hoffman
+ + Player_Chosen_Jeff_Samardzija + Player_Chosen_Jeremy_Jeffress
+ + Player_Chosen_Jesus_Luzardo + Player_Chosen_Jeurys_Familia
+ + Player_Chosen_Jhoulys_Chacin + Player_Chosen_Jimmy_Cordero
+ + Player_Chosen_Joc_Pederson + Player_Chosen_Joe_Kelly
+ + Player_Chosen_Joe_Musgrove + Player_Chosen_Joey_Lucchesi
+ + Player_Chosen_Johan_Camargo + Player_Chosen_Johnny_Cueto
+ + Player_Chosen_Jon_Gray + Player_Chosen_Jon_Lester
+ + Player_Chosen_Jonathan_Holder + Player_Chosen_Jonathan_Loaisiga
+ + Player_Chosen_Jorge_Lopez + Player_Chosen_Jorge_Soler
+ + Player_Chosen_Jose_Abreu + Player_Chosen_Jose_Alvarez
+ + Player_Chosen_Jose_Berrios + Player_Chosen_Jose_Marmolejos
+ + Player_Chosen_Jose_Osuna + Player_Chosen_Josh_Bell
+ + Player_Chosen_Josh_Hader + Player_Chosen_Josh_Sborz
+ + Player_Chosen_Josh_Staumont + Player_Chosen_Josh_Tomlin
+ + Player_Chosen_Julio_Urias + Player_Chosen_Jurickson_Profar
+ + Player_Chosen_Justin_Dunn + Player_Chosen_Justin_Grimm
+ + Player_Chosen_Justin_Smoak + Player_Chosen_Justin_Turner
+ + Player_Chosen_Justin_Wilson + Player_Chosen_Justus_Sheffield
+ + Player_Chosen_Kenley_Jansen + Player_Chosen_Kenta_Maeda
+ + Player_Chosen_Keston_Hiura + Player_Chosen_Kevin_Gausman
+ + Player_Chosen_Kevin_McCarthy + Player_Chosen_Kevin_Newman
+ + Player_Chosen_Khris_Davis + Player_Chosen_Kirby_Yates
+ + Player_Chosen_Kris_Bryant + Player_Chosen_Kyle_Freeland
+ + Player_Chosen_Kyle_Hendricks + Player_Chosen_Kyle_Lewis
+ + Player_Chosen_Kyle_Ryan + Player_Chosen_Kyle_Schwarber
+ + Player_Chosen_Kyle_Seager + Player_Chosen_Kyle_Wright
+ + Player_Chosen_Kyle_Zimmer + Player_Chosen_Leury_Garcia
+ + Player_Chosen_Lewis_Thorpe + Player_Chosen_Liam_Hendriks
+ + Player_Chosen_Logan_Webb + Player_Chosen_Lucas_Giolito
+ + Player_Chosen_Luis_Arraez + Player_Chosen_Luis_Avilan
+ + Player_Chosen_Luis_Perdomo + Player_Chosen_Luis_Robert
+ + Player_Chosen_Luke_Jackson + Player_Chosen_Maikel_Franco
+ + Player_Chosen_Mallex_Smith + Player_Chosen_Manny_Machado
+ + Player_Chosen_Manny_Pina + Player_Chosen_Marcell_Ozuna
+ + Player_Chosen_Marco_Gonzales + Player_Chosen_Marcus_Semien
+ + Player_Chosen_Mark_Canha + Player_Chosen_Marwin_Gonzalez
+ + Player_Chosen_Matt_Adams + Player_Chosen_Matt_Beaty
+ + Player_Chosen_Matt_Chapman + Player_Chosen_Matt_Kemp
+ + Player_Chosen_Matt_Magill + Player_Chosen_Matt_Olson
+ + Player_Chosen_Matt_Strahm + Player_Chosen_Matt_Wisler
+ + Player_Chosen_Max_Fried + Player_Chosen_Max_Kepler
+ + Player_Chosen_Max_Muncy + Player_Chosen_Michael_Conforto
+ + Player_Chosen_Michael_King + Player_Chosen_Michael_Wacha
+ + Player_Chosen_Miguel_Del_Pozo + Player_Chosen_Miguel_Sano
+ + Player_Chosen_Mike_Fiers + Player_Chosen_Mike_Ford
+ + Player_Chosen_Mike_Soroka + Player_Chosen_Mike_Yastrzemski
+ + Player_Chosen_Mitch_Garver + Player_Chosen_Nelson_Cruz
+ + Player_Chosen_Nestor_Cortes + Player_Chosen_Nick_Madrigal
+ + Player_Chosen_Nick_Margevicius + Player_Chosen_Nick_Pivetta
+ + Player_Chosen_Nico_Hoerner + Player_Chosen_Nik_Turley
+ + Player_Chosen_Nolan_Arenado + Player_Chosen_Orlando_Arcia
+ + Player_Chosen_Ozzie_Albies + Player_Chosen_Paul_Sewald
+ + Player_Chosen_Pedro_Baez + Player_Chosen_Pete_Alonso
+ + Player_Chosen_Phillip_Diehl + Player_Chosen_Phillip_Evans
+ + Player_Chosen_Pierce_Johnson + Player_Chosen_Ramon_Laureano
+ + Player_Chosen_Ramon_Rosso + Player_Chosen_Randy_Dobnak
+ + Player_Chosen_Rhys_Hoskins + Player_Chosen_Richard_Rodriguez
+ + Player_Chosen_Rick_Porcello + Player_Chosen_Rico_Garcia
+ + Player_Chosen_Robbie_Erlin + Player_Chosen_Robinson_Cano
+ + Player_Chosen_Ronald_Acuna + Player_Chosen_Ross_Detwiler
+ + Player_Chosen_Ross_Stripling + Player_Chosen_Rowan_Wick
+ + Player_Chosen_Ryan_McMahon + Player_Chosen_Ryan_O'Hearn
+ + Player_Chosen_Ryan_Tepera + Player_Chosen_Salvador_Perez
+ + Player_Chosen_Scott_Alexander + Player_Chosen_Scott_Barlow
+ + Player_Chosen_Scott_Kingery + Player_Chosen_Sean_Manaea
+ + Player_Chosen_Sean_Murphy + Player_Chosen_Sean_Newcomb
+ + Player_Chosen_Sergio_Romo + Player_Chosen_Seth_Lugo
+ + Player_Chosen_Shane_Greene + Player_Chosen_Shaun_Anderson
+ + Player_Chosen_Stephen_Piscotty + Player_Chosen_Steve_Cishek
+ + Player_Chosen_Steven_Brault + Player_Chosen_Steven_Duggar
+ + Player_Chosen_Steven_Matz + Player_Chosen_T.J._McFarland
+ + Player_Chosen_Taijuan_Walker + Player_Chosen_Taylor_Rogers
+ + Player_Chosen_Taylor_Williams + Player_Chosen_Tim_Hill
+ + Player_Chosen_Tommy_Hunter + Player_Chosen_Tommy_Pham
+ + Player_Chosen_Tony_Watson + Player_Chosen_Tony_Wolters
+ + Player_Chosen_Touki_Toussaint + Player_Chosen_Travis_d'Arnaud
+ + Player_Chosen_Trent_Grisham + Player_Chosen_Trevor_Gott
+ + Player_Chosen_Trevor_Kelley + Player_Chosen_Trevor_May
+ + Player_Chosen_Trevor_Rosenthal + Player_Chosen_Trevor_Story
+ + Player_Chosen_Trevor_Williams + Player_Chosen_Tyler_Anderson
+ + Player_Chosen_Tyler_Chatwood + Player_Chosen_Tyler_Clippard
+ + Player_Chosen_Tyler_Duffey + Player_Chosen_Tyler_Kinley
+ + Player_Chosen_Tyler_Matzek + Player_Chosen_Tyler_Wade
+ + Player_Chosen_Tyler_Zuber + Player_Chosen_Vince_Velasquez
  + Player_Chosen_Walker_Buehler + Player_Chosen_Wandy_Peralta
  + Player_Chosen_Whit_Merrifield + Player_Chosen_Wil_Myers
- + Player_Chosen_Will_Smith + Player_Chosen_Willy_Adames
- + Player_Chosen_Wilson_Ramos + Player_Chosen_Xander_Bogaerts
- + Player_Chosen_Yandy_Diaz + Player_Chosen_Yoan_Lopez
- + Player_Chosen_Yoenis_Cespedes + Player_Chosen_Yohan_Ramirez
- + Player_Chosen_Yonny_Chirinos + Player_Chosen_Yusei_Kikuchi
- + Player_Chosen_Zac_Gallen + Player_Chosen_Zac_Grotz
- + Player_Chosen_Zach_Davies + Player_Chosen_Zach_Plesac
- + Player_Chosen_Zack_Britton + Player_Chosen_Zack_Godley
- + Player_Chosen_Zack_Littell = 9
-_C2: Player_Chosen_Austin_Romine + Player_Chosen_Carson_Kelly
- + Player_Chosen_Christian_Vazquez + Player_Chosen_Francisco_Mejia
- + Player_Chosen_Gary_Sanchez + Player_Chosen_Max_Stassi
- + Player_Chosen_Mike_Zunino + Player_Chosen_Mitch_Garver
- + Player_Chosen_Pedro_Severino + Player_Chosen_Salvador_Perez
- + Player_Chosen_Sandy_Leon + Player_Chosen_Tyler_Flowers
- + Player_Chosen_Tyler_Heineman + Player_Chosen_Will_Smith
- + Player_Chosen_Wilson_Ramos <= 2
-_C3: Player_Chosen_Albert_Pujols + Player_Chosen_Brandon_Belt
- + Player_Chosen_C.J._Cron + Player_Chosen_Carlos_Santana
- + Player_Chosen_Christian_Walker + Player_Chosen_Daniel_Vogelbach
+ + Player_Chosen_Will_Smith + Player_Chosen_Willson_Contreras
+ + Player_Chosen_Wilmer_Flores + Player_Chosen_Wilson_Ramos
+ + Player_Chosen_Yasmani_Grandal + Player_Chosen_Yency_Almonte
+ + Player_Chosen_Yoan_Moncada + Player_Chosen_Yohan_Ramirez
+ + Player_Chosen_Yu_Darvish + Player_Chosen_Yusei_Kikuchi
+ + Player_Chosen_Zac_Grotz + Player_Chosen_Zach_Davies
+ + Player_Chosen_Zach_Eflin + Player_Chosen_Zack_Britton
+ + Player_Chosen_Zack_Wheeler = 9
+_C2: Player_Chosen_Austin_Hedges + Player_Chosen_Austin_Nola
+ + Player_Chosen_Gary_Sanchez + Player_Chosen_J.T._Realmuto
+ + Player_Chosen_Jacob_Stallings + Player_Chosen_James_McCann
+ + Player_Chosen_Manny_Pina + Player_Chosen_Mitch_Garver
+ + Player_Chosen_Salvador_Perez + Player_Chosen_Sean_Murphy
+ + Player_Chosen_Tony_Wolters + Player_Chosen_Travis_d'Arnaud
+ + Player_Chosen_Will_Smith + Player_Chosen_Willson_Contreras
+ + Player_Chosen_Wilson_Ramos + Player_Chosen_Yasmani_Grandal <= 2
+_C3: Player_Chosen_Anthony_Rizzo + Player_Chosen_Brandon_Belt
+ + Player_Chosen_Daniel_Murphy + Player_Chosen_Daniel_Vogelbach
  + Player_Chosen_Evan_White + Player_Chosen_Freddie_Freeman
- + Player_Chosen_Jake_Lamb + Player_Chosen_Jose_Marmolejos
- + Player_Chosen_Jose_Martinez + Player_Chosen_Luke_Voit
- + Player_Chosen_Max_Muncy + Player_Chosen_Miguel_Cabrera
- + Player_Chosen_Pete_Alonso + Player_Chosen_Ryan_O'Hearn >= 0
-_C4: Player_Chosen_Albert_Pujols + Player_Chosen_Brandon_Belt
- + Player_Chosen_C.J._Cron + Player_Chosen_Carlos_Santana
- + Player_Chosen_Christian_Walker + Player_Chosen_Daniel_Vogelbach
+ + Player_Chosen_Jose_Abreu + Player_Chosen_Jose_Marmolejos
+ + Player_Chosen_Jose_Osuna + Player_Chosen_Josh_Bell
+ + Player_Chosen_Justin_Smoak + Player_Chosen_Matt_Adams
+ + Player_Chosen_Matt_Beaty + Player_Chosen_Matt_Olson
+ + Player_Chosen_Max_Muncy + Player_Chosen_Miguel_Sano
+ + Player_Chosen_Mike_Ford + Player_Chosen_Pete_Alonso
+ + Player_Chosen_Rhys_Hoskins + Player_Chosen_Ryan_O'Hearn >= 0
+_C4: Player_Chosen_Anthony_Rizzo + Player_Chosen_Brandon_Belt
+ + Player_Chosen_Daniel_Murphy + Player_Chosen_Daniel_Vogelbach
  + Player_Chosen_Evan_White + Player_Chosen_Freddie_Freeman
- + Player_Chosen_Jake_Lamb + Player_Chosen_Jose_Marmolejos
- + Player_Chosen_Jose_Martinez + Player_Chosen_Luke_Voit
- + Player_Chosen_Max_Muncy + Player_Chosen_Miguel_Cabrera
- + Player_Chosen_Pete_Alonso + Player_Chosen_Ryan_O'Hearn <= 2
-_C5: Player_Chosen_Brandon_Lowe + Player_Chosen_Cesar_Hernandez
- + Player_Chosen_DJ_LeMahieu + Player_Chosen_Hanser_Alberto
- + Player_Chosen_Joey_Wendle + Player_Chosen_Jonathan_Schoop
- + Player_Chosen_Jurickson_Profar + Player_Chosen_Ketel_Marte
- + Player_Chosen_Luis_Arraez + Player_Chosen_Michael_Chavis
- + Player_Chosen_Ozzie_Albies + Player_Chosen_Tommy_La_Stella
- + Player_Chosen_Whit_Merrifield >= 1
-_C6: Player_Chosen_Brandon_Lowe + Player_Chosen_Cesar_Hernandez
- + Player_Chosen_DJ_LeMahieu + Player_Chosen_Hanser_Alberto
- + Player_Chosen_Joey_Wendle + Player_Chosen_Jonathan_Schoop
- + Player_Chosen_Jurickson_Profar + Player_Chosen_Ketel_Marte
- + Player_Chosen_Luis_Arraez + Player_Chosen_Michael_Chavis
- + Player_Chosen_Ozzie_Albies + Player_Chosen_Tommy_La_Stella
- + Player_Chosen_Whit_Merrifield <= 2
-_C7: Player_Chosen_Anthony_Rendon + Player_Chosen_David_Fletcher
- + Player_Chosen_Eduardo_Escobar + Player_Chosen_Evan_Longoria
- + Player_Chosen_Harold_Castro + Player_Chosen_J.D._Davis
- + Player_Chosen_Jeff_McNeil + Player_Chosen_Jeimer_Candelario
- + Player_Chosen_Johan_Camargo + Player_Chosen_Jose_Ramirez
- + Player_Chosen_Josh_Donaldson + Player_Chosen_Justin_Turner
+ + Player_Chosen_Jose_Abreu + Player_Chosen_Jose_Marmolejos
+ + Player_Chosen_Jose_Osuna + Player_Chosen_Josh_Bell
+ + Player_Chosen_Justin_Smoak + Player_Chosen_Matt_Adams
+ + Player_Chosen_Matt_Beaty + Player_Chosen_Matt_Olson
+ + Player_Chosen_Max_Muncy + Player_Chosen_Miguel_Sano
+ + Player_Chosen_Mike_Ford + Player_Chosen_Pete_Alonso
+ + Player_Chosen_Rhys_Hoskins + Player_Chosen_Ryan_O'Hearn <= 2
+_C5: Player_Chosen_Chad_Pinder + Player_Chosen_Chris_Taylor
+ + Player_Chosen_DJ_LeMahieu + Player_Chosen_David_Bote
+ + Player_Chosen_Ehire_Adrianza + Player_Chosen_Jurickson_Profar
+ + Player_Chosen_Keston_Hiura + Player_Chosen_Leury_Garcia
+ + Player_Chosen_Luis_Arraez + Player_Chosen_Nick_Madrigal
+ + Player_Chosen_Nico_Hoerner + Player_Chosen_Ozzie_Albies
+ + Player_Chosen_Robinson_Cano + Player_Chosen_Ryan_McMahon
+ + Player_Chosen_Scott_Kingery + Player_Chosen_Tyler_Wade >= 1
+_C6: Player_Chosen_Chad_Pinder + Player_Chosen_Chris_Taylor
+ + Player_Chosen_DJ_LeMahieu + Player_Chosen_David_Bote
+ + Player_Chosen_Ehire_Adrianza + Player_Chosen_Jurickson_Profar
+ + Player_Chosen_Keston_Hiura + Player_Chosen_Leury_Garcia
+ + Player_Chosen_Luis_Arraez + Player_Chosen_Nick_Madrigal
+ + Player_Chosen_Nico_Hoerner + Player_Chosen_Ozzie_Albies
+ + Player_Chosen_Robinson_Cano + Player_Chosen_Ryan_McMahon
+ + Player_Chosen_Scott_Kingery + Player_Chosen_Tyler_Wade <= 2
+_C7: Player_Chosen_Evan_Longoria + Player_Chosen_Jean_Segura
+ + Player_Chosen_Jedd_Gyorko + Player_Chosen_Johan_Camargo
+ + Player_Chosen_Justin_Turner + Player_Chosen_Kris_Bryant
  + Player_Chosen_Kyle_Seager + Player_Chosen_Maikel_Franco
- + Player_Chosen_Miguel_Andujar + Player_Chosen_Miguel_Sano
- + Player_Chosen_Mike_Brosseau + Player_Chosen_Pablo_Sandoval
- + Player_Chosen_Pat_Valaika + Player_Chosen_Renato_Nunez
- + Player_Chosen_Rio_Ruiz + Player_Chosen_Yandy_Diaz >= 1
-_C8: Player_Chosen_Anthony_Rendon + Player_Chosen_David_Fletcher
- + Player_Chosen_Eduardo_Escobar + Player_Chosen_Evan_Longoria
- + Player_Chosen_Harold_Castro + Player_Chosen_J.D._Davis
- + Player_Chosen_Jeff_McNeil + Player_Chosen_Jeimer_Candelario
- + Player_Chosen_Johan_Camargo + Player_Chosen_Jose_Ramirez
- + Player_Chosen_Josh_Donaldson + Player_Chosen_Justin_Turner
+ + Player_Chosen_Manny_Machado + Player_Chosen_Matt_Chapman
+ + Player_Chosen_Nolan_Arenado + Player_Chosen_Phillip_Evans
+ + Player_Chosen_Wilmer_Flores + Player_Chosen_Yoan_Moncada >= 1
+_C8: Player_Chosen_Evan_Longoria + Player_Chosen_Jean_Segura
+ + Player_Chosen_Jedd_Gyorko + Player_Chosen_Johan_Camargo
+ + Player_Chosen_Justin_Turner + Player_Chosen_Kris_Bryant
  + Player_Chosen_Kyle_Seager + Player_Chosen_Maikel_Franco
- + Player_Chosen_Miguel_Andujar + Player_Chosen_Miguel_Sano
- + Player_Chosen_Mike_Brosseau + Player_Chosen_Pablo_Sandoval
- + Player_Chosen_Pat_Valaika + Player_Chosen_Renato_Nunez
- + Player_Chosen_Rio_Ruiz + Player_Chosen_Yandy_Diaz <= 2
+ + Player_Chosen_Manny_Machado + Player_Chosen_Matt_Chapman
+ + Player_Chosen_Nolan_Arenado + Player_Chosen_Phillip_Evans
+ + Player_Chosen_Wilmer_Flores + Player_Chosen_Yoan_Moncada <= 2
 _C9: Player_Chosen_Adalberto_Mondesi + Player_Chosen_Amed_Rosario
- + Player_Chosen_Brandon_Crawford + Player_Chosen_Corey_Seager
- + Player_Chosen_Dansby_Swanson + Player_Chosen_Donovan_Solano
- + Player_Chosen_Fernando_Tatis + Player_Chosen_Francisco_Lindor
- + Player_Chosen_Gleyber_Torres + Player_Chosen_J.P._Crawford
- + Player_Chosen_Jonathan_Arauz + Player_Chosen_Jorge_Polanco
- + Player_Chosen_Jose_Peraza + Player_Chosen_Manny_Machado
- + Player_Chosen_Nick_Ahmed + Player_Chosen_Willy_Adames
- + Player_Chosen_Xander_Bogaerts >= 1
+ + Player_Chosen_Andres_Gimenez + Player_Chosen_Brandon_Crawford
+ + Player_Chosen_Cole_Tucker + Player_Chosen_Corey_Seager
+ + Player_Chosen_Dansby_Swanson + Player_Chosen_Didi_Gregorius
+ + Player_Chosen_Donovan_Solano + Player_Chosen_Erik_Gonzalez
+ + Player_Chosen_Fernando_Tatis + Player_Chosen_J.P._Crawford
+ + Player_Chosen_Jake_Cronenworth + Player_Chosen_Javier_Baez
+ + Player_Chosen_Kevin_Newman + Player_Chosen_Marcus_Semien
+ + Player_Chosen_Orlando_Arcia + Player_Chosen_Trevor_Story >= 1
 dollarMaximum: 5500 Player_Chosen_A.J._Minter
- + 2900 Player_Chosen_A.J._Pollock + 7800 Player_Chosen_Aaron_Civale
- + 2400 Player_Chosen_Aaron_Hicks + 4100 Player_Chosen_Aaron_Judge
- + 5500 Player_Chosen_Aaron_Loup + 2600 Player_Chosen_Adalberto_Mondesi
- + 5500 Player_Chosen_Adam_Cimber + 2200 Player_Chosen_Adam_Duvall
- + 5500 Player_Chosen_Adam_Ottavino + 6400 Player_Chosen_Adam_Plutko
- + 2600 Player_Chosen_Albert_Pujols + 6000 Player_Chosen_Alex_Cobb
- + 2100 Player_Chosen_Alex_Dickerson + 2200 Player_Chosen_Alex_Gordon
- + 2400 Player_Chosen_Alex_Verdugo + 5700 Player_Chosen_Alex_Young
- + 2500 Player_Chosen_Amed_Rosario + 2400 Player_Chosen_Andrew_Benintendi
- + 5500 Player_Chosen_Andrew_Chafin + 7100 Player_Chosen_Andrew_Heaney
- + 5500 Player_Chosen_Andrew_Kittredge + 5500 Player_Chosen_Anthony_Misiewicz
- + 4000 Player_Chosen_Anthony_Rendon + 2700 Player_Chosen_Anthony_Santander
- + 5500 Player_Chosen_Archie_Bradley + 6800 Player_Chosen_Asher_Wojciechowski
- + 5500 Player_Chosen_Austin_Brice + 2500 Player_Chosen_Austin_Hays
- + 2300 Player_Chosen_Austin_Riley + 2300 Player_Chosen_Austin_Romine
- + 10200 Player_Chosen_Blake_Snell + 5500 Player_Chosen_Blake_Treinen
- + 5500 Player_Chosen_Brad_Hand + 2400 Player_Chosen_Bradley_Zimmer
- + 7200 Player_Chosen_Brady_Singer + 2400 Player_Chosen_Brandon_Belt
- + 2200 Player_Chosen_Brandon_Crawford + 3400 Player_Chosen_Brandon_Lowe
- + 2400 Player_Chosen_Brandon_Nimmo + 5500 Player_Chosen_Brandon_Workman
- + 2500 Player_Chosen_Brett_Phillips + 5500 Player_Chosen_Brusdar_Graterol
- + 5500 Player_Chosen_Bryan_Garcia + 5500 Player_Chosen_Bryan_Shaw
- + 6100 Player_Chosen_Buck_Farmer + 2500 Player_Chosen_Byron_Buxton
- + 3000 Player_Chosen_C.J._Cron + 5900 Player_Chosen_Cal_Quantrill
- + 5500 Player_Chosen_Caleb_Baragar + 5500 Player_Chosen_Caleb_Ferguson
- + 5500 Player_Chosen_Cam_Bedrosian + 2200 Player_Chosen_Cameron_Maybin
- + 5500 Player_Chosen_Carl_Edwards + 9100 Player_Chosen_Carlos_Carrasco
- + 3100 Player_Chosen_Carlos_Santana + 5900 Player_Chosen_Carson_Fulmer
- + 2100 Player_Chosen_Carson_Kelly + 2000 Player_Chosen_Cedric_Mullins
- + 2700 Player_Chosen_Cesar_Hernandez + 5500 Player_Chosen_Chad_Green
- + 9400 Player_Chosen_Charlie_Morton + 5500 Player_Chosen_Chasen_Shreve
- + 5500 Player_Chosen_Chaz_Roe + 5500 Player_Chosen_Chris_Martin
- + 9700 Player_Chosen_Chris_Paddack + 2400 Player_Chosen_Chris_Taylor
- + 2800 Player_Chosen_Christian_Vazquez + 2500 Player_Chosen_Christian_Walker
- + 2100 Player_Chosen_Christin_Stewart + 4300 Player_Chosen_Cody_Bellinger
- + 5500 Player_Chosen_Cody_Stashak + 5500 Player_Chosen_Cole_Sulser
- + 5500 Player_Chosen_Colten_Brewer + 5500 Player_Chosen_Conner_Menez
- + 3200 Player_Chosen_Corey_Seager + 5500 Player_Chosen_Craig_Stammen
- + 3300 Player_Chosen_DJ_LeMahieu + 5500 Player_Chosen_Dan_Altavilla
- + 2300 Player_Chosen_Daniel_Vogelbach + 6400 Player_Chosen_Danny_Duffy
- + 3000 Player_Chosen_Dansby_Swanson + 5500 Player_Chosen_Dany_Jimenez
+ + 3000 Player_Chosen_A.J._Pollock + 5500 Player_Chosen_Aaron_Bummer
+ + 2700 Player_Chosen_Aaron_Hicks + 4500 Player_Chosen_Aaron_Judge
+ + 8000 Player_Chosen_Aaron_Nola + 2000 Player_Chosen_Abraham_Almonte
+ + 2600 Player_Chosen_Adalberto_Mondesi + 2400 Player_Chosen_Adam_Engel
+ + 2300 Player_Chosen_Adam_Haseley + 5500 Player_Chosen_Adam_Morgan
+ + 5500 Player_Chosen_Adam_Ottavino + 6000 Player_Chosen_Adrian_Houser
+ + 7000 Player_Chosen_Alec_Mills + 5500 Player_Chosen_Alex_Claudio
+ + 5500 Player_Chosen_Alex_Colome + 3200 Player_Chosen_Alex_Dickerson
+ + 2100 Player_Chosen_Alex_Gordon + 2500 Player_Chosen_Amed_Rosario
+ + 2000 Player_Chosen_Andres_Gimenez + 2500 Player_Chosen_Andrew_McCutchen
+ + 5500 Player_Chosen_Anthony_Misiewicz + 3800 Player_Chosen_Anthony_Rizzo
+ + 5700 Player_Chosen_Antonio_Senzatela + 5500 Player_Chosen_Ashton_Goudeau
+ + 5500 Player_Chosen_Austin_Davis + 2000 Player_Chosen_Austin_Hedges
+ + 2100 Player_Chosen_Austin_Nola + 3000 Player_Chosen_Avisail_Garcia
+ + 2600 Player_Chosen_Ben_Gamel + 5500 Player_Chosen_Blake_Treinen
+ + 5500 Player_Chosen_Bobby_Wahl + 7200 Player_Chosen_Brady_Singer
+ + 3600 Player_Chosen_Brandon_Belt + 3000 Player_Chosen_Brandon_Crawford
+ + 2900 Player_Chosen_Brandon_Nimmo + 8700 Player_Chosen_Brandon_Woodruff
+ + 5600 Player_Chosen_Brent_Suter + 6900 Player_Chosen_Brett_Anderson
+ + 2500 Player_Chosen_Brett_Gardner + 2500 Player_Chosen_Brett_Phillips
+ + 5500 Player_Chosen_Brusdar_Graterol + 2500 Player_Chosen_Bryan_Reynolds
+ + 5500 Player_Chosen_Bryan_Shaw + 3700 Player_Chosen_Bryce_Harper
+ + 5500 Player_Chosen_Burch_Smith + 2400 Player_Chosen_Byron_Buxton
+ + 5900 Player_Chosen_Cal_Quantrill + 5500 Player_Chosen_Caleb_Baragar
+ + 5500 Player_Chosen_Caleb_Ferguson + 5500 Player_Chosen_Carl_Edwards
+ + 5500 Player_Chosen_Carlos_Estevez + 6600 Player_Chosen_Carlos_Rodon
+ + 5500 Player_Chosen_Chad_Green + 2500 Player_Chosen_Chad_Pinder
+ + 4300 Player_Chosen_Charlie_Blackmon + 5500 Player_Chosen_Chasen_Shreve
+ + 5600 Player_Chosen_Chi_Chi_Gonzalez + 7500 Player_Chosen_Chris_Bassitt
+ + 5500 Player_Chosen_Chris_Martin + 2700 Player_Chosen_Chris_Owings
+ + 9100 Player_Chosen_Chris_Paddack + 5500 Player_Chosen_Chris_Stratton
+ + 2400 Player_Chosen_Chris_Taylor + 4000 Player_Chosen_Christian_Yelich
+ + 5500 Player_Chosen_Codi_Heuer + 4100 Player_Chosen_Cody_Bellinger
+ + 5500 Player_Chosen_Cody_Stashak + 5600 Player_Chosen_Cole_Irvin
+ + 2300 Player_Chosen_Cole_Tucker + 5500 Player_Chosen_Conner_Menez
+ + 6500 Player_Chosen_Corbin_Burnes + 5500 Player_Chosen_Corey_Knebel
+ + 3500 Player_Chosen_Corey_Seager + 5500 Player_Chosen_Craig_Kimbrel
+ + 5500 Player_Chosen_Craig_Stammen + 3700 Player_Chosen_DJ_LeMahieu
+ + 7000 Player_Chosen_Dallas_Keuchel + 5500 Player_Chosen_Dan_Altavilla
+ + 5500 Player_Chosen_Dan_Winkler + 5500 Player_Chosen_Daniel_Bard
+ + 3300 Player_Chosen_Daniel_Murphy + 2300 Player_Chosen_Daniel_Vogelbach
+ + 6400 Player_Chosen_Danny_Duffy + 3100 Player_Chosen_Dansby_Swanson
  + 5500 Player_Chosen_Darren_O'Day + 5500 Player_Chosen_David_Bednar
- + 3000 Player_Chosen_David_Fletcher + 5500 Player_Chosen_David_Hale
- + 5600 Player_Chosen_David_Hess + 2500 Player_Chosen_David_Peralta
- + 5500 Player_Chosen_David_Peterson + 5500 Player_Chosen_Dellin_Betances
- + 5500 Player_Chosen_Dennis_Santana + 6100 Player_Chosen_Devin_Smeltzer
- + 5500 Player_Chosen_Diego_Castillo + 9200 Player_Chosen_Dinelson_Lamet
- + 2500 Player_Chosen_Domingo_Santana + 5500 Player_Chosen_Dominic_Leone
- + 2200 Player_Chosen_Donovan_Solano + 6400 Player_Chosen_Drew_Pomeranz
- + 5500 Player_Chosen_Drew_Smith + 5800 Player_Chosen_Drew_Smyly
- + 6100 Player_Chosen_Dustin_May + 2000 Player_Chosen_Dwight_Smith
- + 8200 Player_Chosen_Dylan_Bundy + 5500 Player_Chosen_Dylan_Floro
- + 3100 Player_Chosen_Eddie_Rosario + 2700 Player_Chosen_Eduardo_Escobar
- + 5500 Player_Chosen_Edwin_Diaz + 5500 Player_Chosen_Emilio_Pagan
- + 2500 Player_Chosen_Evan_Longoria + 5500 Player_Chosen_Evan_Phillips
- + 2500 Player_Chosen_Evan_White + 5600 Player_Chosen_Felix_Pena
- + 3700 Player_Chosen_Fernando_Tatis + 2100 Player_Chosen_Franchy_Cordero
- + 3500 Player_Chosen_Francisco_Lindor + 2100 Player_Chosen_Francisco_Mejia
- + 2400 Player_Chosen_Franmil_Reyes + 3500 Player_Chosen_Freddie_Freeman
- + 5500 Player_Chosen_Gabe_Speier + 7100 Player_Chosen_Garrett_Richards
- + 2900 Player_Chosen_Gary_Sanchez + 11700 Player_Chosen_Gerrit_Cole
- + 3800 Player_Chosen_Giancarlo_Stanton + 5900 Player_Chosen_Glenn_Sparkman
- + 3100 Player_Chosen_Gleyber_Torres + 5500 Player_Chosen_Grant_Dayton
- + 5500 Player_Chosen_Greg_Holland + 5500 Player_Chosen_Gregory_Soto
- + 7700 Player_Chosen_Griffin_Canning + 5500 Player_Chosen_Hansel_Robles
- + 2600 Player_Chosen_Hanser_Alberto + 2000 Player_Chosen_Harold_Castro
- + 5500 Player_Chosen_Heath_Hembree + 5500 Player_Chosen_Hector_Rondon
- + 5500 Player_Chosen_Hoby_Milner + 8000 Player_Chosen_Homer_Bailey
- + 2700 Player_Chosen_Hunter_Renfroe + 5500 Player_Chosen_Hunter_Strickland
- + 5500 Player_Chosen_Ian_Kennedy + 6300 Player_Chosen_Ivan_Nova
- + 8600 Player_Chosen_J.A._Happ + 2400 Player_Chosen_J.D._Davis
- + 3900 Player_Chosen_J.D._Martinez + 2700 Player_Chosen_J.P._Crawford
- + 2600 Player_Chosen_JaCoby_Jones + 5500 Player_Chosen_Jacob_Barnes
- + 11200 Player_Chosen_Jacob_deGrom + 2200 Player_Chosen_Jake_Lamb
+ + 3100 Player_Chosen_David_Bote + 3900 Player_Chosen_David_Dahl
+ + 5500 Player_Chosen_David_Hale + 6600 Player_Chosen_David_Peterson
+ + 5500 Player_Chosen_David_Phelps + 5500 Player_Chosen_Dellin_Betances
+ + 5500 Player_Chosen_Dennis_Santana + 5500 Player_Chosen_Deolis_Guerra
+ + 6200 Player_Chosen_Derek_Holland + 6100 Player_Chosen_Devin_Smeltzer
+ + 5500 Player_Chosen_Devin_Williams + 3100 Player_Chosen_Didi_Gregorius
+ + 5500 Player_Chosen_Dillon_Maples + 9200 Player_Chosen_Dinelson_Lamet
+ + 2500 Player_Chosen_Dominic_Smith + 3300 Player_Chosen_Donovan_Solano
+ + 5500 Player_Chosen_Dovydas_Neverauskas + 6400 Player_Chosen_Drew_Pomeranz
+ + 5500 Player_Chosen_Drew_Smith + 5500 Player_Chosen_Duane_Underwood
+ + 6100 Player_Chosen_Dustin_May + 5800 Player_Chosen_Dylan_Cease
+ + 5500 Player_Chosen_Dylan_Floro + 5500 Player_Chosen_Edwin_Diaz
+ + 2100 Player_Chosen_Ehire_Adrianza + 3500 Player_Chosen_Eloy_Jimenez
+ + 5500 Player_Chosen_Emilio_Pagan + 2200 Player_Chosen_Ender_Inciarte
+ + 6800 Player_Chosen_Eric_Lauer + 5500 Player_Chosen_Eric_Yardley
+ + 2000 Player_Chosen_Erik_Gonzalez + 3300 Player_Chosen_Evan_Longoria
+ + 5500 Player_Chosen_Evan_Marshall + 2400 Player_Chosen_Evan_White
+ + 3700 Player_Chosen_Fernando_Tatis + 2000 Player_Chosen_Franchy_Cordero
+ + 7700 Player_Chosen_Frankie_Montas + 3700 Player_Chosen_Freddie_Freeman
+ + 5900 Player_Chosen_Freddy_Peralta + 5500 Player_Chosen_Gabe_Speier
+ + 6100 Player_Chosen_Garrett_Richards + 2800 Player_Chosen_Gary_Sanchez
+ + 5500 Player_Chosen_Geoff_Hartlieb + 7400 Player_Chosen_German_Marquez
+ + 11000 Player_Chosen_Gerrit_Cole + 3900 Player_Chosen_Giancarlo_Stanton
+ + 5700 Player_Chosen_Gio_Gonzalez + 5900 Player_Chosen_Glenn_Sparkman
+ + 5500 Player_Chosen_Grant_Dayton + 5500 Player_Chosen_Greg_Holland
+ + 2100 Player_Chosen_Guillermo_Heredia + 5500 Player_Chosen_Hunter_Strickland
+ + 5500 Player_Chosen_Ian_Hamilton + 3100 Player_Chosen_Ian_Happ
+ + 5500 Player_Chosen_Ian_Kennedy + 8600 Player_Chosen_J.A._Happ
+ + 5500 Player_Chosen_J.B._Wendelken + 2800 Player_Chosen_J.D._Davis
+ + 3200 Player_Chosen_J.P._Crawford + 5500 Player_Chosen_J.P._Feyereisen
+ + 2900 Player_Chosen_J.T._Realmuto + 5500 Player_Chosen_Jace_Fry
+ + 2100 Player_Chosen_Jacob_Stallings + 10700 Player_Chosen_Jacob_deGrom
+ + 5500 Player_Chosen_Jairo_Diaz + 6600 Player_Chosen_Jake_Arrieta
+ + 2700 Player_Chosen_Jake_Cave + 2400 Player_Chosen_Jake_Cronenworth
  + 5500 Player_Chosen_Jake_McGee + 5500 Player_Chosen_Jake_Newberry
- + 5500 Player_Chosen_Jalen_Beeks + 5500 Player_Chosen_James_Karinchak
- + 8700 Player_Chosen_James_Paxton + 11000 Player_Chosen_Javy_Guerra
- + 2900 Player_Chosen_Jeff_McNeil + 8100 Player_Chosen_Jeff_Samardzija
- + 5500 Player_Chosen_Jeffrey_Springs + 2300 Player_Chosen_Jeimer_Candelario
+ + 2800 Player_Chosen_James_McCann + 9100 Player_Chosen_James_Paxton
+ + 5500 Player_Chosen_James_Pazos + 2200 Player_Chosen_Jason_Heyward
+ + 3800 Player_Chosen_Javier_Baez + 2400 Player_Chosen_Jay_Bruce
+ + 2500 Player_Chosen_Jean_Segura + 2400 Player_Chosen_Jedd_Gyorko
+ + 5800 Player_Chosen_Jeff_Hoffman + 7200 Player_Chosen_Jeff_Samardzija
+ + 5500 Player_Chosen_Jeremy_Jeffress + 7000 Player_Chosen_Jesus_Luzardo
  + 5500 Player_Chosen_Jeurys_Familia + 5500 Player_Chosen_Jhoulys_Chacin
- + 5500 Player_Chosen_Joe_Jimenez + 5500 Player_Chosen_Joe_Kelly
- + 8100 Player_Chosen_Joey_Lucchesi + 2600 Player_Chosen_Joey_Wendle
- + 2100 Player_Chosen_Johan_Camargo + 5800 Player_Chosen_John_Means
- + 6900 Player_Chosen_Johnny_Cueto + 2000 Player_Chosen_Jonathan_Arauz
- + 5500 Player_Chosen_Jonathan_Holder + 6000 Player_Chosen_Jonathan_Loaisiga
- + 2600 Player_Chosen_Jonathan_Schoop + 6000 Player_Chosen_Jorge_Lopez
- + 3400 Player_Chosen_Jorge_Polanco + 3700 Player_Chosen_Jorge_Soler
- + 5500 Player_Chosen_Jose_Alvarado + 9000 Player_Chosen_Jose_Berrios
- + 5500 Player_Chosen_Jose_Cisnero + 2000 Player_Chosen_Jose_Marmolejos
- + 2800 Player_Chosen_Jose_Martinez + 2400 Player_Chosen_Jose_Peraza
- + 3800 Player_Chosen_Jose_Ramirez + 3000 Player_Chosen_Josh_Donaldson
- + 2000 Player_Chosen_Josh_Naylor + 5500 Player_Chosen_Josh_Osich
+ + 5500 Player_Chosen_Jimmy_Cordero + 2700 Player_Chosen_Joc_Pederson
+ + 5500 Player_Chosen_Joe_Kelly + 6700 Player_Chosen_Joe_Musgrove
+ + 6400 Player_Chosen_Joey_Lucchesi + 2100 Player_Chosen_Johan_Camargo
+ + 5700 Player_Chosen_Johnny_Cueto + 6700 Player_Chosen_Jon_Gray
+ + 8900 Player_Chosen_Jon_Lester + 5500 Player_Chosen_Jonathan_Holder
+ + 6000 Player_Chosen_Jonathan_Loaisiga + 6000 Player_Chosen_Jorge_Lopez
+ + 3600 Player_Chosen_Jorge_Soler + 3200 Player_Chosen_Jose_Abreu
+ + 5500 Player_Chosen_Jose_Alvarez + 9000 Player_Chosen_Jose_Berrios
+ + 2200 Player_Chosen_Jose_Marmolejos + 2800 Player_Chosen_Jose_Osuna
+ + 3200 Player_Chosen_Josh_Bell + 5500 Player_Chosen_Josh_Hader
  + 5500 Player_Chosen_Josh_Sborz + 5500 Player_Chosen_Josh_Staumont
- + 5500 Player_Chosen_Josh_Tomlin + 7600 Player_Chosen_Julio_Urias
- + 5500 Player_Chosen_Junior_Guerra + 2500 Player_Chosen_Jurickson_Profar
- + 5500 Player_Chosen_Justin_Dunn + 3500 Player_Chosen_Justin_Turner
- + 2700 Player_Chosen_Justin_Upton + 5500 Player_Chosen_Justin_Wilson
- + 7700 Player_Chosen_Justus_Sheffield + 5700 Player_Chosen_Kendall_Graveman
- + 5500 Player_Chosen_Kenley_Jansen + 7400 Player_Chosen_Kenta_Maeda
- + 3300 Player_Chosen_Ketel_Marte + 6200 Player_Chosen_Kevin_Gausman
- + 5500 Player_Chosen_Kevin_Ginkel + 5500 Player_Chosen_Kevin_McCarthy
- + 2900 Player_Chosen_Kevin_Pillar + 5500 Player_Chosen_Keynan_Middleton
- + 5500 Player_Chosen_Kirby_Yates + 7300 Player_Chosen_Kohl_Stewart
- + 2700 Player_Chosen_Kole_Calhoun + 3100 Player_Chosen_Kyle_Lewis
- + 3100 Player_Chosen_Kyle_Seager + 7500 Player_Chosen_Kyle_Wright
- + 5500 Player_Chosen_Kyle_Zimmer + 5900 Player_Chosen_Logan_Webb
- + 2700 Player_Chosen_Luis_Arraez + 5500 Player_Chosen_Luis_Avilan
- + 5500 Player_Chosen_Luis_Perdomo + 5500 Player_Chosen_Luke_Jackson
- + 2800 Player_Chosen_Luke_Voit + 8800 Player_Chosen_Luke_Weaver
- + 8600 Player_Chosen_Madison_Bumgarner + 2600 Player_Chosen_Maikel_Franco
- + 2300 Player_Chosen_Mallex_Smith + 3000 Player_Chosen_Manny_Machado
- + 2300 Player_Chosen_Manuel_Margot + 3500 Player_Chosen_Marcell_Ozuna
- + 5900 Player_Chosen_Marco_Gonzales + 5500 Player_Chosen_Marcus_Walden
- + 6100 Player_Chosen_Martin_Perez + 6200 Player_Chosen_Matt_Andriese
- + 5500 Player_Chosen_Matt_Barnes + 5900 Player_Chosen_Matt_Hall
- + 5500 Player_Chosen_Matt_Magill + 6500 Player_Chosen_Matt_Strahm
- + 5500 Player_Chosen_Matt_Wisler + 8400 Player_Chosen_Matthew_Boyd
- + 7700 Player_Chosen_Max_Fried + 3000 Player_Chosen_Max_Kepler
- + 3600 Player_Chosen_Max_Muncy + 2400 Player_Chosen_Max_Stassi
- + 7800 Player_Chosen_Merrill_Kelly + 2200 Player_Chosen_Michael_Chavis
- + 3000 Player_Chosen_Michael_Conforto + 6600 Player_Chosen_Michael_Fulmer
- + 5500 Player_Chosen_Michael_King + 6500 Player_Chosen_Michael_Wacha
- + 2500 Player_Chosen_Miguel_Andujar + 2600 Player_Chosen_Miguel_Cabrera
- + 5500 Player_Chosen_Miguel_Castro + 2600 Player_Chosen_Miguel_Sano
- + 2200 Player_Chosen_Mike_Brosseau + 10400 Player_Chosen_Mike_Clevinger
- + 5500 Player_Chosen_Mike_Mayers + 8800 Player_Chosen_Mike_Soroka
- + 4500 Player_Chosen_Mike_Trout + 2600 Player_Chosen_Mike_Yastrzemski
- + 2300 Player_Chosen_Mike_Zunino + 2500 Player_Chosen_Mitch_Garver
- + 4200 Player_Chosen_Mookie_Betts + 5500 Player_Chosen_Mychal_Givens
- + 7200 Player_Chosen_Nathan_Eovaldi + 3800 Player_Chosen_Nelson_Cruz
- + 5600 Player_Chosen_Nestor_Cortes + 2400 Player_Chosen_Nick_Ahmed
- + 5500 Player_Chosen_Nick_Anderson + 5500 Player_Chosen_Nick_Wittgren
- + 5500 Player_Chosen_Noe_Ramirez + 5500 Player_Chosen_Oliver_Drake
- + 5500 Player_Chosen_Oliver_Perez + 2300 Player_Chosen_Oscar_Mercado
- + 3500 Player_Chosen_Ozzie_Albies + 2100 Player_Chosen_Pablo_Sandoval
- + 2000 Player_Chosen_Pat_Valaika + 5600 Player_Chosen_Patrick_Sandoval
- + 5500 Player_Chosen_Paul_Fry + 5500 Player_Chosen_Paul_Sewald
- + 5500 Player_Chosen_Pedro_Baez + 2200 Player_Chosen_Pedro_Severino
- + 3900 Player_Chosen_Pete_Alonso + 5500 Player_Chosen_Phil_Maton
- + 5500 Player_Chosen_Phillips_Valdez + 5500 Player_Chosen_Pierce_Johnson
- + 5600 Player_Chosen_Randy_Dobnak + 2600 Player_Chosen_Renato_Nunez
- + 7500 Player_Chosen_Rich_Hill + 5500 Player_Chosen_Richard_Bleier
- + 6900 Player_Chosen_Rick_Porcello + 5500 Player_Chosen_Rico_Garcia
- + 2700 Player_Chosen_Rio_Ruiz + 7900 Player_Chosen_Robbie_Ray
- + 3800 Player_Chosen_Ronald_Acuna + 8400 Player_Chosen_Ross_Stripling
- + 5500 Player_Chosen_Ryan_Brasier + 5500 Player_Chosen_Ryan_Buchter
- + 2300 Player_Chosen_Ryan_O'Hearn + 5500 Player_Chosen_Ryan_Thompson
- + 6300 Player_Chosen_Ryan_Weber + 6700 Player_Chosen_Ryan_Yarbrough
- + 2900 Player_Chosen_Salvador_Perez + 5500 Player_Chosen_Sam_Coonrod
- + 2000 Player_Chosen_Sandy_Leon + 5500 Player_Chosen_Scott_Alexander
- + 5500 Player_Chosen_Scott_Barlow + 5800 Player_Chosen_Sean_Newcomb
- + 5500 Player_Chosen_Sergio_Romo + 5500 Player_Chosen_Seth_Lugo
- + 10700 Player_Chosen_Shane_Bieber + 5500 Player_Chosen_Shane_Greene
- + 5500 Player_Chosen_Shaun_Anderson + 5500 Player_Chosen_Shawn_Armstrong
- + 3000 Player_Chosen_Shohei_Ohtani + 3700 Player_Chosen_Starling_Marte
- + 5500 Player_Chosen_Stefan_Crichton + 7800 Player_Chosen_Steven_Matz
- + 5600 Player_Chosen_Taijuan_Walker + 5500 Player_Chosen_Tanner_Scott
- + 5600 Player_Chosen_Taylor_Clarke + 5500 Player_Chosen_Taylor_Rogers
- + 2000 Player_Chosen_Taylor_Ward + 5500 Player_Chosen_Taylor_Widener
- + 5500 Player_Chosen_Taylor_Williams + 5500 Player_Chosen_Tim_Hill
- + 5500 Player_Chosen_Tommy_Kahnle + 2900 Player_Chosen_Tommy_La_Stella
- + 5600 Player_Chosen_Tommy_Milone + 3700 Player_Chosen_Tommy_Pham
- + 5500 Player_Chosen_Tony_Watson + 5500 Player_Chosen_Touki_Toussaint
- + 5500 Player_Chosen_Travis_Lakins + 2500 Player_Chosen_Trent_Grisham
- + 5500 Player_Chosen_Trevor_Gott + 5500 Player_Chosen_Trevor_May
- + 5500 Player_Chosen_Trevor_Rosenthal + 5500 Player_Chosen_Ty_Buttrey
- + 5600 Player_Chosen_Tyler_Anderson + 5500 Player_Chosen_Tyler_Clippard
- + 5500 Player_Chosen_Tyler_Duffey + 2100 Player_Chosen_Tyler_Flowers
- + 9700 Player_Chosen_Tyler_Glasnow + 2300 Player_Chosen_Tyler_Heineman
- + 5500 Player_Chosen_Tyler_Matzek + 5500 Player_Chosen_Tyler_Zuber
- + 5600 Player_Chosen_Wade_LeBlanc + 10500 Player_Chosen_Walker_Buehler
- + 5500 Player_Chosen_Wandy_Peralta + 3300 Player_Chosen_Whit_Merrifield
- + 3200 Player_Chosen_Wil_Myers + 2700 Player_Chosen_Will_Smith
- + 2600 Player_Chosen_Willy_Adames + 2300 Player_Chosen_Wilson_Ramos
- + 3300 Player_Chosen_Xander_Bogaerts + 2600 Player_Chosen_Yandy_Diaz
- + 5500 Player_Chosen_Yoan_Lopez + 2600 Player_Chosen_Yoenis_Cespedes
- + 5500 Player_Chosen_Yohan_Ramirez + 7400 Player_Chosen_Yonny_Chirinos
- + 6000 Player_Chosen_Yusei_Kikuchi + 8300 Player_Chosen_Zac_Gallen
- + 5500 Player_Chosen_Zac_Grotz + 5800 Player_Chosen_Zach_Davies
- + 7900 Player_Chosen_Zach_Plesac + 5500 Player_Chosen_Zack_Britton
- + 5700 Player_Chosen_Zack_Godley + 5500 Player_Chosen_Zack_Littell <= 35000
+ + 5500 Player_Chosen_Josh_Tomlin + 7800 Player_Chosen_Julio_Urias
+ + 2700 Player_Chosen_Jurickson_Profar + 5500 Player_Chosen_Justin_Dunn
+ + 5500 Player_Chosen_Justin_Grimm + 2700 Player_Chosen_Justin_Smoak
+ + 3100 Player_Chosen_Justin_Turner + 5500 Player_Chosen_Justin_Wilson
+ + 6500 Player_Chosen_Justus_Sheffield + 5500 Player_Chosen_Kenley_Jansen
+ + 7900 Player_Chosen_Kenta_Maeda + 3500 Player_Chosen_Keston_Hiura
+ + 6200 Player_Chosen_Kevin_Gausman + 5500 Player_Chosen_Kevin_McCarthy
+ + 2300 Player_Chosen_Kevin_Newman + 2500 Player_Chosen_Khris_Davis
+ + 5500 Player_Chosen_Kirby_Yates + 3800 Player_Chosen_Kris_Bryant
+ + 6000 Player_Chosen_Kyle_Freeland + 9200 Player_Chosen_Kyle_Hendricks
+ + 3300 Player_Chosen_Kyle_Lewis + 5500 Player_Chosen_Kyle_Ryan
+ + 3000 Player_Chosen_Kyle_Schwarber + 3200 Player_Chosen_Kyle_Seager
+ + 7500 Player_Chosen_Kyle_Wright + 5600 Player_Chosen_Kyle_Zimmer
+ + 2800 Player_Chosen_Leury_Garcia + 5600 Player_Chosen_Lewis_Thorpe
+ + 5500 Player_Chosen_Liam_Hendriks + 6200 Player_Chosen_Logan_Webb
+ + 9100 Player_Chosen_Lucas_Giolito + 2500 Player_Chosen_Luis_Arraez
+ + 5500 Player_Chosen_Luis_Avilan + 5500 Player_Chosen_Luis_Perdomo
+ + 3200 Player_Chosen_Luis_Robert + 5500 Player_Chosen_Luke_Jackson
+ + 2800 Player_Chosen_Maikel_Franco + 2300 Player_Chosen_Mallex_Smith
+ + 3000 Player_Chosen_Manny_Machado + 2000 Player_Chosen_Manny_Pina
+ + 3300 Player_Chosen_Marcell_Ozuna + 5900 Player_Chosen_Marco_Gonzales
+ + 3300 Player_Chosen_Marcus_Semien + 3000 Player_Chosen_Mark_Canha
+ + 2600 Player_Chosen_Marwin_Gonzalez + 2400 Player_Chosen_Matt_Adams
+ + 2300 Player_Chosen_Matt_Beaty + 3700 Player_Chosen_Matt_Chapman
+ + 3000 Player_Chosen_Matt_Kemp + 5500 Player_Chosen_Matt_Magill
+ + 3400 Player_Chosen_Matt_Olson + 6500 Player_Chosen_Matt_Strahm
+ + 5500 Player_Chosen_Matt_Wisler + 7700 Player_Chosen_Max_Fried
+ + 3200 Player_Chosen_Max_Kepler + 3900 Player_Chosen_Max_Muncy
+ + 2800 Player_Chosen_Michael_Conforto + 5500 Player_Chosen_Michael_King
+ + 7700 Player_Chosen_Michael_Wacha + 5500 Player_Chosen_Miguel_Del_Pozo
+ + 3100 Player_Chosen_Miguel_Sano + 7000 Player_Chosen_Mike_Fiers
+ + 2300 Player_Chosen_Mike_Ford + 8500 Player_Chosen_Mike_Soroka
+ + 3800 Player_Chosen_Mike_Yastrzemski + 2500 Player_Chosen_Mitch_Garver
+ + 4200 Player_Chosen_Nelson_Cruz + 5600 Player_Chosen_Nestor_Cortes
+ + 2000 Player_Chosen_Nick_Madrigal + 5600 Player_Chosen_Nick_Margevicius
+ + 6100 Player_Chosen_Nick_Pivetta + 2400 Player_Chosen_Nico_Hoerner
+ + 5500 Player_Chosen_Nik_Turley + 4000 Player_Chosen_Nolan_Arenado
+ + 2200 Player_Chosen_Orlando_Arcia + 3200 Player_Chosen_Ozzie_Albies
+ + 5500 Player_Chosen_Paul_Sewald + 5500 Player_Chosen_Pedro_Baez
+ + 3500 Player_Chosen_Pete_Alonso + 5500 Player_Chosen_Phillip_Diehl
+ + 2400 Player_Chosen_Phillip_Evans + 5500 Player_Chosen_Pierce_Johnson
+ + 3400 Player_Chosen_Ramon_Laureano + 5500 Player_Chosen_Ramon_Rosso
+ + 6100 Player_Chosen_Randy_Dobnak + 3200 Player_Chosen_Rhys_Hoskins
+ + 5500 Player_Chosen_Richard_Rodriguez + 6500 Player_Chosen_Rick_Porcello
+ + 5500 Player_Chosen_Rico_Garcia + 5500 Player_Chosen_Robbie_Erlin
+ + 2600 Player_Chosen_Robinson_Cano + 3700 Player_Chosen_Ronald_Acuna
+ + 5500 Player_Chosen_Ross_Detwiler + 8400 Player_Chosen_Ross_Stripling
+ + 5500 Player_Chosen_Rowan_Wick + 3600 Player_Chosen_Ryan_McMahon
+ + 2300 Player_Chosen_Ryan_O'Hearn + 5500 Player_Chosen_Ryan_Tepera
+ + 2700 Player_Chosen_Salvador_Perez + 5500 Player_Chosen_Scott_Alexander
+ + 5500 Player_Chosen_Scott_Barlow + 2100 Player_Chosen_Scott_Kingery
+ + 7500 Player_Chosen_Sean_Manaea + 2200 Player_Chosen_Sean_Murphy
+ + 6000 Player_Chosen_Sean_Newcomb + 5500 Player_Chosen_Sergio_Romo
+ + 5500 Player_Chosen_Seth_Lugo + 5500 Player_Chosen_Shane_Greene
+ + 5500 Player_Chosen_Shaun_Anderson + 2600 Player_Chosen_Stephen_Piscotty
+ + 5500 Player_Chosen_Steve_Cishek + 5800 Player_Chosen_Steven_Brault
+ + 2500 Player_Chosen_Steven_Duggar + 7800 Player_Chosen_Steven_Matz
+ + 5500 Player_Chosen_T.J._McFarland + 5700 Player_Chosen_Taijuan_Walker
+ + 5500 Player_Chosen_Taylor_Rogers + 5500 Player_Chosen_Taylor_Williams
+ + 5500 Player_Chosen_Tim_Hill + 5500 Player_Chosen_Tommy_Hunter
+ + 3200 Player_Chosen_Tommy_Pham + 5500 Player_Chosen_Tony_Watson
+ + 2500 Player_Chosen_Tony_Wolters + 5500 Player_Chosen_Touki_Toussaint
+ + 2600 Player_Chosen_Travis_d'Arnaud + 3100 Player_Chosen_Trent_Grisham
+ + 5500 Player_Chosen_Trevor_Gott + 5500 Player_Chosen_Trevor_Kelley
+ + 5500 Player_Chosen_Trevor_May + 5500 Player_Chosen_Trevor_Rosenthal
+ + 4300 Player_Chosen_Trevor_Story + 6600 Player_Chosen_Trevor_Williams
+ + 5600 Player_Chosen_Tyler_Anderson + 8000 Player_Chosen_Tyler_Chatwood
+ + 5500 Player_Chosen_Tyler_Clippard + 5500 Player_Chosen_Tyler_Duffey
+ + 5500 Player_Chosen_Tyler_Kinley + 5500 Player_Chosen_Tyler_Matzek
+ + 2200 Player_Chosen_Tyler_Wade + 5500 Player_Chosen_Tyler_Zuber
+ + 6000 Player_Chosen_Vince_Velasquez + 10000 Player_Chosen_Walker_Buehler
+ + 5500 Player_Chosen_Wandy_Peralta + 3800 Player_Chosen_Whit_Merrifield
+ + 2700 Player_Chosen_Wil_Myers + 2400 Player_Chosen_Will_Smith
+ + 3300 Player_Chosen_Willson_Contreras + 3000 Player_Chosen_Wilmer_Flores
+ + 2400 Player_Chosen_Wilson_Ramos + 2500 Player_Chosen_Yasmani_Grandal
+ + 5500 Player_Chosen_Yency_Almonte + 3500 Player_Chosen_Yoan_Moncada
+ + 5500 Player_Chosen_Yohan_Ramirez + 9100 Player_Chosen_Yu_Darvish
+ + 5800 Player_Chosen_Yusei_Kikuchi + 5500 Player_Chosen_Zac_Grotz
+ + 6000 Player_Chosen_Zach_Davies + 6300 Player_Chosen_Zach_Eflin
+ + 5500 Player_Chosen_Zack_Britton + 8300 Player_Chosen_Zack_Wheeler <= 35000
+pointMaximum: 3.69 Player_Chosen_A.J._Minter
+ + 10.05 Player_Chosen_A.J._Pollock + 0.2 Player_Chosen_Aaron_Bummer
+ + 10.65 Player_Chosen_Aaron_Hicks + 13.49 Player_Chosen_Aaron_Judge
+ + 7.69 Player_Chosen_Abraham_Almonte + 8.54 Player_Chosen_Adalberto_Mondesi
+ + 7.41 Player_Chosen_Adam_Engel + 7.3 Player_Chosen_Adam_Haseley
+ + 1.39 Player_Chosen_Adam_Morgan + 0.03 Player_Chosen_Adrian_Houser
+ + 23.08 Player_Chosen_Alec_Mills + 3.75 Player_Chosen_Alex_Claudio
+ + 0.29 Player_Chosen_Alex_Colome + 15.54 Player_Chosen_Alex_Dickerson
+ + 9.21 Player_Chosen_Alex_Gordon + 8 Player_Chosen_Amed_Rosario
+ + 7.69 Player_Chosen_Andres_Gimenez + 9.44 Player_Chosen_Andrew_McCutchen
+ + 0.72 Player_Chosen_Anthony_Misiewicz + 13.39 Player_Chosen_Anthony_Rizzo
+ + 7.14 Player_Chosen_Austin_Hedges + 8.75 Player_Chosen_Austin_Nola
+ + 10.07 Player_Chosen_Avisail_Garcia + 7.5 Player_Chosen_Ben_Gamel
+ + 1.09 Player_Chosen_Blake_Treinen + 4.67 Player_Chosen_Bobby_Wahl
+ + 0.01 Player_Chosen_Brady_Singer + 14.44 Player_Chosen_Brandon_Belt
+ + 11.72 Player_Chosen_Brandon_Crawford + 11.15 Player_Chosen_Brandon_Nimmo
+ + 0.01 Player_Chosen_Brandon_Woodruff + 2.25 Player_Chosen_Brent_Suter
+ + 20.35 Player_Chosen_Brett_Anderson + 9.3 Player_Chosen_Brett_Gardner
+ + 9.28 Player_Chosen_Brett_Phillips + 0.71 Player_Chosen_Brusdar_Graterol
+ + 10.76 Player_Chosen_Bryan_Reynolds + 1.67 Player_Chosen_Bryan_Shaw
+ + 10.92 Player_Chosen_Bryce_Harper + 4.22 Player_Chosen_Burch_Smith
+ + 10.7 Player_Chosen_Byron_Buxton + 2.74 Player_Chosen_Cal_Quantrill
+ + 4.34 Player_Chosen_Caleb_Baragar + 4.68 Player_Chosen_Caleb_Ferguson
+ + 5.3 Player_Chosen_Carl_Edwards + 0.15 Player_Chosen_Carlos_Estevez
+ + 26.94 Player_Chosen_Carlos_Rodon + 2.63 Player_Chosen_Chad_Green
+ + 10.61 Player_Chosen_Chad_Pinder + 14.64 Player_Chosen_Charlie_Blackmon
+ + 0.67 Player_Chosen_Chasen_Shreve + 12.62 Player_Chosen_Chi_Chi_Gonzalez
+ + 0.14 Player_Chosen_Chris_Bassitt + 0.59 Player_Chosen_Chris_Martin
+ + 9.08 Player_Chosen_Chris_Owings + 24.03 Player_Chosen_Chris_Paddack
+ + 4.5 Player_Chosen_Chris_Stratton + 8.8 Player_Chosen_Chris_Taylor
+ + 11.36 Player_Chosen_Christian_Yelich + 0.01 Player_Chosen_Codi_Heuer
+ + 13.11 Player_Chosen_Cody_Bellinger + 3.63 Player_Chosen_Cody_Stashak
+ + 3.17 Player_Chosen_Cole_Irvin + 9.39 Player_Chosen_Cole_Tucker
+ + 5.01 Player_Chosen_Conner_Menez + 0.01 Player_Chosen_Corbin_Burnes
+ + 0.36 Player_Chosen_Corey_Knebel + 9.76 Player_Chosen_Corey_Seager
+ + 0.79 Player_Chosen_Craig_Kimbrel + 3.9 Player_Chosen_Craig_Stammen
+ + 10.75 Player_Chosen_DJ_LeMahieu + 0.03 Player_Chosen_Dallas_Keuchel
+ + 0.2 Player_Chosen_Dan_Altavilla + 4.3 Player_Chosen_Dan_Winkler
+ + 4.28 Player_Chosen_Daniel_Bard + 12.08 Player_Chosen_Daniel_Murphy
+ + 10.01 Player_Chosen_Daniel_Vogelbach + 19.48 Player_Chosen_Danny_Duffy
+ + 7.36 Player_Chosen_Dansby_Swanson + 6.06 Player_Chosen_Darren_O'Day
+ + 0.01 Player_Chosen_David_Bednar + 10.67 Player_Chosen_David_Bote
+ + 14.47 Player_Chosen_David_Dahl + 3.69 Player_Chosen_David_Hale
+ + 0.01 Player_Chosen_David_Peterson + 6.37 Player_Chosen_David_Phelps
+ + 2.64 Player_Chosen_Dellin_Betances + 0.01 Player_Chosen_Dennis_Santana
+ + 4.48 Player_Chosen_Deolis_Guerra + 15.28 Player_Chosen_Derek_Holland
+ + 0.02 Player_Chosen_Devin_Smeltzer + 3.67 Player_Chosen_Devin_Williams
+ + 9.59 Player_Chosen_Didi_Gregorius + 4.84 Player_Chosen_Dillon_Maples
+ + 0.02 Player_Chosen_Dinelson_Lamet + 9.36 Player_Chosen_Dominic_Smith
+ + 13.28 Player_Chosen_Donovan_Solano + 3.99 Player_Chosen_Dovydas_Neverauskas
+ + 2.21 Player_Chosen_Drew_Pomeranz + 1.98 Player_Chosen_Drew_Smith
+ + 0.87 Player_Chosen_Duane_Underwood + 0.01 Player_Chosen_Dustin_May
+ + 3.62 Player_Chosen_Dylan_Floro + 0.43 Player_Chosen_Edwin_Diaz
+ + 8.95 Player_Chosen_Ehire_Adrianza + 10.49 Player_Chosen_Eloy_Jimenez
+ + 0.22 Player_Chosen_Emilio_Pagan + 7.44 Player_Chosen_Ender_Inciarte
+ + 0.01 Player_Chosen_Eric_Lauer + 0.76 Player_Chosen_Eric_Yardley
+ + 6.9 Player_Chosen_Erik_Gonzalez + 13.51 Player_Chosen_Evan_Longoria
+ + 2.8 Player_Chosen_Evan_Marshall + 9.36 Player_Chosen_Evan_White
+ + 10.86 Player_Chosen_Fernando_Tatis + 10.27 Player_Chosen_Franchy_Cordero
+ + 30.31 Player_Chosen_Frankie_Montas + 10.97 Player_Chosen_Freddie_Freeman
+ + 0.01 Player_Chosen_Freddy_Peralta + 3.64 Player_Chosen_Gabe_Speier
+ + 0.02 Player_Chosen_Garrett_Richards + 10.97 Player_Chosen_Gary_Sanchez
+ + 0.01 Player_Chosen_German_Marquez + 36.35 Player_Chosen_Gerrit_Cole
+ + 12.94 Player_Chosen_Giancarlo_Stanton + 0.01 Player_Chosen_Gio_Gonzalez
+ + 0.02 Player_Chosen_Grant_Dayton + 4.59 Player_Chosen_Greg_Holland
+ + 8.42 Player_Chosen_Guillermo_Heredia + 2.33 Player_Chosen_Hunter_Strickland
+ + 0.03 Player_Chosen_Ian_Hamilton + 10.4 Player_Chosen_Ian_Happ
+ + 0.25 Player_Chosen_Ian_Kennedy + 0.01 Player_Chosen_J.A._Happ
+ + 1.76 Player_Chosen_J.B._Wendelken + 10.11 Player_Chosen_J.D._Davis
+ + 9.24 Player_Chosen_J.P._Crawford + 0.02 Player_Chosen_J.P._Feyereisen
+ + 9.22 Player_Chosen_J.T._Realmuto + 4.6 Player_Chosen_Jace_Fry
+ + 8.92 Player_Chosen_Jacob_Stallings + 33.27 Player_Chosen_Jacob_deGrom
+ + 1.77 Player_Chosen_Jairo_Diaz + 18.07 Player_Chosen_Jake_Arrieta
+ + 10.77 Player_Chosen_Jake_Cave + 8.58 Player_Chosen_Jake_Cronenworth
+ + 0.01 Player_Chosen_Jake_McGee + 0.01 Player_Chosen_Jake_Newberry
+ + 8.37 Player_Chosen_James_McCann + 0.02 Player_Chosen_James_Paxton
+ + 4.22 Player_Chosen_James_Pazos + 9.59 Player_Chosen_Jason_Heyward
+ + 13.07 Player_Chosen_Javier_Baez + 9.87 Player_Chosen_Jay_Bruce
+ + 7.69 Player_Chosen_Jean_Segura + 9.64 Player_Chosen_Jedd_Gyorko
+ + 5.88 Player_Chosen_Jeremy_Jeffress + 0.01 Player_Chosen_Jesus_Luzardo
+ + 4.21 Player_Chosen_Jeurys_Familia + 0.01 Player_Chosen_Jhoulys_Chacin
+ + 3.1 Player_Chosen_Jimmy_Cordero + 11.76 Player_Chosen_Joc_Pederson
+ + 0.17 Player_Chosen_Joe_Kelly + 0.02 Player_Chosen_Joey_Lucchesi
+ + 7.61 Player_Chosen_Johan_Camargo + 15.47 Player_Chosen_Johnny_Cueto
+ + 0.01 Player_Chosen_Jon_Lester + 3.58 Player_Chosen_Jonathan_Holder
+ + 0.67 Player_Chosen_Jonathan_Loaisiga + 0.01 Player_Chosen_Jorge_Lopez
+ + 13.43 Player_Chosen_Jorge_Soler + 10.84 Player_Chosen_Jose_Abreu
+ + 0.24 Player_Chosen_Jose_Alvarez + 0.01 Player_Chosen_Jose_Berrios
+ + 8.5 Player_Chosen_Jose_Marmolejos + 10.92 Player_Chosen_Jose_Osuna
+ + 12.08 Player_Chosen_Josh_Bell + 0.98 Player_Chosen_Josh_Hader
+ + 0.01 Player_Chosen_Josh_Sborz + 3.92 Player_Chosen_Josh_Staumont
+ + 2.56 Player_Chosen_Josh_Tomlin + 0.01 Player_Chosen_Julio_Urias
+ + 7.68 Player_Chosen_Jurickson_Profar + 0.02 Player_Chosen_Justin_Dunn
+ + 0.01 Player_Chosen_Justin_Grimm + 9.49 Player_Chosen_Justin_Smoak
+ + 11.4 Player_Chosen_Justin_Turner + 3.32 Player_Chosen_Justin_Wilson
+ + 17.96 Player_Chosen_Justus_Sheffield + 0.32 Player_Chosen_Kenley_Jansen
+ + 0.01 Player_Chosen_Kenta_Maeda + 11.13 Player_Chosen_Keston_Hiura
+ + 0.01 Player_Chosen_Kevin_Gausman + 3.49 Player_Chosen_Kevin_McCarthy
+ + 10.28 Player_Chosen_Kevin_Newman + 12.49 Player_Chosen_Khris_Davis
+ + 0.66 Player_Chosen_Kirby_Yates + 14.52 Player_Chosen_Kris_Bryant
+ + 0.01 Player_Chosen_Kyle_Freeland + 0.01 Player_Chosen_Kyle_Hendricks
+ + 9.34 Player_Chosen_Kyle_Lewis + 0.23 Player_Chosen_Kyle_Ryan
+ + 12.24 Player_Chosen_Kyle_Schwarber + 10.01 Player_Chosen_Kyle_Seager
+ + 0.01 Player_Chosen_Kyle_Wright + 0.02 Player_Chosen_Kyle_Zimmer
+ + 7.39 Player_Chosen_Leury_Garcia + 22.64 Player_Chosen_Lewis_Thorpe
+ + 0.44 Player_Chosen_Liam_Hendriks + 0.03 Player_Chosen_Lucas_Giolito
+ + 11.69 Player_Chosen_Luis_Arraez + 0.13 Player_Chosen_Luis_Avilan
+ + 11.09 Player_Chosen_Luis_Robert + 4.95 Player_Chosen_Luke_Jackson
+ + 9.62 Player_Chosen_Maikel_Franco + 7.28 Player_Chosen_Mallex_Smith
+ + 9.79 Player_Chosen_Manny_Machado + 8.56 Player_Chosen_Manny_Pina
+ + 9.71 Player_Chosen_Marcell_Ozuna + 0.01 Player_Chosen_Marco_Gonzales
+ + 12.97 Player_Chosen_Marcus_Semien + 12.74 Player_Chosen_Mark_Canha
+ + 11.12 Player_Chosen_Marwin_Gonzalez + 8.55 Player_Chosen_Matt_Adams
+ + 8.85 Player_Chosen_Matt_Beaty + 13.65 Player_Chosen_Matt_Chapman
+ + 11.64 Player_Chosen_Matt_Kemp + 0.48 Player_Chosen_Matt_Magill
+ + 12.47 Player_Chosen_Matt_Olson + 5.86 Player_Chosen_Matt_Strahm
+ + 0.74 Player_Chosen_Matt_Wisler + 0.02 Player_Chosen_Max_Fried
+ + 11.88 Player_Chosen_Max_Kepler + 12.25 Player_Chosen_Max_Muncy
+ + 12.07 Player_Chosen_Michael_Conforto + 2.57 Player_Chosen_Michael_King
+ + 14.19 Player_Chosen_Miguel_Sano + 3.14 Player_Chosen_Mike_Fiers
+ + 12.66 Player_Chosen_Mike_Ford + 22.02 Player_Chosen_Mike_Soroka
+ + 16.63 Player_Chosen_Mike_Yastrzemski + 15.23 Player_Chosen_Mitch_Garver
+ + 15.9 Player_Chosen_Nelson_Cruz + 5.86 Player_Chosen_Nestor_Cortes
+ + 8.07 Player_Chosen_Nick_Madrigal + 4.69 Player_Chosen_Nick_Pivetta
+ + 10.09 Player_Chosen_Nico_Hoerner + 5.15 Player_Chosen_Nik_Turley
+ + 15.28 Player_Chosen_Nolan_Arenado + 7.61 Player_Chosen_Orlando_Arcia
+ + 9.23 Player_Chosen_Ozzie_Albies + 0.01 Player_Chosen_Paul_Sewald
+ + 5.21 Player_Chosen_Pedro_Baez + 11.93 Player_Chosen_Pete_Alonso
+ + 3.56 Player_Chosen_Phillip_Diehl + 10.34 Player_Chosen_Phillip_Evans
+ + 0.01 Player_Chosen_Pierce_Johnson + 13.84 Player_Chosen_Ramon_Laureano
+ + 0.01 Player_Chosen_Ramon_Rosso + 9.95 Player_Chosen_Rhys_Hoskins
+ + 1.18 Player_Chosen_Richard_Rodriguez + 0.01 Player_Chosen_Rick_Porcello
+ + 3.49 Player_Chosen_Rico_Garcia + 0.5 Player_Chosen_Robbie_Erlin
+ + 10.67 Player_Chosen_Robinson_Cano + 10.33 Player_Chosen_Ronald_Acuna
+ + 0.02 Player_Chosen_Ross_Detwiler + 0.02 Player_Chosen_Ross_Stripling
+ + 2.13 Player_Chosen_Rowan_Wick + 11.48 Player_Chosen_Ryan_McMahon
+ + 11.8 Player_Chosen_Ryan_O'Hearn + 3.98 Player_Chosen_Ryan_Tepera
+ + 10.74 Player_Chosen_Salvador_Perez + 4.09 Player_Chosen_Scott_Alexander
+ + 1.54 Player_Chosen_Scott_Barlow + 6.86 Player_Chosen_Scott_Kingery
+ + 4.04 Player_Chosen_Sean_Manaea + 11.6 Player_Chosen_Sean_Murphy
+ + 0.02 Player_Chosen_Sean_Newcomb + 4.8 Player_Chosen_Sergio_Romo
+ + 0.24 Player_Chosen_Seth_Lugo + 2.07 Player_Chosen_Shane_Greene
+ + 0.91 Player_Chosen_Shaun_Anderson + 10.69 Player_Chosen_Stephen_Piscotty
+ + 1.67 Player_Chosen_Steve_Cishek + 0.01 Player_Chosen_Steven_Brault
+ + 11.13 Player_Chosen_Steven_Duggar + 0.02 Player_Chosen_Steven_Matz
+ + 3.8 Player_Chosen_T.J._McFarland + 0.02 Player_Chosen_Taijuan_Walker
+ + 0.41 Player_Chosen_Taylor_Rogers + 5.38 Player_Chosen_Taylor_Williams
+ + 3.57 Player_Chosen_Tim_Hill + 4.11 Player_Chosen_Tommy_Hunter
+ + 9.9 Player_Chosen_Tommy_Pham + 0.48 Player_Chosen_Tony_Watson
+ + 8.92 Player_Chosen_Tony_Wolters + 0.69 Player_Chosen_Touki_Toussaint
+ + 8.14 Player_Chosen_Travis_d'Arnaud + 10.2 Player_Chosen_Trent_Grisham
+ + 0.23 Player_Chosen_Trevor_Gott + 0.48 Player_Chosen_Trevor_Kelley
+ + 2.1 Player_Chosen_Trevor_May + 0.12 Player_Chosen_Trevor_Rosenthal
+ + 15.48 Player_Chosen_Trevor_Story + 3.64 Player_Chosen_Tyler_Anderson
+ + 0.02 Player_Chosen_Tyler_Chatwood + 5.92 Player_Chosen_Tyler_Clippard
+ + 0.15 Player_Chosen_Tyler_Duffey + 3.38 Player_Chosen_Tyler_Kinley
+ + 0.02 Player_Chosen_Tyler_Matzek + 7.61 Player_Chosen_Tyler_Wade
+ + 0.65 Player_Chosen_Tyler_Zuber + 0.02 Player_Chosen_Vince_Velasquez
+ + 27.23 Player_Chosen_Walker_Buehler + 11.19 Player_Chosen_Whit_Merrifield
+ + 8.53 Player_Chosen_Wil_Myers + 10.46 Player_Chosen_Will_Smith
+ + 12.73 Player_Chosen_Willson_Contreras + 13.19 Player_Chosen_Wilmer_Flores
+ + 9.48 Player_Chosen_Wilson_Ramos + 10.51 Player_Chosen_Yasmani_Grandal
+ + 0.48 Player_Chosen_Yency_Almonte + 11.11 Player_Chosen_Yoan_Moncada
+ + 0.02 Player_Chosen_Yohan_Ramirez + 0.02 Player_Chosen_Yu_Darvish
+ + 4.47 Player_Chosen_Zac_Grotz + 0.01 Player_Chosen_Zach_Davies
+ + 0.37 Player_Chosen_Zack_Britton + 0.01 Player_Chosen_Zack_Wheeler <= 146.95
+Bounds
+__dummy = 0
 Binaries
 Player_Chosen_A.J._Minter
 Player_Chosen_A.J._Pollock
-Player_Chosen_Aaron_Civale
+Player_Chosen_Aaron_Bummer
 Player_Chosen_Aaron_Hicks
 Player_Chosen_Aaron_Judge
-Player_Chosen_Aaron_Loup
+Player_Chosen_Aaron_Nola
+Player_Chosen_Abraham_Almonte
 Player_Chosen_Adalberto_Mondesi
-Player_Chosen_Adam_Cimber
-Player_Chosen_Adam_Duvall
+Player_Chosen_Adam_Engel
+Player_Chosen_Adam_Haseley
+Player_Chosen_Adam_Morgan
 Player_Chosen_Adam_Ottavino
-Player_Chosen_Adam_Plutko
-Player_Chosen_Albert_Pujols
-Player_Chosen_Alex_Cobb
+Player_Chosen_Adrian_Houser
+Player_Chosen_Alec_Mills
+Player_Chosen_Alex_Claudio
+Player_Chosen_Alex_Colome
 Player_Chosen_Alex_Dickerson
 Player_Chosen_Alex_Gordon
-Player_Chosen_Alex_Verdugo
-Player_Chosen_Alex_Young
 Player_Chosen_Amed_Rosario
-Player_Chosen_Andrew_Benintendi
-Player_Chosen_Andrew_Chafin
-Player_Chosen_Andrew_Heaney
-Player_Chosen_Andrew_Kittredge
+Player_Chosen_Andres_Gimenez
+Player_Chosen_Andrew_McCutchen
 Player_Chosen_Anthony_Misiewicz
-Player_Chosen_Anthony_Rendon
-Player_Chosen_Anthony_Santander
-Player_Chosen_Archie_Bradley
-Player_Chosen_Asher_Wojciechowski
-Player_Chosen_Austin_Brice
-Player_Chosen_Austin_Hays
-Player_Chosen_Austin_Riley
-Player_Chosen_Austin_Romine
-Player_Chosen_Blake_Snell
+Player_Chosen_Anthony_Rizzo
+Player_Chosen_Antonio_Senzatela
+Player_Chosen_Ashton_Goudeau
+Player_Chosen_Austin_Davis
+Player_Chosen_Austin_Hedges
+Player_Chosen_Austin_Nola
+Player_Chosen_Avisail_Garcia
+Player_Chosen_Ben_Gamel
 Player_Chosen_Blake_Treinen
-Player_Chosen_Brad_Hand
-Player_Chosen_Bradley_Zimmer
+Player_Chosen_Bobby_Wahl
 Player_Chosen_Brady_Singer
 Player_Chosen_Brandon_Belt
 Player_Chosen_Brandon_Crawford
-Player_Chosen_Brandon_Lowe
 Player_Chosen_Brandon_Nimmo
-Player_Chosen_Brandon_Workman
+Player_Chosen_Brandon_Woodruff
+Player_Chosen_Brent_Suter
+Player_Chosen_Brett_Anderson
+Player_Chosen_Brett_Gardner
 Player_Chosen_Brett_Phillips
 Player_Chosen_Brusdar_Graterol
-Player_Chosen_Bryan_Garcia
+Player_Chosen_Bryan_Reynolds
 Player_Chosen_Bryan_Shaw
-Player_Chosen_Buck_Farmer
+Player_Chosen_Bryce_Harper
+Player_Chosen_Burch_Smith
 Player_Chosen_Byron_Buxton
-Player_Chosen_C.J._Cron
 Player_Chosen_Cal_Quantrill
 Player_Chosen_Caleb_Baragar
 Player_Chosen_Caleb_Ferguson
-Player_Chosen_Cam_Bedrosian
-Player_Chosen_Cameron_Maybin
 Player_Chosen_Carl_Edwards
-Player_Chosen_Carlos_Carrasco
-Player_Chosen_Carlos_Santana
-Player_Chosen_Carson_Fulmer
-Player_Chosen_Carson_Kelly
-Player_Chosen_Cedric_Mullins
-Player_Chosen_Cesar_Hernandez
+Player_Chosen_Carlos_Estevez
+Player_Chosen_Carlos_Rodon
 Player_Chosen_Chad_Green
-Player_Chosen_Charlie_Morton
+Player_Chosen_Chad_Pinder
+Player_Chosen_Charlie_Blackmon
 Player_Chosen_Chasen_Shreve
-Player_Chosen_Chaz_Roe
+Player_Chosen_Chi_Chi_Gonzalez
+Player_Chosen_Chris_Bassitt
 Player_Chosen_Chris_Martin
+Player_Chosen_Chris_Owings
 Player_Chosen_Chris_Paddack
+Player_Chosen_Chris_Stratton
 Player_Chosen_Chris_Taylor
-Player_Chosen_Christian_Vazquez
-Player_Chosen_Christian_Walker
-Player_Chosen_Christin_Stewart
+Player_Chosen_Christian_Yelich
+Player_Chosen_Codi_Heuer
 Player_Chosen_Cody_Bellinger
 Player_Chosen_Cody_Stashak
-Player_Chosen_Cole_Sulser
-Player_Chosen_Colten_Brewer
+Player_Chosen_Cole_Irvin
+Player_Chosen_Cole_Tucker
 Player_Chosen_Conner_Menez
+Player_Chosen_Corbin_Burnes
+Player_Chosen_Corey_Knebel
 Player_Chosen_Corey_Seager
+Player_Chosen_Craig_Kimbrel
 Player_Chosen_Craig_Stammen
 Player_Chosen_DJ_LeMahieu
+Player_Chosen_Dallas_Keuchel
 Player_Chosen_Dan_Altavilla
+Player_Chosen_Dan_Winkler
+Player_Chosen_Daniel_Bard
+Player_Chosen_Daniel_Murphy
 Player_Chosen_Daniel_Vogelbach
 Player_Chosen_Danny_Duffy
 Player_Chosen_Dansby_Swanson
-Player_Chosen_Dany_Jimenez
 Player_Chosen_Darren_O'Day
 Player_Chosen_David_Bednar
-Player_Chosen_David_Fletcher
+Player_Chosen_David_Bote
+Player_Chosen_David_Dahl
 Player_Chosen_David_Hale
-Player_Chosen_David_Hess
-Player_Chosen_David_Peralta
 Player_Chosen_David_Peterson
+Player_Chosen_David_Phelps
 Player_Chosen_Dellin_Betances
 Player_Chosen_Dennis_Santana
+Player_Chosen_Deolis_Guerra
+Player_Chosen_Derek_Holland
 Player_Chosen_Devin_Smeltzer
-Player_Chosen_Diego_Castillo
+Player_Chosen_Devin_Williams
+Player_Chosen_Didi_Gregorius
+Player_Chosen_Dillon_Maples
 Player_Chosen_Dinelson_Lamet
-Player_Chosen_Domingo_Santana
-Player_Chosen_Dominic_Leone
+Player_Chosen_Dominic_Smith
 Player_Chosen_Donovan_Solano
+Player_Chosen_Dovydas_Neverauskas
 Player_Chosen_Drew_Pomeranz
 Player_Chosen_Drew_Smith
-Player_Chosen_Drew_Smyly
+Player_Chosen_Duane_Underwood
 Player_Chosen_Dustin_May
-Player_Chosen_Dwight_Smith
-Player_Chosen_Dylan_Bundy
+Player_Chosen_Dylan_Cease
 Player_Chosen_Dylan_Floro
-Player_Chosen_Eddie_Rosario
-Player_Chosen_Eduardo_Escobar
 Player_Chosen_Edwin_Diaz
+Player_Chosen_Ehire_Adrianza
+Player_Chosen_Eloy_Jimenez
 Player_Chosen_Emilio_Pagan
+Player_Chosen_Ender_Inciarte
+Player_Chosen_Eric_Lauer
+Player_Chosen_Eric_Yardley
+Player_Chosen_Erik_Gonzalez
 Player_Chosen_Evan_Longoria
-Player_Chosen_Evan_Phillips
+Player_Chosen_Evan_Marshall
 Player_Chosen_Evan_White
-Player_Chosen_Felix_Pena
 Player_Chosen_Fernando_Tatis
 Player_Chosen_Franchy_Cordero
-Player_Chosen_Francisco_Lindor
-Player_Chosen_Francisco_Mejia
-Player_Chosen_Franmil_Reyes
+Player_Chosen_Frankie_Montas
 Player_Chosen_Freddie_Freeman
+Player_Chosen_Freddy_Peralta
 Player_Chosen_Gabe_Speier
 Player_Chosen_Garrett_Richards
 Player_Chosen_Gary_Sanchez
+Player_Chosen_Geoff_Hartlieb
+Player_Chosen_German_Marquez
 Player_Chosen_Gerrit_Cole
 Player_Chosen_Giancarlo_Stanton
+Player_Chosen_Gio_Gonzalez
 Player_Chosen_Glenn_Sparkman
-Player_Chosen_Gleyber_Torres
 Player_Chosen_Grant_Dayton
 Player_Chosen_Greg_Holland
-Player_Chosen_Gregory_Soto
-Player_Chosen_Griffin_Canning
-Player_Chosen_Hansel_Robles
-Player_Chosen_Hanser_Alberto
-Player_Chosen_Harold_Castro
-Player_Chosen_Heath_Hembree
-Player_Chosen_Hector_Rondon
-Player_Chosen_Hoby_Milner
-Player_Chosen_Homer_Bailey
-Player_Chosen_Hunter_Renfroe
+Player_Chosen_Guillermo_Heredia
 Player_Chosen_Hunter_Strickland
+Player_Chosen_Ian_Hamilton
+Player_Chosen_Ian_Happ
 Player_Chosen_Ian_Kennedy
-Player_Chosen_Ivan_Nova
 Player_Chosen_J.A._Happ
+Player_Chosen_J.B._Wendelken
 Player_Chosen_J.D._Davis
-Player_Chosen_J.D._Martinez
 Player_Chosen_J.P._Crawford
-Player_Chosen_JaCoby_Jones
-Player_Chosen_Jacob_Barnes
+Player_Chosen_J.P._Feyereisen
+Player_Chosen_J.T._Realmuto
+Player_Chosen_Jace_Fry
+Player_Chosen_Jacob_Stallings
 Player_Chosen_Jacob_deGrom
-Player_Chosen_Jake_Lamb
+Player_Chosen_Jairo_Diaz
+Player_Chosen_Jake_Arrieta
+Player_Chosen_Jake_Cave
+Player_Chosen_Jake_Cronenworth
 Player_Chosen_Jake_McGee
 Player_Chosen_Jake_Newberry
-Player_Chosen_Jalen_Beeks
-Player_Chosen_James_Karinchak
+Player_Chosen_James_McCann
 Player_Chosen_James_Paxton
-Player_Chosen_Javy_Guerra
-Player_Chosen_Jeff_McNeil
+Player_Chosen_James_Pazos
+Player_Chosen_Jason_Heyward
+Player_Chosen_Javier_Baez
+Player_Chosen_Jay_Bruce
+Player_Chosen_Jean_Segura
+Player_Chosen_Jedd_Gyorko
+Player_Chosen_Jeff_Hoffman
 Player_Chosen_Jeff_Samardzija
-Player_Chosen_Jeffrey_Springs
-Player_Chosen_Jeimer_Candelario
+Player_Chosen_Jeremy_Jeffress
+Player_Chosen_Jesus_Luzardo
 Player_Chosen_Jeurys_Familia
 Player_Chosen_Jhoulys_Chacin
-Player_Chosen_Joe_Jimenez
+Player_Chosen_Jimmy_Cordero
+Player_Chosen_Joc_Pederson
 Player_Chosen_Joe_Kelly
+Player_Chosen_Joe_Musgrove
 Player_Chosen_Joey_Lucchesi
-Player_Chosen_Joey_Wendle
 Player_Chosen_Johan_Camargo
-Player_Chosen_John_Means
 Player_Chosen_Johnny_Cueto
-Player_Chosen_Jonathan_Arauz
+Player_Chosen_Jon_Gray
+Player_Chosen_Jon_Lester
 Player_Chosen_Jonathan_Holder
 Player_Chosen_Jonathan_Loaisiga
-Player_Chosen_Jonathan_Schoop
 Player_Chosen_Jorge_Lopez
-Player_Chosen_Jorge_Polanco
 Player_Chosen_Jorge_Soler
-Player_Chosen_Jose_Alvarado
+Player_Chosen_Jose_Abreu
+Player_Chosen_Jose_Alvarez
 Player_Chosen_Jose_Berrios
-Player_Chosen_Jose_Cisnero
 Player_Chosen_Jose_Marmolejos
-Player_Chosen_Jose_Martinez
-Player_Chosen_Jose_Peraza
-Player_Chosen_Jose_Ramirez
-Player_Chosen_Josh_Donaldson
-Player_Chosen_Josh_Naylor
-Player_Chosen_Josh_Osich
+Player_Chosen_Jose_Osuna
+Player_Chosen_Josh_Bell
+Player_Chosen_Josh_Hader
 Player_Chosen_Josh_Sborz
 Player_Chosen_Josh_Staumont
 Player_Chosen_Josh_Tomlin
 Player_Chosen_Julio_Urias
-Player_Chosen_Junior_Guerra
 Player_Chosen_Jurickson_Profar
 Player_Chosen_Justin_Dunn
+Player_Chosen_Justin_Grimm
+Player_Chosen_Justin_Smoak
 Player_Chosen_Justin_Turner
-Player_Chosen_Justin_Upton
 Player_Chosen_Justin_Wilson
 Player_Chosen_Justus_Sheffield
-Player_Chosen_Kendall_Graveman
 Player_Chosen_Kenley_Jansen
 Player_Chosen_Kenta_Maeda
-Player_Chosen_Ketel_Marte
+Player_Chosen_Keston_Hiura
 Player_Chosen_Kevin_Gausman
-Player_Chosen_Kevin_Ginkel
 Player_Chosen_Kevin_McCarthy
-Player_Chosen_Kevin_Pillar
-Player_Chosen_Keynan_Middleton
+Player_Chosen_Kevin_Newman
+Player_Chosen_Khris_Davis
 Player_Chosen_Kirby_Yates
-Player_Chosen_Kohl_Stewart
-Player_Chosen_Kole_Calhoun
+Player_Chosen_Kris_Bryant
+Player_Chosen_Kyle_Freeland
+Player_Chosen_Kyle_Hendricks
 Player_Chosen_Kyle_Lewis
+Player_Chosen_Kyle_Ryan
+Player_Chosen_Kyle_Schwarber
 Player_Chosen_Kyle_Seager
 Player_Chosen_Kyle_Wright
 Player_Chosen_Kyle_Zimmer
+Player_Chosen_Leury_Garcia
+Player_Chosen_Lewis_Thorpe
+Player_Chosen_Liam_Hendriks
 Player_Chosen_Logan_Webb
+Player_Chosen_Lucas_Giolito
 Player_Chosen_Luis_Arraez
 Player_Chosen_Luis_Avilan
 Player_Chosen_Luis_Perdomo
+Player_Chosen_Luis_Robert
 Player_Chosen_Luke_Jackson
-Player_Chosen_Luke_Voit
-Player_Chosen_Luke_Weaver
-Player_Chosen_Madison_Bumgarner
 Player_Chosen_Maikel_Franco
 Player_Chosen_Mallex_Smith
 Player_Chosen_Manny_Machado
-Player_Chosen_Manuel_Margot
+Player_Chosen_Manny_Pina
 Player_Chosen_Marcell_Ozuna
 Player_Chosen_Marco_Gonzales
-Player_Chosen_Marcus_Walden
-Player_Chosen_Martin_Perez
-Player_Chosen_Matt_Andriese
-Player_Chosen_Matt_Barnes
-Player_Chosen_Matt_Hall
+Player_Chosen_Marcus_Semien
+Player_Chosen_Mark_Canha
+Player_Chosen_Marwin_Gonzalez
+Player_Chosen_Matt_Adams
+Player_Chosen_Matt_Beaty
+Player_Chosen_Matt_Chapman
+Player_Chosen_Matt_Kemp
 Player_Chosen_Matt_Magill
+Player_Chosen_Matt_Olson
 Player_Chosen_Matt_Strahm
 Player_Chosen_Matt_Wisler
-Player_Chosen_Matthew_Boyd
 Player_Chosen_Max_Fried
 Player_Chosen_Max_Kepler
 Player_Chosen_Max_Muncy
-Player_Chosen_Max_Stassi
-Player_Chosen_Merrill_Kelly
-Player_Chosen_Michael_Chavis
 Player_Chosen_Michael_Conforto
-Player_Chosen_Michael_Fulmer
 Player_Chosen_Michael_King
 Player_Chosen_Michael_Wacha
-Player_Chosen_Miguel_Andujar
-Player_Chosen_Miguel_Cabrera
-Player_Chosen_Miguel_Castro
+Player_Chosen_Miguel_Del_Pozo
 Player_Chosen_Miguel_Sano
-Player_Chosen_Mike_Brosseau
-Player_Chosen_Mike_Clevinger
-Player_Chosen_Mike_Mayers
+Player_Chosen_Mike_Fiers
+Player_Chosen_Mike_Ford
 Player_Chosen_Mike_Soroka
-Player_Chosen_Mike_Trout
 Player_Chosen_Mike_Yastrzemski
-Player_Chosen_Mike_Zunino
 Player_Chosen_Mitch_Garver
-Player_Chosen_Mookie_Betts
-Player_Chosen_Mychal_Givens
-Player_Chosen_Nathan_Eovaldi
 Player_Chosen_Nelson_Cruz
 Player_Chosen_Nestor_Cortes
-Player_Chosen_Nick_Ahmed
-Player_Chosen_Nick_Anderson
-Player_Chosen_Nick_Wittgren
-Player_Chosen_Noe_Ramirez
-Player_Chosen_Oliver_Drake
-Player_Chosen_Oliver_Perez
-Player_Chosen_Oscar_Mercado
+Player_Chosen_Nick_Madrigal
+Player_Chosen_Nick_Margevicius
+Player_Chosen_Nick_Pivetta
+Player_Chosen_Nico_Hoerner
+Player_Chosen_Nik_Turley
+Player_Chosen_Nolan_Arenado
+Player_Chosen_Orlando_Arcia
 Player_Chosen_Ozzie_Albies
-Player_Chosen_Pablo_Sandoval
-Player_Chosen_Pat_Valaika
-Player_Chosen_Patrick_Sandoval
-Player_Chosen_Paul_Fry
 Player_Chosen_Paul_Sewald
 Player_Chosen_Pedro_Baez
-Player_Chosen_Pedro_Severino
 Player_Chosen_Pete_Alonso
-Player_Chosen_Phil_Maton
-Player_Chosen_Phillips_Valdez
+Player_Chosen_Phillip_Diehl
+Player_Chosen_Phillip_Evans
 Player_Chosen_Pierce_Johnson
+Player_Chosen_Ramon_Laureano
+Player_Chosen_Ramon_Rosso
 Player_Chosen_Randy_Dobnak
-Player_Chosen_Renato_Nunez
-Player_Chosen_Rich_Hill
-Player_Chosen_Richard_Bleier
+Player_Chosen_Rhys_Hoskins
+Player_Chosen_Richard_Rodriguez
 Player_Chosen_Rick_Porcello
 Player_Chosen_Rico_Garcia
-Player_Chosen_Rio_Ruiz
-Player_Chosen_Robbie_Ray
+Player_Chosen_Robbie_Erlin
+Player_Chosen_Robinson_Cano
 Player_Chosen_Ronald_Acuna
+Player_Chosen_Ross_Detwiler
 Player_Chosen_Ross_Stripling
-Player_Chosen_Ryan_Brasier
-Player_Chosen_Ryan_Buchter
+Player_Chosen_Rowan_Wick
+Player_Chosen_Ryan_McMahon
 Player_Chosen_Ryan_O'Hearn
-Player_Chosen_Ryan_Thompson
-Player_Chosen_Ryan_Weber
-Player_Chosen_Ryan_Yarbrough
+Player_Chosen_Ryan_Tepera
 Player_Chosen_Salvador_Perez
-Player_Chosen_Sam_Coonrod
-Player_Chosen_Sandy_Leon
 Player_Chosen_Scott_Alexander
 Player_Chosen_Scott_Barlow
+Player_Chosen_Scott_Kingery
+Player_Chosen_Sean_Manaea
+Player_Chosen_Sean_Murphy
 Player_Chosen_Sean_Newcomb
 Player_Chosen_Sergio_Romo
 Player_Chosen_Seth_Lugo
-Player_Chosen_Shane_Bieber
 Player_Chosen_Shane_Greene
 Player_Chosen_Shaun_Anderson
-Player_Chosen_Shawn_Armstrong
-Player_Chosen_Shohei_Ohtani
-Player_Chosen_Starling_Marte
-Player_Chosen_Stefan_Crichton
+Player_Chosen_Stephen_Piscotty
+Player_Chosen_Steve_Cishek
+Player_Chosen_Steven_Brault
+Player_Chosen_Steven_Duggar
 Player_Chosen_Steven_Matz
+Player_Chosen_T.J._McFarland
 Player_Chosen_Taijuan_Walker
-Player_Chosen_Tanner_Scott
-Player_Chosen_Taylor_Clarke
 Player_Chosen_Taylor_Rogers
-Player_Chosen_Taylor_Ward
-Player_Chosen_Taylor_Widener
 Player_Chosen_Taylor_Williams
 Player_Chosen_Tim_Hill
-Player_Chosen_Tommy_Kahnle
-Player_Chosen_Tommy_La_Stella
-Player_Chosen_Tommy_Milone
+Player_Chosen_Tommy_Hunter
 Player_Chosen_Tommy_Pham
 Player_Chosen_Tony_Watson
+Player_Chosen_Tony_Wolters
 Player_Chosen_Touki_Toussaint
-Player_Chosen_Travis_Lakins
+Player_Chosen_Travis_d'Arnaud
 Player_Chosen_Trent_Grisham
 Player_Chosen_Trevor_Gott
+Player_Chosen_Trevor_Kelley
 Player_Chosen_Trevor_May
 Player_Chosen_Trevor_Rosenthal
-Player_Chosen_Ty_Buttrey
+Player_Chosen_Trevor_Story
+Player_Chosen_Trevor_Williams
 Player_Chosen_Tyler_Anderson
+Player_Chosen_Tyler_Chatwood
 Player_Chosen_Tyler_Clippard
 Player_Chosen_Tyler_Duffey
-Player_Chosen_Tyler_Flowers
-Player_Chosen_Tyler_Glasnow
-Player_Chosen_Tyler_Heineman
+Player_Chosen_Tyler_Kinley
 Player_Chosen_Tyler_Matzek
+Player_Chosen_Tyler_Wade
 Player_Chosen_Tyler_Zuber
-Player_Chosen_Wade_LeBlanc
+Player_Chosen_Vince_Velasquez
 Player_Chosen_Walker_Buehler
 Player_Chosen_Wandy_Peralta
 Player_Chosen_Whit_Merrifield
 Player_Chosen_Wil_Myers
 Player_Chosen_Will_Smith
-Player_Chosen_Willy_Adames
+Player_Chosen_Willson_Contreras
+Player_Chosen_Wilmer_Flores
 Player_Chosen_Wilson_Ramos
-Player_Chosen_Xander_Bogaerts
-Player_Chosen_Yandy_Diaz
-Player_Chosen_Yoan_Lopez
-Player_Chosen_Yoenis_Cespedes
+Player_Chosen_Yasmani_Grandal
+Player_Chosen_Yency_Almonte
+Player_Chosen_Yoan_Moncada
 Player_Chosen_Yohan_Ramirez
-Player_Chosen_Yonny_Chirinos
+Player_Chosen_Yu_Darvish
 Player_Chosen_Yusei_Kikuchi
-Player_Chosen_Zac_Gallen
 Player_Chosen_Zac_Grotz
 Player_Chosen_Zach_Davies
-Player_Chosen_Zach_Plesac
+Player_Chosen_Zach_Eflin
 Player_Chosen_Zack_Britton
-Player_Chosen_Zack_Godley
-Player_Chosen_Zack_Littell
+Player_Chosen_Zack_Wheeler
 End
