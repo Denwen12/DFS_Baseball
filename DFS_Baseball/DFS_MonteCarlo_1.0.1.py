@@ -110,7 +110,7 @@ print('data cleaned')
 total = 100000
 x = 1
 total_df = pd.DataFrame()
-while x <= 100:
+while x <= 10000:
     # ____________________________________________________________________________ Create Random Outcomes
     slate3 = slate2.copy()
     slate3['RV'] = np.random.normal(loc=slate3['FanDuel'], scale=slate3['std'])
