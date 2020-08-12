@@ -7,20 +7,18 @@ import glob
 import time
 import lxml.html
 import datetime as dt
+start_time = time.time()
 
 months = [3,4,5,6,7,8,9,10]
 days = list(range(1,32))
 years = [2014,2015,2016,2017,2018,2019,2020]
-
-months = [3,6,7]
-days = list(range(1,3))
-years = [2018,2019]
+#years = [2018,2019,2020]
 
 total_df = pd.DataFrame()
 for y in years:
     for m in months:
         for d in days:
-            time.sleep(4)
+            time.sleep(3)
             try:
                 stats_url = "http://rotoguru1.com/cgi-bin/byday.pl?game=fd&month=" + str(m) + "&day=" + str(d) + "&year=" + str(y)
                 response = requests.get(stats_url).text
@@ -36,9 +34,7 @@ for y in years:
                      except:
                         pass
                      test.append(cells)
-                     #print(cells)
                 df = pd.DataFrame(test)
-                #print(lxml.html.tostring(table, pretty_print=True).decode())
                 df = df.rename(columns={0:'Player',1:'Points',2:'Salary',3:'Team'})
                 df['Points'] = pd.to_numeric(df['Points'] ,errors='coerce')
                 df = df[df['Points'].notnull()]
@@ -50,14 +46,14 @@ for y in years:
                 date = dt.date(y,m,d)
                 date = date.strftime('%x')
                 df['Date'] = date
-                print(df.head())
+                print(y,m,d)
                 total_df = total_df.append(df)
             except:
                 pass
 
 
 total_df['Date'] = pd.to_datetime(total_df['Date'])
-
-writer = pd.ExcelWriter('df.xlsx',engine='xlsxwriter')
+writer = pd.ExcelWriter('Salary_Database_2014_2020.xlsx',engine='xlsxwriter')
 total_df.to_excel(writer)
 writer.save()
+print("--- %s minutes ---" % round((time.time() - start_time)/60,3))

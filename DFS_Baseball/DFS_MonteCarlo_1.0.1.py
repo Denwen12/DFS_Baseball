@@ -5,6 +5,7 @@ import pandas as pd
 from bs4 import BeautifulSoup
 import requests
 import glob
+
 # TODO: positions fix
 # TODO: correlation - pos and neg
 # ____________________________________________________________________________ start clock
@@ -74,6 +75,7 @@ except:
                                                                                   'RBI', 'SB', 'CS','BB', 'SO', 'Yahoo', 'FanDuel', 'DraftKings', 'W','IP', 'TBF']].apply(pd.to_numeric)
     master['Name'] = np.where(master['Name'] == 'Nicholas Castellanos','Nick Castellanos',master['Name'])
     master['Name'] = np.where(master['Name'] == 'Cedric Mullins II','Cedric Mullins',master['Name'])
+    master['Name'] = np.where(master['Name'] == 'Isiah Kiner-Falefa', 'Isiah Kiner-Falefa', master['Name'])
     del master['Pos']
     master = pd.merge(master,fd[['Nickname','Salary','Injury Indicator','Position']],how='left',left_on='Name',right_on='Nickname')
     master = master.rename(columns={'Position':'Pos'})
@@ -110,7 +112,7 @@ print('data cleaned')
 total = 100000
 x = 1
 total_df = pd.DataFrame()
-while x <= 10000:
+while x <= 5000:
     # ____________________________________________________________________________ Create Random Outcomes
     slate3 = slate2.copy()
     slate3['RV'] = np.random.normal(loc=slate3['FanDuel'], scale=slate3['std'])
@@ -119,14 +121,14 @@ while x <= 10000:
     # ____________________________________________________________________________ Define Problem
     prob = LpProblem("DFS_Lineup",LpMaximize)
     player_items = list(slate3['Name'])
-    points = dict(zip(player_items,slate3['FanDuel']))
+    points = dict(zip(player_items,slate3['RV']))
     cost = dict(zip(player_items,slate3['Salary']))
     budget = 35000
     # ____________________________________________________________________________ Constraints
     player_chosen = LpVariable.dicts("Player_Chosen",player_items,0,1,cat='Integer')
     prob += lpSum([points[i]*player_chosen[i] for i in player_items]), "Total Cost of Players"
     prob += lpSum([cost[f] * player_chosen[f] for f in player_items]) <= budget, "dollarMaximum"
-    prob += lpSum([points[f] * player_chosen[f] for f in player_items]) <= (total - 0.01), "pointMaximum"
+    #prob += lpSum([points[f] * player_chosen[f] for f in player_items]) <= (total - 0.01), "pointMaximum"
     # ____________________________________________________________________________ maximum players per team
     teams = slate3['Team'].unique().tolist()
     teams.sort()
@@ -200,7 +202,7 @@ while x <= 10000:
     print(output[['Name', 'Pos', 'Team', 'Game', 'RV', 'Salary', 'FanDuel']])
     print(x)
     x = x + 1
-    total = output['FanDuel'][0:9].sum()
+    total = output['RV'][0:9].sum()
     dist.append(round(total))
     total_df = total_df.append(output[0:9])
 # ____________________________________________________________________________ write to excel

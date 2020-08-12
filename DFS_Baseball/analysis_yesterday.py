@@ -19,7 +19,7 @@ yesterday = dt.datetime.fromtimestamp(yesterday)
 yesterday = yesterday.strftime('%x').replace("/","_")
 
 #path = "DFS_Lineup_" + str(yesterday) + ".xlsx"
-path = "DFS_Lineup_" + "07_31_20" + ".xlsx"
+path = "/Users/ryangerda/PycharmProjects/DFS_Baseball/Archive/Data/DFS_Lineup_" + "07_31_20" + ".xlsx"
 total = pd.read_excel(path, sheet_name='total_df')
 slate = pd.read_excel(path, sheet_name='slate')
 
@@ -77,3 +77,5 @@ bob.groupby(['max']).agg({'Score': "mean"})
 
 rob = m[m['max'] == 4]
 
+score_total['Date'] = '2020-7-31'
+score_total['Date'] = pd.to_datetime(score_total['Date'])

@@ -64,3 +64,21 @@ N
 DFS_Baseball/analysis_today.py,e/b/ebb68bdf6440bc8c6d986fa0ff964c1093b793b0
 R
 "DFS_Baseball/analysis_yesterday.py,3/e/3e11b23e07f96cee4caeea269d43c33612a327f4
+b
+2Data/FanDuel-MLB-2020-08-04-47661-players-list.csv,f/9/f9ad196e60d668aade2b780a375fb8f612787b9d
+b
+2Data/FanDuel-MLB-2020-08-05-47717-players-list.csv,c/3/c3b5818c5bf94db01411bd1ee7f95684e4de9309
+D
+DFS_Baseball/guru.py,4/5/451f32658fefc4cc6ad3a6d78b95844ab94a4548
+J
+DFS_Baseball/Regression.py,8/c/8c4aaa67d620293e8a694e1eaebaad63dc25c561
+b
+2Data/FanDuel-MLB-2020-08-06-47801-players-list.csv,4/b/4ba3d56ad40597632606357628c228e27ac93ac8
+C
+Data/teams-2019.csv,5/4/547aaf261988a10ac885d172386829adcbcef472
+M
+Data/batting-platoon-2019.csv,d/9/d96fe9570aec41e7e886cc6c211f6e5cd9a56701
+D
+DFS_Baseball/test.py,4/f/4ff5d0db5a14da5eab5c56fa692a9f126ad7f693
+D
+DFS_Baseball/Ehlo.py,9/5/952fe653e3125ee32196df1e56fd491e08428fae
