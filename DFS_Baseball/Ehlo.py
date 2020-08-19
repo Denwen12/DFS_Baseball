@@ -26,6 +26,7 @@ for i in range(1903, 2020):
     print(i)
 
 regSeason = pd.concat(regSeason)
+print(regSeason.shape)
 regSeason['Postseason'] = 0
 # MLB Playoff History
 ws = retrosheet.world_series_logs()
@@ -183,7 +184,10 @@ mlb['myPregameElo'] = 1500
 mlb['oppPregameElo'] = 1500
 mlb['myPostgameElo'] = 1500
 mlb['oppPostgameElo'] = 1500
-hjkgkhgkjhg
+
+print(mlb.shape)
+print(mlb.columns)
+jhgkjhgkjg
 for i in range(1000, 0,-1):
     rows = i
     print(i)

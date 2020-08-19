@@ -1,5 +1,4 @@
 import time
-from pulp import *
 import numpy as np
 import pandas as pd
 from bs4 import BeautifulSoup
@@ -8,7 +7,6 @@ import glob
 import pybaseball
 import seaborn as sns
 import mlbgame
-import statsapi
 import math
 import datetime as dt
 
@@ -79,3 +77,82 @@ rob = m[m['max'] == 4]
 
 score_total['Date'] = '2020-7-31'
 score_total['Date'] = pd.to_datetime(score_total['Date'])
+
+
+path = '/Users/ryangerda/jupyter/Ehlo_2020-08-12.xlsx'
+ehlo = pd.read_excel(path)
+ehlo['year'] = ehlo['date'].dt.year
+ehlo['month'] = ehlo['date'].dt.month
+ehlo['day'] = ehlo['date'].dt.day
+ehlo = ehlo[ehlo['month'] == 9]
+ehlo = ehlo[ehlo['day'].isin(['28','29','30'])]
+simp = ehlo[['team','year','myPregameElo']]
+simp = simp.groupby(['team','year']).agg({'myPregameElo':'mean'})
+simp = simp.reset_index()
+
+simp = simp.drop_duplicates(keep='first')
+date = ehlo[ehlo['date'] == '7/31/2020']
+
+score_total['Team'] = score_total.Team.replace({'Angels':'ANA',
+                                                'Athletics':'OAK',
+                                                'Red Sox':'BOS',
+                                                'Rays':'TBR',
+                                                'Reds':'CIN',
+                                                'Royals':'KCR',
+                                                'Indians':'CLE',
+                                                'Cubs':'CHC',
+                                                'Rockies':'COL',
+                                                'Diamondbacks':'ARI',
+                                                'White Sox':'CHW',
+                                                'Tigers':'DET',
+                                                'Giants':'SFG',
+                                                'Astros':'HOU',
+                                                'Padres':'SDP',
+                                                'Dodgers':'LAD',
+                                                'Brewers':'MIL',
+                                                'Twins':'MIN',
+                                                'Nationals':'WAS',
+                                                'Mets':'NYM',
+                                                'Yankees':'NYY',
+                                                'Braves':'ATL',
+                                                'Phillies':'PHI',
+                                                'Orioles':'BAL',
+                                                'Cardinals':'STL',
+                                                'Pirates':'PIT',
+                                                'Mariners':'SEA',
+                                                'Rangers':'TEX',
+                                                'Blue Jays':'TOR',
+                                                'Marlins':'FLO'})
+
+ok = pd.merge(score_total,date,left_on='Team',right_on='team',how='left')
+final = ok[['FanDuel','Salary','std', 'RV','Score','max','myPregameElo', 'oppPregameElo']]
+
+
+import pybaseball
+import pandas as pd
+
+
+pybaseball.bwar_pitch()
+
+pitch = pybaseball.bwar_pitch()
+bat = pybaseball.bwar_bat()
+batg = bat.groupby(['team_ID','year_ID']).agg({'WAR':'sum'})
+batg = batg.reset_index()
+batg['team_ID'] = batg['team_ID'].replace({'MIA':'FLO','WSN':'WAS'})
+
+writer = pd.ExcelWriter('war.xlsx', engine='xlsxwriter')
+pitch.to_excel(writer,sheet_name='pitch')
+bat.to_excel(writer,sheet_name='bat')
+writer.save()
+
+
+merged = pd.merge(batg,simp,left_on=['team_ID','year_ID'],right_on=['team','year'],how='left')
+merged = merged[merged['year'] >= 1993]
+correlate = merged[['WAR','myPregameElo']]
+correlate['new'] = correlate['myPregameElo'] - 1465.6
+correlate['Ehlo_per_war'] = correlate['new']/correlate['WAR']
+
+
+writer = pd.ExcelWriter('cor.xlsx', engine='xlsxwriter')
+correlate.to_excel(writer,sheet_name='pitch')
+writer.save()

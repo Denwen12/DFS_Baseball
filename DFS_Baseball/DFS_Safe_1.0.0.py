@@ -5,17 +5,20 @@ import pandas as pd
 from bs4 import BeautifulSoup
 import requests
 import glob
+# make sure working directory is set to top DFS_Baseball folder
 # ____________________________________________________________________________ start clock
 start_time = time.time()
 clock = time.strftime('%x')
 clock = clock.replace("/","_")
 clock2 = time.strftime('%Y-%m-%d')
 # ____________________________________________________________________________ import fanduel data
-csv = glob.glob('/Users/ryangerda/PycharmProjects/DFS_Baseball/Data/FanDuel-MLB-' + str(clock2) + '*.csv')
+path = 'Data/FanDuel-MLB-' + str(clock2) + '*.csv'
+csv = glob.glob(path)
 fd = pd.read_csv(csv[0])
+fd = fd[~fd['Injury Indicator'].isin(['IL','DTD','NA'])]
 # ____________________________________________________________________________ import fangraphs projections
 try:
-    path = "/Users/ryangerda/PycharmProjects/DFS_Baseball/DFS_Baseball/DFS_Lineup_" + str(clock) + ".xlsx"
+    path = "DFS_Baseball/DFS_Lineup_" + str(clock) + ".xlsx"
     slate = pd.read_excel(path, sheet_name='slate')
 except:
     groups = ['bat','pit']
@@ -58,7 +61,9 @@ except:
                                                                                   'RBI', 'SB', 'CS','BB', 'SO', 'Yahoo', 'FanDuel', 'DraftKings', 'W','IP', 'TBF']].apply(pd.to_numeric)
     master['Name'] = np.where(master['Name'] == 'Nicholas Castellanos','Nick Castellanos',master['Name'])
     master['Name'] = np.where(master['Name'] == 'Cedric Mullins II','Cedric Mullins',master['Name'])
-    master = pd.merge(master,fd[['Nickname','Salary','Injury Indicator']],how='left',left_on='Name',right_on='Nickname')
+    del master['Pos']
+    master = pd.merge(master,fd[['Nickname','Salary','Injury Indicator','Position']],how='left',left_on='Name',right_on='Nickname')
+    master = master.rename(columns={'Position':'Pos'})
     slate = master[master['Salary'].notna()]
     slate['Name'] = slate['Name'].str.replace(' Jr.', '')
 
